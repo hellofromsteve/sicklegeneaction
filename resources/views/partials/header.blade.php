@@ -52,13 +52,13 @@
                                             </ul>
                                         </li>
 
-                                        <li><a href="event-details.html">What We Do</a></li>
-                                        <li><a href="about.html">About SCD</a></li>
-                                        <li><a href="cause.html">News</a>
+                                        <li><a href="#">What We Do</a></li>
+                                        <li><a href="#">About SCD</a></li>
+                                        <li><a href="#">News</a>
 
                                         </li>
-                                        <li><a href="gallery.html">Contact</a></li>
-                                        <li><a href="blog.html">How To Help</a>
+                                        <li><a href="#">Contact</a></li>
+                                        <li><a href="#">How To Help</a>
 
                                         </li>
 
