@@ -3,7 +3,7 @@
     <!-- Slider Area Start -->
     <div class="slider-area">
         <div class="slider-wrapper owl-carousel">
-            <div class="single-slide" style="background-image: url('img/slider/2.jpg');">
+            <div class="single-slide" style="background-image: url('img/slider/slidermain.jpg');">
                 <div class="banner-content">
                     <div class="container">
                         <div class="row">
@@ -12,7 +12,7 @@
                                     <div class="text-content">
                                         <h1><span>Early Action</span> Saves Lives</h1>
 
-                                        <p>Detecting and treating Sickle Cell Disease early can make all the difference. Help spread the word and ensure every warrior gets the care they deserve from day one.</p>
+
                                         <div class="banner-btn">
                                             <a class="default-btn" href="https://goo.gl/HtFL2a">Learn More</a>
                                         </div>
@@ -23,25 +23,7 @@
                     </div>
                 </div>
             </div>
-            <div class="single-slide" style="background-image: url('img/slider/1.jpg');">
-                <div class="banner-content">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-8">
-                                <div class="text-content-wrapper">
-                                    <div class="text-content">
-                                        <h1><span>Empower</span> Sickle Cell Warriors</h1>
-                                        <p>Join us in raising awareness, providing support, and creating opportunities for those living with Sickle Cell Disease. Together, we can inspire strength, hope, and change.</p>
-                                        <div class="banner-btn">
-                                            <a class="default-btn" href="https://goo.gl/HtFL2a">Learn More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
 
         </div>
     </div>

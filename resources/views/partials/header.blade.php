@@ -1,5 +1,6 @@
 <!-- Header Area Start -->
 <header class="header-area">
+    <!--
     <div class="header-top bg-theme">
         <div class="container">
             <div class="row">
@@ -24,6 +25,7 @@
             </div>
         </div>
     </div>
+    -->
     <div class="mainmenu-area header-sticky bg-white">
         <div class="container">
             <div class="row">
@@ -43,12 +45,12 @@
                                         </li>
                                         <li class="{{ request()->routeIs('about') || request()->routeIs('about*')  ? 'active' : '' }}"> <a href="{{ route('about') }}">About Us</a>
                                             <ul>
-                                                <li><a href="#">Our Inspiration</a></li>
-                                                <li><a href="#">Our GroundWork</a></li>
-                                                <li><a href="#">Our Mission</a></li>
-                                                <li><a href="#">Our Board</a></li>
-                                                <li><a href="#">Our Goals</a></li>
-                                                <li><a href="#">Our Values</a></li>
+                                                <li><a href="{{ route('about.inspiration') }}">Our Inspiration</a></li>
+                                                <li><a href="{{ route('about.groundwork') }}">Our GroundWork</a></li>
+                                                <li><a href="{{ route('about.mission') }}">Our Mission</a></li>
+                                                <li><a href="{{ route('about.board') }}">Our Board</a></li>
+                                                <li><a href="{{ route('about.goals') }}">Our Goals</a></li>
+                                                <li><a href="{{ route('about.values') }}">Our Values</a></li>
                                             </ul>
                                         </li>
 
