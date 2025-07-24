@@ -1146,9 +1146,9 @@ textarea:focus {
 /*  2.2 Mainmenu Area
 /*---------------------------------------- */
 
-/*.logo {*/
-/*  padding: 40px 0;*/
-/*}*/
+.logo {
+  padding: 10px 10px;
+}
 
 
 

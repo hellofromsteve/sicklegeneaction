@@ -1,27 +1,27 @@
 <!-- Footer Area Start -->
 <footer class="footer-area">
-    <div class="footer-top bg-dark-2 pt-100 pb-90 pt-sm-60 pb-sm-10">
+    <div class="footer-top bg-dark-2 pt-50 pb-50 pt-sm-60 pb-sm-10">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-footer-widget">
                         <div class="footer-logo">
-                            <a href="index.html"><img src="img/logo/footer-logo.png" alt="JIBON"></a>
+                            <a href="index.html"><img src="img/logo/sgaf-logo.png" alt="Sickle Gene Action Foundation"></a>
                         </div>
                         <div class="footer-info">
-                            <p>Contrary to popular belief, Lorem Ipsum is srandom text. It has roots in a piece of classical literature from 45 BC, making it over 2000 years old.</p>
+                            <p>Transforming Lives Through Awareness.</p>
                             <div class="footer-address">
                                 <div class="s-footer-item">
                                     <i class="zmdi zmdi-home"></i>
-                                    <span>Your Address Goes Here, Street Goes Here, Your Country Name Here.</span>
+                                    <span>44 Jungle Avenue, East Legon - Ghana</span>
                                 </div>
                                 <div class="s-footer-item">
                                     <i class="zmdi zmdi-phone"></i>
-                                    <span>+11 222 333, +44 555 6666</span>
+                                    <span>+233 552 288 935</span>
                                 </div>
                                 <div class="s-footer-item">
                                     <i class="zmdi zmdi-email"></i>
-                                    <span>yourmail@example.com</span>
+                                    <span>info@sicklegeneactionghana.com</span>
                                 </div>
                             </div>
                         </div>
@@ -35,23 +35,20 @@
                             <li><a href="#">Gallery</a></li>
                             <li><a href="#">FAQ</a></li>
                             <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Terms of use</a></li>
-                            <li><a href="blog.html">Latest News</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-6">
                     <div class="single-footer-widget">
-                        <h4>Our Project</h4>
+                        <h4>About Us</h4>
                         <ul class="footer-list">
-                            <li><a href="#">Water Supply</a></li>
-                            <li><a href="#">Education for all</a></li>
-                            <li><a href="#">Treatment</a></li>
-                            <li><a href="#">Food Serving</a></li>
-                            <li><a href="#">Cloth</a></li>
-                            <li><a href="#">Shelter Project</a></li>
-                            <li><a href="#">Child Rights</a></li>
+                            <li><a href="#">What We Do</a></li>
+                            <li><a href="#">Our Goals</a></li>
+                            <li><a href="#">Our Inspiration</a></li>
+                            <li><a href="#">Our Board</a></li>
+
+
                         </ul>
                     </div>
                 </div>
@@ -70,7 +67,7 @@
                                     </div>
                                 </form>
                             </div>
-                            <p>Subscribe to our email newsletter to get update, discount and special offers.</p>
+
                         </div>
                         <div class="social-media">
                             <a href="#"><i class="fa fa-facebook"></i></a>
@@ -85,7 +82,7 @@
     </div>
     <div class="footer-bottom text-center bg-dark-3">
         <div class="container">
-            <span class="footer-text">Copyright © <a href="#">Jibon</a>  All Right Reserved.</span>
+            <span class="footer-text">Copyright © <a href="https://turndalesolutions.com" target="_blank">Turndale Solutions</a>  All Right Reserved.</span>
         </div>
     </div>
 </footer>

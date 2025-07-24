@@ -4,15 +4,21 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <span class="ht-header-msg"><i class="zmdi zmdi-email"></i>info@sicklegeneactionghana.com</span>
-                    <span class="ht-header-msg"><i class="zmdi zmdi-phone"></i>+233552288935</span>
+                    <span class="ht-header-msg">
+                        <i class="zmdi zmdi-email"></i>
+                        <a class="text-white" href="mailto:info@sicklegeneactionghana.com">info@sicklegeneactionghana.com</a>
+                    </span>
+                    <span class="ht-header-msg">
+                        <i class="zmdi zmdi-phone"></i>
+                        <a class="text-white"  href="tel:+233552288935">+23355 228 8935</a>
+                    </span>
                 </div>
                 <div class="col-md-6">
                     <div class="social-media float-end">
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>
                         <a href="#"><i class="fa fa-instagram"></i></a>
-                        <a href="#"><i class="fa fa-pinterest"></i></a>
+
                     </div>
                 </div>
             </div>
@@ -23,7 +29,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-4">
                     <div class="logo">
-                        <a href="#"><img src="{{ asset('img/newsgaf.png') }}" alt="Sickle Gene Action Foundation Logo"></a>
+                        <a href="#"><img src="{{ asset('img/logo/sgaflogo.png') }}" alt="Sickle Gene Action Foundation Logo"></a>
                     </div>
                 </div>
                 <div class="col-lg-9 col-md-8 d-none d-md-block">
@@ -32,19 +38,27 @@
                             <div class="main-menu mean-menu">
                                 <nav>
                                     <ul>
-                                        <li class="active"><a href="index.html">Home</a>
+                                        <li class="{{ request()->routeIs('home') ? 'active' : '' }}"><a href="{{ route('home') }}">Home</a>
 
                                         </li>
-                                        <li><a href="about.html">About SCD</a></li>
-                                        <li><a href="event.html">About Us</a>
-
+                                        <li class="{{ request()->routeIs('about') || request()->routeIs('about*')  ? 'active' : '' }}"> <a href="{{ route('about') }}">About Us</a>
+                                            <ul>
+                                                <li><a href="#">Our Inspiration</a></li>
+                                                <li><a href="#">Our GroundWork</a></li>
+                                                <li><a href="#">Our Mission</a></li>
+                                                <li><a href="#">Our Board</a></li>
+                                                <li><a href="#">Our Goals</a></li>
+                                                <li><a href="#">Our Values</a></li>
+                                            </ul>
                                         </li>
+
                                         <li><a href="event-details.html">What We Do</a></li>
+                                        <li><a href="about.html">About SCD</a></li>
                                         <li><a href="cause.html">News</a>
 
                                         </li>
                                         <li><a href="gallery.html">Contact</a></li>
-                                        <li><a href="blog.html">How Can You Help</a>
+                                        <li><a href="blog.html">How To Help</a>
 
                                         </li>
 
