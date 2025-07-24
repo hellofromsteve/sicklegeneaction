@@ -35,19 +35,19 @@
 
             <div class="row row-cols-2 row-cols-sm-3 row-cols-md-5 g-4">
                 <div class="col">
-                    <img src="{{ asset('img/warriors/baby.jpg') }}" alt="Healthy Baby" class="img-fluid rounded shadow-sm">
+                    <img src="{{ asset('img/about/baby.jpg') }}" alt="Healthy Baby" class="img-fluid rounded shadow-sm">
                 </div>
                 <div class="col">
-                    <img src="{{ asset('img/warriors/child.jpg') }}" alt="Healthy Child" class="img-fluid rounded shadow-sm">
+                    <img src="{{ asset('img/about/child.jpg') }}" alt="Healthy Child" class="img-fluid rounded shadow-sm">
                 </div>
                 <div class="col">
-                    <img src="{{ asset('img/warriors/adolescent.jpg') }}" alt="Healthy Adolescent" class="img-fluid rounded shadow-sm">
+                    <img src="{{ asset('img/about/adolescent.jpg') }}" alt="Healthy Adolescent" class="img-fluid rounded shadow-sm">
                 </div>
                 <div class="col">
-                    <img src="{{ asset('img/warriors/young-adult.jpg') }}" alt="Healthy Young Adult" class="img-fluid rounded shadow-sm">
+                    <img src="{{ asset('img/about/young-adult.jpg') }}" alt="Healthy Young Adult" class="img-fluid rounded shadow-sm">
                 </div>
                 <div class="col">
-                    <img src="{{ asset('img/warriors/older-adult.jpg') }}" alt="Healthy Older Adult" class="img-fluid rounded shadow-sm">
+                    <img src="{{ asset('img/about/older-adult.jpg') }}" alt="Healthy Older Adult" class="img-fluid rounded shadow-sm">
                 </div>
             </div>
         </div>
