@@ -20,24 +20,13 @@
 
         <div class="pb-50">
             <div class="container ">
-                @php
-                    $topics = [
-                        'The Sickle Cell Foundation of Ghana – A Source of National and Global Leadership',
-                        'Newborn Screening (NBS) and Sickle Cell Clinics – Crucial for Saving Lives',
-                        'Hydroxyurea (HU) – A Disease-Altering Drug Available Through a Public-Private Partnership',
-                        'Global Partnerships and Collaborations – A Benefit to Sickle Cell Warriors and Families',
-                        'Centers of Excellence (COEs) for Management of Sickle Cell Disease in Regional Hospitals',
-                        'The Kumasi Center for Sickle Cell Disease and Blood – For Treatment, Training, and Research',
-                        'A Model for Compassion, Commitment, Collaboration, Cooperation, and Collegiality – Essential for Partnerships',
-                        'The SPARCo Treatment Guidelines – The Way Forward Until a Cure is Widely Accessible and Affordable',
-                    ];
-                @endphp
+
 
                 <div class="row ">
                     @foreach($topics as $topic)
                         <div class="col-12 col-md-10 mb-4">
-                            <a href="{{ route('home') }}" class="d-block text-primary fw-bold text-decoration-none">
-                                {{ $topic }}
+                            <a href="{{ route($topic['route']) }}" class="d-block text-primary fw-bold text-decoration-none">
+                                {{ $topic['title'] }}
                             </a>
                         </div>
                     @endforeach

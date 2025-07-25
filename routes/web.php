@@ -1,13 +1,26 @@
 <?php
 
 use App\Http\Controllers\Pages\AboutController;
+use App\Http\Controllers\Pages\GroundworkController;
 use App\Http\Controllers\Pages\HomeController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/about', [AboutController::class, 'index'])->name('about');
 Route::get('/about/inspiration', [AboutController::class, 'inspiration'])->name('about.inspiration');
+
+
 Route::get('/about/groundwork', [AboutController::class, 'groundwork'])->name('about.groundwork');
+Route::get('/about/groundwork/one', [GroundworkController::class, 'one'])->name('groundwork.one');
+Route::get('/about/groundwork/two', [GroundworkController::class, 'two'])->name('groundwork.two');
+Route::get('/about/groundwork/three', [GroundworkController::class, 'three'])->name('groundwork.three');
+Route::get('/about/groundwork/four', [GroundworkController::class, 'four'])->name('groundwork.four');
+Route::get('/about/groundwork/five', [GroundworkController::class, 'one'])->name('groundwork.five');
+Route::get('/about/groundwork/six', [GroundworkController::class, 'one'])->name('groundwork.six');
+Route::get('/about/groundwork/seven', [GroundworkController::class, 'one'])->name('groundwork.seven');
+Route::get('/about/groundwork/eight', [GroundworkController::class, 'one'])->name('groundwork.eight');
+
+
 Route::get('/about/mission', [AboutController::class, 'mission'])->name('about.mission');
 Route::get('/about/goals', [AboutController::class, 'goals'])->name('about.goals');
 Route::get('/about/staff', [AboutController::class, 'staff'])->name('about.staff');

@@ -58,7 +58,42 @@ class AboutController extends Controller
     }
     public function groundwork()
     {
-        return view('pages.about.groundwork');
+
+    $topics = [
+        [
+            'title' => 'The Sickle Cell Foundation of Ghana – A Source of National and Global Leadership',
+            'route' => 'groundwork.one',
+        ],
+        [
+            'title' => 'Newborn Screening (NBS) and Sickle Cell Clinics – Crucial for Saving Lives',
+            'route' =>  'groundwork.two',
+        ],
+        [
+            'title' => 'Hydroxyurea (HU) – A Disease-Altering Drug Available Through a Public-Private Partnership',
+            'route' => 'groundwork.three',
+        ],
+        [
+            'title' => 'Global Partnerships and Collaborations – A Benefit to Sickle Cell Warriors and Families',
+            'route' => 'groundwork.four',
+        ],
+        [
+            'title' => 'Centers of Excellence (COEs) for Management of Sickle Cell Disease in Regional Hospitals',
+            'route' => 'groundwork.five',
+        ],
+        [
+            'title' => 'The Kumasi Center for Sickle Cell Disease and Blood – For Treatment, Training, and Research',
+            'route' => 'groundwork.six',
+        ],
+        [
+            'title' => 'A Model for Compassion, Commitment, Collaboration, Cooperation, and Collegiality – Essential for Partnerships',
+            'route' => 'groundwork.seven',
+        ],
+        [
+            'title' => 'The SPARCo Treatment Guidelines – The Way Forward Until a Cure is Widely Accessible and Affordable',
+            'route' => 'groundwork.eight',
+        ],
+    ];
+        return view('pages.about.groundwork', compact('topics'));
     }
 
     public function mission()

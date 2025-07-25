@@ -14,7 +14,7 @@
 
                 <div class="text-justify pt-10" >
                     <p class="text-black"><strong>To help preserve and build upon the extensive groundwork that has been laid in Ghana, over the past 30 years, and to support efforts to scale up strategies that have been proven to save lives and significantly reduce the pain and disability that our Sickle Cell Warriors and their Families experience.</strong></p>
-                       </div>
+                </div>
             </div>
         </div>
 
@@ -50,6 +50,11 @@
                     <img src="{{ asset('img/about/healthy_old.jpg') }}" alt="Healthy Older Adult" class="img-fluid rounded shadow-sm">
                 </div>
             </div>
+
+            <p class=" mt-10">
+                With early action and proven strategies, helping Sickle Cell Warriors, from birth to old age,
+                <br>live lives free of <span class="fst-italic">preventable</span> pain and suffering.
+            </p>
         </div>
     </div>
     <!-- Our Mission End -->
