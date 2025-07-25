@@ -1,0 +1,77 @@
+<?php
+
+return [
+    [
+        'id' => 1,
+        'name' => 'Eric Sampane-Donkor',
+        'position' => 'Board Member',
+        'photo' => 'img/staff/ama.jpg',
+        'alt' => 'Eric Sampane-Donkor Image',
+        'bio' => 'Eric Sampane-Donkor - Bio',
+    ],
+    [
+        'id' => 2,
+        'name' => 'Kofi Amekudzi',
+        'position' => 'Board Member',
+        'alt' => 'Kofi Amekudzi Image',
+        'photo' => 'img/staff/kwame.jpg',
+        'bio' => 'Kofi Amekudzi Bio',
+    ],
+    [
+        'id' => 3,
+        'name' => 'Vera Dannsa II',
+        'position' => 'Board Member',
+        'photo' => 'img/staff/abena.jpg',
+        'alt' => 'Vera Dannsa Image',
+        'bio' => 'Vera Dannsa Bio',
+    ],
+    [
+        'id' => 4,
+        'name' => 'Roland Addo-Hammond',
+        'position' => 'Board Member',
+        'photo' => 'img/staff/abena.jpg',
+        'alt' => 'Roland Addo-Hammond Image',
+        'bio' => 'Roland Addo-Hammond Bio',
+    ],
+    [
+        'id' => 5,
+        'name' => 'Daniel Ampomah Oppong',
+        'position' => 'Board Member',
+        'photo' => 'img/staff/abena.jpg',
+        'alt' => 'Daniel Ampomah Oppong Image',
+        'bio' => 'Daniel Ampomah Oppong Bio',
+    ],
+    [
+        'id' => 6,
+        'name' => 'Marian-Acheampong',
+        'position' => 'Board Member',
+        'photo' => 'img/staff/abena.jpg',
+        'alt' => 'Marian-Acheampong Image',
+        'bio' => 'Marian-Acheampong Bio',
+    ],
+    [
+        'id' => 7,
+        'name' => 'Collins Nuntwiri Nuamah',
+        'position' => 'Board Member',
+        'photo' => 'img/staff/abena.jpg',
+        'alt' => 'Collins Nuntwiri Nuamah Image',
+        'bio' => 'Collins Nuntwiri Nuamah Bio',
+    ],
+    [
+        'id' => 8,
+        'name' => 'Mame Yaa Aboagye',
+        'position' => 'Board Member',
+        'photo' => 'img/staff/abena.jpg',
+        'alt' => 'Mame Yaa Aboagye Image',
+        'bio' => 'Mame Yaa AboagyeBio',
+    ],
+    [
+        'id' => 9,
+        'name' => 'Samuel Kwadjo A. Appenteng',
+        'position' => 'Board Member',
+        'photo' => 'img/staff/abena.jpg',
+        'alt' => 'Samuel Kwadjo Appenteng Image',
+        'bio' => 'Samuel Kwadjo Appenteng Bio',
+    ],
+
+];

@@ -1,0 +1,56 @@
+<x-layout title="Our Advisory Board">
+
+    <!-- Our Advisory Board Start -->
+    <div class="help-area pt-10 pb-115 ptb-sm-60 ">
+        <div class="container">
+            <div class="section-title text-center ">
+                <h1 class="text-danger">Our Advisory Board</h1>
+            </div>
+        </div>
+
+        <div class="container my-5">
+
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                @foreach($advisory as $person)
+                    <div class="col">
+                        <div class="card h-100 text-center shadow-sm">
+                            <img src="{{ asset($person['photo']) }}" class="card-img-top img-fluid" alt="{{ $person['alt'] }}">
+                            <div class="card-body">
+                                <h5 class="card-title mb-1">{{ $person['name'] }}</h5>
+                                <p class="text-muted mb-2">{{ $person['position'] }}</p>
+                                <button class="btn btn-sm btn-outline-danger" data-bs-toggle="modal" data-bs-target="#bioModal{{ $person['id'] }}">
+                                    View Bio
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="bioModal{{ $person['id'] }}" tabindex="-1" aria-labelledby="bioModalLabel{{ $person['id'] }}" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="bioModalLabel{{ $person['id'] }}">{{ $person['name'] }}</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body text-start">
+                                    <p class="mb-1"><strong>Position:</strong> {{ $person['position'] }}</p>
+                                    <hr>
+                                    <p>{{ $person['bio'] }}</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-sm btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                @endforeach
+            </div>
+        </div>
+
+    </div>
+    <!-- Our Advisory Board End -->
+
+
+
+</x-layout>

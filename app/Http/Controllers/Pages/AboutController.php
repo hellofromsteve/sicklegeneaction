@@ -68,32 +68,65 @@ class AboutController extends Controller
 
     public function goals()
     {
-        return view('pages.about.index');
+        $goals = [
+            [
+                'title' => 'Newborn Screening',
+                'route' => 'about.inspiration',
+            ],
+            [
+                'title' => 'Catch-Up Screening',
+                'route' => 'about.groundwork',
+            ],
+            [
+                'title' => 'Outreach Services',
+                'route' => 'about.board',
+            ],
+            [
+                'title' => 'Medicine, Technologies & Innovations',
+                'route' => 'about.mission',
+            ],
+            [
+                'title' => 'A Skilled & Well-Trained Workforce',
+                'route' => 'about.goals',
+            ],
+            [
+                'title' => 'Facilities, Equipment, Supplies & Infrastructure',
+                'route' => 'about.staff',
+            ],
+
+        ];
+        return view('pages.about.goals', compact('goals'));
     }
 
     public function staff()
     {
-        return view('pages.about.index');
+
+        $staff = require database_path('datas/staff-info.php');
+
+        return view('pages.about.staff', compact('staff'));
     }
 
     public function board()
     {
-        return view('pages.about.index');
+        $board = require database_path('datas/board-info.php');
+
+        return view('pages.about.board', compact('board'));
     }
 
     public function advisory()
     {
-        return view('pages.about.index');
+        $advisory = require database_path('datas/advisory-info.php');
+        return view('pages.about.advisory', compact('advisory'));
     }
 
     public function memberships()
     {
-        return view('pages.about.index');
+        return view('pages.about.memberships');
     }
 
     public function values()
     {
-        return view('pages.about.index');
+        return view('pages.about.values');
     }
 
 
