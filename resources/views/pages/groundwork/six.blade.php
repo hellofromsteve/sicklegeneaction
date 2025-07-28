@@ -6,8 +6,8 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10">6. The Kumasi Sickle Cell and Blood Centre</h4>
-                <h5 class="pt-20 px-4 mb-5">Ghana’s Groundwork for Providing a Center of Excellence </h5>
+                <h4 class="pt-10 text-black">6. The Kumasi Sickle Cell and Blood Centre</h4>
+                <h5 class="pt-20 px-4 mb-5 text-black">Ghana’s Groundwork for Providing a Center of Excellence </h5>
 
                 <div class="pb-20">
                     <div class="container">

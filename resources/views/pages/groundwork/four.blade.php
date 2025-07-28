@@ -74,7 +74,7 @@
                     <p class="text-black mb-0">
                         2005: 5th Symposium (with formal inauguration of the Foundation at Symposium Banquet);
                     </p>
-                    <p class="ps-5 pe-4 mb-0">
+                    <p class="ps-5 pe-4 mb-0 text-black">
                         The Foundation co-organized all other Symposia held in Accra, Ghana, with CSCC-CHOP (starting with the 2005 Symposium);
                     </p>
                 </div>
@@ -83,7 +83,7 @@
                     <p class="text-black mb-0">
                         2010: 1st Global Congress on SCD
                     </p>
-                    <p class="ps-5 pe-4 mb-0">
+                    <p class="ps-5 pe-4 mb-0 text-black">
                         37 countries represented to commemorate 100th Anniversary of the first scientific publication in 1910 about a person with SCD;
                     </p>
                 </div>
@@ -126,7 +126,7 @@
                     </div>
 
 
-                    <p class="text-center fw-bold mt-1">
+                    <p class="text-center fw-bold mt-1 text-black">
                         Founding Members of the Global Sickle Cell Disease Network<br>
                         <a class=" text-primary mt-5" href="https://www.globalsicklecelldisease.org/about-sickle-cell-disease">Read Here</a>
                         <br>

@@ -6,8 +6,8 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10">8. The SPARCo Standards of Care for Sickle Cell Disease in Sub-Saharan Africa — August 2023</h4>
-                <h5 class="pt-20 px-4 mb-5">Ghana’s Groundwork for Evidence-Based Treatment Guidelines Tailored for Sub-Saharan Africa</h5>
+                <h4 class="pt-10 text-black">8. The SPARCo Standards of Care for Sickle Cell Disease in Sub-Saharan Africa — August 2023</h4>
+                <h5 class="pt-20 px-4 mb-5 text-black">Ghana’s Groundwork for Evidence-Based Treatment Guidelines Tailored for Sub-Saharan Africa</h5>
 
 
                 <div class="row g-4 align-items-center">
@@ -53,7 +53,7 @@
                     </div>
                 </div>
 
-                <p class="text-center fw-bold mt-4">
+                <p class="text-center fw-bold mt-4 text-black">
                     Standards of Care for Sickle Cell Disease in Sub-Saharan Africa <br>
                     <a class="text-primary" href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.1052179/full"> Click To Read</a>
                 </p>
@@ -66,9 +66,9 @@
             <div class="container">
                 <div class="container my-2">
 
-                    <h4 class="text-center">SPARCo Standards of Care for Sickle Cell Disease in Sub-Saharan Africa</h4>
-                    <h5 class="text-center mt-2">From the FOREWORD</h5>
-                    <h5 class="text-center mt-2">By the SPARCo List of Contributors</h5>
+                    <h4 class="text-center text-black">SPARCo Standards of Care for Sickle Cell Disease in Sub-Saharan Africa</h4>
+                    <h5 class="text-center mt-2 text-black">From the FOREWORD</h5>
+                    <h5 class="text-center mt-2 text-black">By the SPARCo List of Contributors</h5>
                     <p class="text-center fw-bold mt-2 text-black">
                         “This work was done under the esteemed leadership of Prof Ohene-Frempong (KOF) (Sickle Cell Foundation of Ghana)
                         <br>who demonstrated exceptional dedication and unwavering commitment to improving the lives of SCD patients.
