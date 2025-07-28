@@ -1,34 +1,30 @@
-<x-layout title="Our Groundworks">
+<x-layout title="Our Groundwork - Three">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">
-        <div class="container">
-            <div class="section-title text-center ">
-                <h1 class="text-danger">Our Groundworks</h1>
-            </div>
-        </div>
+
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10">Hydroxyurea (HU) – A Disease-Altering Drug Available Through a Public-Private Partnership</h4>
-                <h5 class="pt-20">2018-2022: Ghana’s Groundwork for Providing Hydroxyurea (2018-2022)</h5>
+                <h4 class="pt-10">3. Hydroxyurea (HU) – A Disease-Altering Drug Available Through a Public-Private Partnership</h4>
+                <h5 class="pt-20 px-4">2018-2022: Ghana’s Groundwork for Providing Hydroxyurea (2018-2022)</h5>
 
-                <div class="text-justify pt-10" >
+                <div class="text-justify pt-10 px-4" >
                     <p class="text-black">Prof. Ohene-Frempong championed a partnership between the Ghana government and Novartis that was launched in 2019 to improve SCD diagnosis and care including establishing new SCD centres and expanding affordable access to hydroxyurea therapy.</p>
                 </div>
 
-                <div class="text-justify pt-10" >
+                <div class="text-justify pt-10 px-4" >
                     <p class="text-black">In 2018, in preparation for the establishment in 2019 of a broad-based Public Private Partnership in SCD involving the Ghana government and Novartis, a group of parents asked Novartis to provide HU at a lower price for use in Ghana. </p>
                 </div>
 
-                <h5 class="pt-20">The Public-Private Partnership lead to a number of important outcomes, including: </h5>
+                <h5 class="pt-20 px-4">The Public-Private Partnership lead to a number of important outcomes, including: </h5>
 
-                <div class="accordion pt-40" id="hydroxyureaAccordion">
+                <div class="accordion pt-40 px-4" id="hydroxyureaAccordion">
 
                     <!-- 1. Initial Source -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading0">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse0" aria-expanded="false" aria-controls="collapse0">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse0" aria-expanded="false" aria-controls="collapse0">
                                 • An Initial Source of Hydroxyurea
                             </button>
                         </h2>
@@ -42,7 +38,7 @@
                     <!-- 2. Ahodwo Program -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading1">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
                                 • The Ahodwo Program [pronounced A-HU(n)-jo]
                             </button>
                         </h2>
@@ -56,7 +52,7 @@
                     <!-- 3. Treatment Protocol -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading2">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                 • The Hydroxyurea Treatment Protocol
                             </button>
                         </h2>
@@ -70,7 +66,7 @@
                     <!-- 4. Ahodwo App -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading3">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                 • The Ahodwo Program App
                             </button>
                         </h2>
@@ -84,7 +80,7 @@
                     <!-- 5. Treatment Teams -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading4">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                 • Hydroxyurea Treatment Teams at Centres Around Ghana
                             </button>
                         </h2>
@@ -98,7 +94,7 @@
                     <!-- 6. Steering Committee -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading5">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
                                 • The Hydroxyurea Steering Committee
                             </button>
                         </h2>
@@ -112,7 +108,7 @@
                     <!-- 7. Monitoring and Evaluation -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading6">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
                                 • The Monitoring and Evaluation Program
                             </button>
                         </h2>
@@ -126,7 +122,7 @@
                     <!-- 8. Drone Delivery -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading7">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
                                 • A Potential Drone Delivery System
                             </button>
                         </h2>
@@ -144,7 +140,7 @@
                     <!-- 9. NHIS Announcement -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading8">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
                                 • The Welcomed Announcement Regarding Improved Access to Hydroxyurea
                             </button>
                         </h2>

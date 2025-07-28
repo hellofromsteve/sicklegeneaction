@@ -25,8 +25,8 @@
                 <div class="row ">
                     @foreach($topics as $topic)
                         <div class="col-12 col-md-10 mb-4">
-                            <a href="{{ route($topic['route']) }}" class="d-block text-primary fw-bold text-decoration-none">
-                                {{ $topic['title'] }}
+                            <a href="{{ route($topic['route']) }}" class="d-block text-primary fw-bolder fs-6 text-decoration-none">
+                                {{ $topic['id'] }}.  {{ $topic['title'] }}
                             </a>
                         </div>
                     @endforeach

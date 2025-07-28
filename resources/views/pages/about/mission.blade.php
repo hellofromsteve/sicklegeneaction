@@ -7,7 +7,7 @@
                 <h1 class="text-danger">Our Mission & Vision</h1>
             </div>
         </div>
-        <div class="pb-50">
+        <div class="">
             <div class="container">
 
                 <h3 class="pt-20">Our Mision</h3>
@@ -29,9 +29,8 @@
             </div>
         </div>
 
-        <div class="container text-center my-5">
+        <div class="container text-center my-2">
             <!-- Section Title -->
-            <h4 class="fw-bold mb-4">Upbeat and Hopeful Images of Sickle Cell Warriors <br> Living Well Throughout Their Lives</h4>
 
             <div class="row row-cols-2 row-cols-sm-3 row-cols-md-5 g-4">
                 <div class="col">
@@ -51,9 +50,9 @@
                 </div>
             </div>
 
-            <p class=" mt-10">
-                With early action and proven strategies, helping Sickle Cell Warriors, from birth to old age,
-                <br>live lives free of <span class="fst-italic">preventable</span> pain and suffering.
+            <p class="mt-10 fw-bolder">
+                With early action and proven strategies, we can help Sickle Cell Warriors, from birth to old age,
+                <br>live lives free of preventable pain and suffering.
             </p>
         </div>
     </div>

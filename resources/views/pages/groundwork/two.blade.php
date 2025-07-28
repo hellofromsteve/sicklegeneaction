@@ -1,66 +1,58 @@
-<x-layout title="Our Groundworks">
+<x-layout title="Our Groundwork - Two">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">
-        <div class="container">
-            <div class="section-title text-center ">
-                <h1 class="text-danger">Our Groundworks</h1>
-            </div>
-        </div>
+
         <div class="pb-50">
             <div class="container">
 
 
-                <h4 class="pt-10">Ghana’s Groundwork for Newborn Screening (1992-2022)</h4>
+                <h4 class="pt-10 ">2. Newborn Screening (NBS) and Sickle Cell Clinics – Crucial for Saving Lives</h4>
+                <h5 class="pt-30 px-4">Ghana’s Groundwork for Newborn Screening (1992-2022)</h5>
 
                 <!-- Full Historical Accordion Timeline -->
-                <div class="accordion mt-20" id="timelineAccordion">
+                <div class="accordion mt-20 px-4" id="timelineAccordion">
                     <!-- 1989-1990 -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading1989">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1989" aria-expanded="false" aria-controls="collapse1989">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1989" aria-expanded="false" aria-controls="collapse1989">
                                 1989-1990: Initial Interest - A Son of Ghana’s Concern for Africa
                             </button>
                         </h2>
                         <div id="collapse1989" class="accordion-collapse collapse" aria-labelledby="heading1989" data-bs-parent="#timelineAccordion">
                             <div class="accordion-body">
-                                <p>In 1989/90, Prof. Kwaku Ohene-Frempong, MD, then Associate Professor of Pediatrics, University of Pennsylvania, Attending Hematologist, and Director, Comprehensive Sickle Cell Center, Children’s Hospital of Philadelphia, and a son of Ghana, returned to Ghana.</p>
-                                <p>He returned to meet with officials of the Ministry of Health, Korle Bu Teaching Hospital, and Noguchi Memorial Institute for Medical Research (Noguchi). The subject was “Newborn Screening for Sickle Cell Disease in Ghana”.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- 1992 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="heading1992">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1992" aria-expanded="false" aria-controls="collapse1992">
-                                1993-2008: The “Newborn Screening for Sickle Cell Disease in Ghana” Study – The First in Sub-Saharan Africa
-                            </button>
-                        </h2>
-                        <div id="collapse1992" class="accordion-collapse collapse" aria-labelledby="heading1992" data-bs-parent="#timelineAccordion">
-                            <div class="accordion-body">
-                                <p>•	The project was a collaborative effort of the Comprehensive Sickle Cell Center of the Children's Hospital of Philadelphia, University of Pennsylvania, Noguchi Memorial Institute for Medical Research (University of Ghana), School of Medical Sciences (Kwame Nkrumah University of Science and Technology), Komfo Anokye Teaching Hospital the Ministry of Health of Ghana. </p>
-                                <p>
-                                    •	Prof. Ohene-Frempong was the Principal Investigator of the research grant and Prof. Francis K. Nkrumah of Noguchi was the
-                                    Co-Investigator and overall supervisor of the Ghana component of the project.
-                                </p>
-                                <p>
-                                    •	With this study, the team established the need for and the feasibility of establishing a national newborn screening programme adapted to       the needs of sub-Saharan Africa. The study was funded by a U.S. National Institutes of Health (NIH) 5-grant though the Comprehensive Sickle Cell Program at the Children’s Hospital of Philadelphia
-                                </p>
+                                <p>• In 1989/90, Prof. Kwaku Ohene-Frempong, MD, then Associate Professor of Pediatrics, University of Pennsylvania, Attending Hematologist, and Director, Comprehensive Sickle Cell Center, Children’s Hospital of Philadelphia, and a son of Ghana, returned to Ghana.</p>
+                                <p>• He returned to meet with officials of the Ministry of Health, Korle Bu Teaching Hospital, and Noguchi Memorial Institute for Medical Research (Noguchi). The subject was “Newborn Screening for Sickle Cell Disease in Ghana”.</p>
                             </div>
                         </div>
                     </div>
 
                     <!-- 1993-2008 -->
                     <div class="accordion-item">
+                        <h2 class="accordion-header" id="heading1992">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1992" aria-expanded="false" aria-controls="collapse1992">
+                                1993-2008: The “Newborn Screening for Sickle Cell Disease in Ghana” Study – The First in Sub-Saharan Africa
+                            </button>
+                        </h2>
+                        <div id="collapse1992" class="accordion-collapse collapse" aria-labelledby="heading1992" data-bs-parent="#timelineAccordion">
+                            <div class="accordion-body">
+                                <p>• The project was a collaborative effort of the Comprehensive Sickle Cell Center of the Children's Hospital of Philadelphia, University of Pennsylvania, Noguchi Memorial Institute for Medical Research (University of Ghana), School of Medical Sciences (Kwame Nkrumah University of Science and Technology), Komfo Anokye Teaching Hospital the Ministry of Health of Ghana.</p>
+                                <p>• Prof. Ohene-Frempong was the Principal Investigator of the research grant and Prof. Francis K. Nkrumah of Noguchi was the Co-Investigator and overall supervisor of the Ghana component of the project.</p>
+                                <p>• With this study, the team established the need for and the feasibility of establishing a national newborn screening programme adapted to the needs of sub-Saharan Africa. The study was funded by a U.S. National Institutes of Health (NIH) 5-grant through the Comprehensive Sickle Cell Program at the Children’s Hospital of Philadelphia.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 1992 -->
+                    <div class="accordion-item">
                         <h2 class="accordion-header" id="heading1993">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1993" aria-expanded="false" aria-controls="collapse1993">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1993" aria-expanded="false" aria-controls="collapse1993">
                                 1992: The First Sickle Cell Clinic for Newborn Screening and Clinical Care
                             </button>
                         </h2>
                         <div id="collapse1993" class="accordion-collapse collapse" aria-labelledby="heading1993" data-bs-parent="#timelineAccordion">
                             <div class="accordion-body">
-                                <p>•	A Sickle Cell Clinic was opened in December 1992 with 10 patients, in preparation for the launching of the Newborn Screening Study.</p>
+                                <p>• A Sickle Cell Clinic was opened in December 1992 with 10 patients, in preparation for the launching of the Newborn Screening Study.</p>
                             </div>
                         </div>
                     </div>
@@ -68,7 +60,7 @@
                     <!-- Results 1993-2008 -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingResults1993">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseResults1993" aria-expanded="false" aria-controls="collapseResults1993">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseResults1993" aria-expanded="false" aria-controls="collapseResults1993">
                                 1993-2008: Results of the “Newborn Screening for Sickle Cell Disease in Ghana” Study
                             </button>
                         </h2>
@@ -85,7 +77,7 @@
                     <!-- Results 2004 -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingResults2004">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseResults2004" aria-expanded="false" aria-controls="collapseResults2004">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseResults2004" aria-expanded="false" aria-controls="collapseResults2004">
                                 2004: The Sickle Cell Foundation of Ghana
                             </button>
                         </h2>
@@ -99,7 +91,7 @@
                     <!-- 2005 and 2005-2015 Nested -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading2004">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2005" aria-expanded="false" aria-controls="collapse2005">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2005" aria-expanded="false" aria-controls="collapse2005">
                                 2005 - 2015: Groundwork Laid by the Sickle Cell Foundation of Ghana
                             </button>
                         </h2>
@@ -107,10 +99,9 @@
                             <div class="accordion-body">
                                 <div class="accordion" id="nestedAccordion2004">
 
-
                                     <div class="accordion-item">
                                         <h2 class="accordion-header" id="nestedHeading2005">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nestedCollapse2005">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#nestedCollapse2005">
                                                 •	2005: Local Institutional Administration of Newborn Screening by the Sickle Cell Foundation of Ghana
                                             </button>
                                         </h2>
@@ -121,10 +112,9 @@
                                         </div>
                                     </div>
 
-
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nestedCollapse2015">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#nestedCollapse2015">
                                                 • 2006-2007: The Proposal to the Ghana Ministry of Health for Government Funding for Newborn Screening
                                             </button>
                                         </h2>
@@ -135,11 +125,10 @@
                                         </div>
                                     </div>
 
-
                                     <!-- 2008 -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2008">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2008">
                                                 • 2008: Recognition for the Newborn Screening Efforts
                                             </button>
                                         </h2>
@@ -154,7 +143,7 @@
                                     <!-- 2010 - Programme -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2010_programme">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2010_programme">
                                                 • 2010: The National Newborn Screening Programme for Sickle Cell Disease
                                             </button>
                                         </h2>
@@ -168,7 +157,7 @@
                                     <!-- 2010 - Committee -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2010_committee">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2010_committee">
                                                 • 2010: The Newborn Screening Technical Advisory Committee
                                             </button>
                                         </h2>
@@ -182,7 +171,7 @@
                                     <!-- 2011 - Workshops -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2011_workshops">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2011_workshops">
                                                 • 2011: Regional Training Workshops in Sickle Cell Disease and Newborn Screening
                                             </button>
                                         </h2>
@@ -196,7 +185,7 @@
                                     <!-- 2011 - Coordinating Agency -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2011_agency">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2011_agency">
                                                 • 2011: Appointment as the National Coordinating Agency for the National Newborn Screening for Sickle Cell Disease
                                             </button>
                                         </h2>
@@ -210,7 +199,7 @@
                                     <!-- 2011 - Screening Plan -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2011_plan">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2011_plan">
                                                 • 2011: A Detailed Plan for the National Newborn Screening for Sickle Cell Disease from the NBS Technical Advisory Committee
                                             </button>
                                         </h2>
@@ -224,7 +213,7 @@
                                     <!-- 2015 - GENECIS -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2015_genecis">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2015_genecis">
                                                 • 2015: The Genetic Education and Counselling for Sickle Cell Conditions in Ghana (GENECIS-Ghana)
                                             </button>
                                         </h2>
@@ -235,7 +224,6 @@
                                         </div>
                                     </div>
 
-
                                 </div>
                             </div>
                         </div>
@@ -244,7 +232,7 @@
                     <!-- 2016-2022 Nested -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading2016">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2016" aria-expanded="false" aria-controls="collapse2016">
+                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2016" aria-expanded="false" aria-controls="collapse2016">
                                 2016-2022: The Formation of partnerships to provide external funding to Scale Up Newborn Screening in Ghana
                             </button>
                         </h2>
@@ -255,7 +243,7 @@
                                     <!-- 2016 - CONSA -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2016_consa">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2016_consa">
                                                 • 2016: The American Society of Hematology Consortium on Newborn Screening in Africa for Sickle Cell Disease (CONSA)
                                             </button>
                                         </h2>
@@ -269,7 +257,7 @@
                                     <!-- 2016 - Training Technologists -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2016_techs">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2016_techs">
                                                 • 2016: Training of Additional Technologists for the Newborn Screening Laboratory
                                             </button>
                                         </h2>
@@ -283,7 +271,7 @@
                                     <!-- 2016 - Training Technologists -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2016_techs">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2016_techs">
                                                 • 2016: Training of Additional Technologists for the Newborn Screening Laboratory
                                             </button>
                                         </h2>
@@ -297,7 +285,7 @@
                                     <!-- 2016 - Screening -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2016_screening">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2016_screening">
                                                 • 2016: Active Sickle Cell Newborn Screening Sites
                                             </button>
                                         </h2>
@@ -311,7 +299,7 @@
                                     <!-- 2017 - Screening Site Collaboration -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2017_collab">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2017_collab">
                                                 •	2017: The Guidelines for the Management of Sickle Cell Disease in Ghana (2017)
                                             </button>
                                         </h2>
@@ -325,7 +313,7 @@
                                     <!-- 2018 - Screening Results -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2018_results">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2018_results">
                                                 •	2017: The Collaboration to Increase the Number of Screening Sites
                                             </button>
                                         </h2>
@@ -339,7 +327,7 @@
                                     <!-- 2018 - Mobile App -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2018_app">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2018_app">
                                                 • 2018: The Mobile Application for the Management of Newborn Screening
                                             </button>
                                         </h2>
@@ -353,7 +341,7 @@
                                     <!-- 2020 - CHAI Partnership -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2020_chai">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2020_chai">
                                                 • 2020: The Clinton Health Access Initiative – SCFG Partnership (2020)
                                             </button>
                                         </h2>
@@ -369,7 +357,7 @@
                                     <!-- 2022 - Hospitals Screening -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2022_hospitals">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2022_hospitals">
                                                 • 2022: Hospitals Conducting Newborn Screening
                                             </button>
                                         </h2>
@@ -383,7 +371,7 @@
                                     <!-- 1995–2022 - Database -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1995_2022_database">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1995_2022_database">
                                                 • 1995–2022: The Newborn Screening Database and Comprehensive Data
                                             </button>
                                         </h2>
@@ -402,7 +390,7 @@
             </div>
         </div>
 
-        <div class="pb-50">
+        <div class="pb-20">
             <div class="container">
                 <div class="container my-2">
 
@@ -420,8 +408,8 @@
                     </div>
 
                     <h5 class="text-center fw-bold mt-4 mb-10">
-                        <small class="fw-normal text-muted">
-                            Source of Photos: Mary Lamptey
+                        <small class="fw-bold ">
+                            Source of Photos: RN Mary Lamptey
                         </small>
                     </h5>
 

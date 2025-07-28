@@ -15,10 +15,10 @@ Route::get('/about/groundwork/one', [GroundworkController::class, 'one'])->name(
 Route::get('/about/groundwork/two', [GroundworkController::class, 'two'])->name('groundwork.two');
 Route::get('/about/groundwork/three', [GroundworkController::class, 'three'])->name('groundwork.three');
 Route::get('/about/groundwork/four', [GroundworkController::class, 'four'])->name('groundwork.four');
-Route::get('/about/groundwork/five', [GroundworkController::class, 'one'])->name('groundwork.five');
-Route::get('/about/groundwork/six', [GroundworkController::class, 'one'])->name('groundwork.six');
-Route::get('/about/groundwork/seven', [GroundworkController::class, 'one'])->name('groundwork.seven');
-Route::get('/about/groundwork/eight', [GroundworkController::class, 'one'])->name('groundwork.eight');
+Route::get('/about/groundwork/five', [GroundworkController::class, 'five'])->name('groundwork.five');
+Route::get('/about/groundwork/six', [GroundworkController::class, 'six'])->name('groundwork.six');
+Route::get('/about/groundwork/seven', [GroundworkController::class, 'seven'])->name('groundwork.seven');
+Route::get('/about/groundwork/eight', [GroundworkController::class, 'eight'])->name('groundwork.eight');
 
 
 Route::get('/about/mission', [AboutController::class, 'mission'])->name('about.mission');
