@@ -6,8 +6,8 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10">4. Global Partnerships and Collaborations – A Benefit to Sickle Cell Warriors and Families </h4>
-                <h5 class="pt-20 px-4">Ghana’s Groundwork for Partnerships and Collaborations  </h5>
+                <h4 class="pt-10 text-black">4. Global Partnerships and Collaborations – A Benefit to Sickle Cell Warriors and Families </h4>
+                <h5 class="pt-20 px-4 text-black">Ghana’s Groundwork for Partnerships and Collaborations  </h5>
 
                 <div class="text-justify pt-10 px-4" >
                     <p class="text-black">“His knowledge and expertise have been drawn upon by colleagues in Brazil, the Middle East, India, and Europe to help establish SCD treatment centres in their countries.”</p>

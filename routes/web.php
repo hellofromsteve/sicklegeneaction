@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Pages\AboutController;
+use App\Http\Controllers\Pages\GoalsController;
 use App\Http\Controllers\Pages\GroundworkController;
 use App\Http\Controllers\Pages\HomeController;
 use Illuminate\Support\Facades\Route;
@@ -20,6 +21,13 @@ Route::get('/about/groundwork/six', [GroundworkController::class, 'six'])->name(
 Route::get('/about/groundwork/seven', [GroundworkController::class, 'seven'])->name('groundwork.seven');
 Route::get('/about/groundwork/eight', [GroundworkController::class, 'eight'])->name('groundwork.eight');
 
+
+Route::get('/about/goals/new-born-screening', [GoalsController::class, 'one'])->name('goals.one');
+Route::get('/about/goals/catch-up-screening', [GoalsController::class, 'two'])->name('goals.two');
+Route::get('/about/goals/outreach-services', [GoalsController::class, 'three'])->name('goals.three');
+Route::get('/about/goals/med-tech-innovations', [GoalsController::class, 'four'])->name('goals.four');
+Route::get('/about/goals/well-trained-workforce', [GoalsController::class, 'five'])->name('goals.five');
+Route::get('/about/goals/facilities-equipments', [GoalsController::class, 'six'])->name('goals.six');
 
 Route::get('/about/mission', [AboutController::class, 'mission'])->name('about.mission');
 Route::get('/about/goals', [AboutController::class, 'goals'])->name('about.goals');
