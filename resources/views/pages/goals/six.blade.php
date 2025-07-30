@@ -6,21 +6,18 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10 text-center">Goal No. 6</h4>
-                <h5 class="pt-20 px-4">Adequate Facilities, Equipment, Supplies, and Infrastructure</h5>
+
+                <h4 class="pt-10 text-center text-black">Goal #6</h4>
+                <h5 class="pt-10 px-4 text-center fs-4 mb-3 text-black">Adequate Facilities, Equipment, Supplies, and Infrastructure</h5>
+
+                <h5 class="pt-20 px-4 text-black">In Alignment with Ghana’s National Strategy for Sickle Cell Disease</h5>
+
+                <h5 class="pt-10 px-4 text-black">Strategic objective 3: Improve health outcomes of individuals with SCD</h5>
+                <h5 class="pt-10 px-4 text-black">Implementation Strategy 6: Improve Access to Medicines, Technologies, and Innovation
+                </h5>
 
 
-                <h5 class="pt-20 px-4">In Alignment with Ghana’s National Strategy for Sickle Cell Disease</h5>
-
-
-                <h5 class="pt-20 px-4">Strategic objective 3: Improve health outcomes of individuals with SCD</h5>
-
-                <div class="text-justify pt-10 px-4" >
-                    <p class="text-black">•	Implementation Strategy 5: Improve Access to Medicines, Technologies, and Innovation</p>
-                </div>
-
-
-                <div class="text-justify  ps-5 pe-4">
+                <div class="text-justify pt-20 ps-5 pe-4">
                     <h5 class="text-black">   Our Goal for the Completion of the Kumasi Center for SCD Excellence</h5>
                     <p class="text-black">
                         To assist in identifying the support needed to complete the construction and equipping of the Sickle Cell and Blood Center at Komfo Anokye Teaching Hospital in Kumasi, supported by Otumfuo Osei Tutu II, and intended to provide clinical care, education and training, and research.

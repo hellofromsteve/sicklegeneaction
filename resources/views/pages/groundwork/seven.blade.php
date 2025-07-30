@@ -19,7 +19,7 @@
 
                 <div class="text-justify  px-4">
                     <p class="text-black">
-                        In memoriam: Kwaku Ohene-Frempong (1946–2022), Isaac Odame, MD
+                        In memoriam: <br>Kwaku Ohene-Frempong (1946–2022), <br>Isaac Odame, MD
                         <a class="text-primary" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ajh.26681">Click Here To Read</a>
                     </p>
                 </div>
@@ -27,9 +27,9 @@
 
                 <div class="pb-20 pt-20">
                     <p class="text-center fw-bold mt-1">
-                        These qualities help to build partnerships that, along with adequate funding, <br>
-                        can vastly prolong and improve the lives of millions of <br>
-                        individuals living with a disease they happened to be born with.
+                        These qualities help to build partnerships <br>that, along with adequate funding, <br>
+                        can vastly prolong and improve <br> the  lives of millions of
+                        individuals <br> living   with sickle cell disease.
                     </p>
 
                     <div class="container">

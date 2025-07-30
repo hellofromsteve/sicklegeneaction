@@ -6,24 +6,22 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10 text-center">Goal No. 2</h4>
-                <h5 class="pt-20 px-4">Catch-Up Screening</h5>
+                <h4 class="pt-10 text-center text-black">Goal #2</h4>
+                <h5 class="pt-10 px-4 text-center fs-4 mb-3 text-black">Catch-Up Screening</h5>
+
+                <h5 class="pt-20 px-4 text-black">In Alignment with Ghana’s National Strategy for Sickle Cell Disease</h5>
+
+                <h5 class="pt-10 px-4 text-black">Strategic objective 3: Improve health outcomes of individuals with SCD</h5>
+                <h5 class="pt-10 px-4 text-black">Implementation Strategy 2: Develop mechanisms for catch-up screening</h5>
 
 
-                <h5 class="pt-20 px-4">In Alignment with Ghana’s National Strategy for Sickle Cell Disease</h5>
-
-
-                <h5 class="pt-20 px-4">Strategic objective 3: Improve health outcomes of individuals with SCD</h5>
-
-                <div class="text-justify pt-10 px-4" >
-                    <p class="text-black">•	Implementation Strategy 2: Develop mechanisms for catch-up screening</p>
+                <div class="text-justify pt-20 ps-5 pe-4">
+                    <h5 class="text-black">Our Goal for Future Catch-Up Screening Programs</h5>
+                    <p class="text-black">To assist in expanding the availability of point-of-care testing (POCT) for children and youth who were not screened for sickle cell disease
+                        <br> at birth </p>
                 </div>
 
-                <h5 class="pt-20 px-4">Our Goal for Future Catch-Up Screening Programs</h5>
 
-                <div class="text-justify px-4" >
-                    <p class="text-black">To assist in expanding the availability of point-of-care testing (POCT) for children and youth who were not screened for sickle cell disease at birth </p>
-                </div>
 
 
             </div>

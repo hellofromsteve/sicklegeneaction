@@ -113,26 +113,32 @@ class AboutController extends Controller
     {
         $goals = [
             [
+                'id' => 1,
                 'title' => 'Newborn Screening',
                 'route' => 'goals.one',
             ],
             [
+                'id' => 2,
                 'title' => 'Catch-Up Screening',
                 'route' => 'goals.two',
             ],
             [
+                'id' => 3,
                 'title' => 'Outreach Services',
                 'route' => 'goals.three',
             ],
             [
-                'title' => 'Medicine, Technologies & Innovations',
+                'id' => 4,
+                'title' => "Medicine, Technologies, & Innovations",
                 'route' => 'goals.four',
             ],
             [
+                'id' => 5,
                 'title' => 'A Skilled & Well-Trained Workforce',
                 'route' => 'goals.five',
             ],
             [
+                'id' => 6,
                 'title' => 'Facilities, Equipment, Supplies & Infrastructure',
                 'route' => 'goals.six',
             ],

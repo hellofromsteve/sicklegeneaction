@@ -6,20 +6,18 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10 text-center text-black">Goal No. 4</h4>
-                <h5 class="pt-20 px-4 text-black">Medicines, Technologies, and Innovation</h5>
-
+                <h4 class="pt-10 text-center text-black">Goal #4</h4>
+                <h5 class="pt-10 px-4 text-center fs-4 mb-3 text-black">Medicines, Technologies, and Innovation</h5>
 
                 <h5 class="pt-20 px-4 text-black">In Alignment with Ghana’s National Strategy for Sickle Cell Disease</h5>
 
+                <h5 class="pt-10 px-4 text-black">Strategic objective 4: Improve health outcomes of individuals with SCD</h5>
+                <h5 class="pt-10 px-4 text-black">Implementation Strategy 3: Improve Facilities, Laboratory, and Diagnostic Capacities, Equipment, Infrastructure
 
-                <h5 class="pt-20 px-4 text-black">Strategic objective 3: Improve health outcomes of individuals with SCD</h5>
+                </h5>
 
-                <div class="text-justify pt-10 px-4" >
-                    <p class="text-black">•	Implementation Strategy 3: Improve Facilities, Laboratory, and Diagnostic Capacities, Equipment, Infrastructure</p>
-                </div>
 
-                <div class="text-justify  ps-5 pe-4">
+                <div class="text-justify  pt-20 ps-5 pe-4">
                     <h5 class="text-black">Our Goal for Previous Hydroxyurea Availability</h5>
                     <p class="text-black">
                         Adjusting for inflation, to assist in restoring the availability and affordability of hydroxyurea to 2022 levels of program activity

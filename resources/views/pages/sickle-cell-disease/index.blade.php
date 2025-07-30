@@ -1,35 +1,29 @@
-<x-layout title="Our Goals">
+<x-layout title="About Us">
 
-    <!-- Our Goals Start -->
-    <div class="help-area pt-40 pb-20 ptb-sm-10 ">
+    <!-- About Us Start -->
+    <div class="help-area pt-50 pb-115 ptb-sm-60 ">
         <div class="container">
-            <div class=" text-center ">
-                <h1 class="text-black">Our Goals</h1>
-            </div>
-
             <div class="section-title text-center ">
-                <p class="text-black"><strong>Our goals focus on activities that align with
-                    Ghana’s National Strategy for  <br>Sickle Cell Disease
-                    to ensure that Sickle Cell Warriors and their Families <br>
-                    have full access to the following 6 elements of excellent SCD care:</strong>
-                </p>
+                <h1 class="text-black">About Us</h1>
 
             </div>
-
             <div class="row text-center">
                 <div class="row text-center">
-                    @foreach($goals as $goal)
+                    @foreach($features as $feature)
+                        @php
+                            $parts = explode(' ', $feature['title'], 2); 
+                        @endphp
                         <div class="col-6 col-md-4 mb-5">
-                            <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100">
+                            <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100 text-center">
                                 <!-- Red dot -->
                                 <div style="width: 12px; height: 12px; background-color: #e3342f; border-radius: 50%; margin: 0 auto 15px;"></div>
-                                <h4 class="text-black mb-1">Goal #{{ $goal['id'] }}</h4>
 
+                                <h3 class="text-black">
+                                    <div>{{ $parts[0] ?? '' }}</div>
+                                    <div>{{ $parts[1] ?? '' }}</div>
+                                </h3>
 
-                                <h3 class="text-black">{{ $goal['title'] }}</h3>
-
-
-                                <a href="{{ route($goal['route']) }}" class="btn btn-sm btn-danger mt-3">Read More</a>
+                                <a href="{{ route($feature['route']) }}" class="btn btn-sm btn-danger mt-3">Read More</a>
                             </div>
                         </div>
                     @endforeach

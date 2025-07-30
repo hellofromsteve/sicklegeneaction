@@ -130,8 +130,8 @@
                         Founding Members of the Global Sickle Cell Disease Network<br>
                         <a class=" text-primary mt-5" href="https://www.globalsicklecelldisease.org/about-sickle-cell-disease">Read Here</a>
                         <br>
-                        Prof Kwaku Ohene-Frempong and Prof Isaac Odame: <br>
-                        Two Sons of Ghana Working With Their Colleagues to Save Lives Across the Globe<br>
+                        Prof Kwaku Ohene-Frempong  <br>and Prof Isaac Odame: <br>
+                        Two Sons of Ghana Working with Their Colleagues to Save Lives Across the Globe<br>
                         on Behalf of Families Around the Globe<br>
 
                     </p>

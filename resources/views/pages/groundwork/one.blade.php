@@ -39,7 +39,7 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#leadershipCollapse1">
-                                • Worked collaboratively with Ghanaian officials, colleagues, and compatriots to build a national sickle cell infrastructure.
+                              <strong>  • Worked collaboratively with Ghanaian officials, colleagues, and compatriots to build a national sickle cell infrastructure.</strong>
                             </button>
                         </h2>
                         <div id="leadershipCollapse1" class="accordion-collapse collapse" data-bs-parent="#leadershipAccordion">
@@ -56,7 +56,7 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#leadershipCollapse2">
-                                • Began by focusing on interventions that would save and improve the greatest number of lives.
+                              <strong> • Began by focusing on interventions that would save and improve the greatest number of lives.</strong>
                             </button>
                         </h2>
                         <div id="leadershipCollapse2" class="accordion-collapse collapse" data-bs-parent="#leadershipAccordion">
@@ -74,7 +74,7 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#leadershipCollapse3">
-                                • Formed international research partnerships and obtained funding from both national and international sources.
+                               <strong>• Formed international research partnerships and obtained funding from both national and international sources. </strong>
                             </button>
                         </h2>
                         <div id="leadershipCollapse3" class="accordion-collapse collapse" data-bs-parent="#leadershipAccordion">

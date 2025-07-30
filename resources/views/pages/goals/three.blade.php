@@ -6,25 +6,26 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10 text-center">Goal No. 3</h4>
-                <h5 class="pt-20 px-4">Outreach Services</h5>
+                <h4 class="pt-10 text-center text-black">Goal #3</h4>
+                <h5 class="pt-10 px-4 text-center fs-4 mb-3 text-black">Outreach Services</h5>
 
 
-                <h5 class="pt-20 px-4">In Alignment with Ghana’s National Strategy for Sickle Cell Disease</h5>
+                <h5 class="pt-20 px-4 text-black">In Alignment with Ghana’s National Strategy for Sickle Cell Disease</h5>
+
+                <h5 class="pt-10 px-4 text-black">Strategic objective 3: Improve health outcomes of individuals with SCD</h5>
+                <h5 class="pt-10 px-4 text-black">Implementation Strategy 3: Develop Outreach Services for SCD
+                </h5>
 
 
-                <h5 class="pt-20 px-4">Strategic objective 3: Improve health outcomes of individuals with SCD</h5>
-
-                <div class="text-justify pt-10 px-4" >
-                    <p class="text-black">•	Implementation Strategy 6: Develop Outreach Services for SCD</p>
-                </div>
-
-                <div class="text-justify  ps-5 pe-4">
+                <div class="text-justify pt-20 ps-5 pe-4">
                     <h5 class="text-black">Our Goal for the Creation of Partnerships</h5>
                     <p class="text-black">
                         To assist in creating partnerships with community organizations to extend SCD care and support services.
                     </p>
+
                 </div>
+
+
 
 
             </div>

@@ -30,23 +30,23 @@
                     </div>
 
                     <!-- Right: Text Content -->
-                    <div class="col-md-6">
-                        <p class="text-black fs-5 lh-lg mb-4">
-                            Prof. Ohene-Frempong was a leader in the development <br>of the Sickle Pan-Africa Research Consortium’s (SPARCo’s)
-                            <br>Standards of Care for Sickle Cell Disease in Sub-Saharan Africa.
+                    <div class="col-md-6 ">
+                        <p class="text-black fs-5 lh-lg mb-4 text-center">
+                            Prof. Ohene-Frempong was a leader in the development of  the Sickle Pan-Africa Research Consortium’s (SPARCo’s)
+                            <br>Standards of Care for Sickle Cell Disease <br>in Sub-Saharan Africa.
                         </p>
 
-                        <p class="text-black fs-5">The standards focus on recommendations for:</p>
+                        <p class="text-black fs-5 text-center">The standards focus on recommendations for:</p>
 
-                        <ul class="text-black ps-3 fs-5">
-                            <li class="mb-2"><strong>•	Diagnosis</strong></li>
-                            <li class="mb-2"><strong>• Health Maintenance and Preventive Therapy</strong></li>
-                            <li class="mb-2"><strong>• Screening for Specific Complications</strong></li>
+                        <ul class="text-black ps-3 fs-5 justify-content-center text-center">
+                            <li class="mb-2">Diagnosis</li>
+                            <li class="mb-2">Health Maintenance and Preventive Therapy</li>
+                            <li class="mb-2">Screening for Specific Complications</li>
                             <li>
-                              <strong>  • Special Management Protocols including:</strong>
+                                Special Management Protocols including:
                                 <ul class="mt-1 ps-3">
-                                    <li class="mb-2">• Hydroxyurea to reduce pain episodes and minimize complications of SCD</li>
-                                    <li class="mb-2">• Blood transfusions to reduce the risk of stroke and other complications of SCD</li>
+                                    <li class="mb-2 fs-6">Hydroxyurea to reduce pain episodes <br>and minimize complications of SCD.</li>
+                                    <li class="mb-2 fs-6">Blood transfusions to reduce the risk of stroke <br> and other complications of SCD.</li>
                                 </ul>
                             </li>
                         </ul>
