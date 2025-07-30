@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Pages;
+namespace App\Http\Controllers\Pages\AboutUs;
 
 use App\Http\Controllers\Controller;
 
@@ -9,22 +9,22 @@ class GroundworkController extends Controller
     //
     public function one()
     {
-        return view('pages.groundwork.one');
+        return view('pages.about-us.groundwork.one');
     }
 
     public function two()
     {
-        return view('pages.groundwork.two');
+        return view('pages.about-us.groundwork.two');
     }
 
     public function three()
     {
-        return view('pages.groundwork.three');
+        return view('pages.about-us.groundwork.three');
     }
 
     public function four()
     {
-        return view('pages.groundwork.four');
+        return view('pages.about-us.groundwork.four');
     }
 
     public function five()
@@ -52,21 +52,21 @@ class GroundworkController extends Controller
             'St. Patrick’s Hospital, Offinso',
             'University Hospital, Kwame Nkrumah University of Science and Technology',
         ];
-        return view('pages.groundwork.five', compact('hospitals'));
+        return view('pages.about-us.groundwork.five', compact('hospitals'));
     }
 
     public function six()
     {
-        return view('pages.groundwork.six');
+        return view('pages.about-us.groundwork.six');
     }
 
     public function seven()
     {
-        return view('pages.groundwork.seven');
+        return view('pages.about-us.groundwork.seven');
     }
 
     public function eight()
     {
-        return view('pages.groundwork.eight');
+        return view('pages.about-us.groundwork.eight');
     }
 }

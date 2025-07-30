@@ -1,17 +1,17 @@
-<x-layout title="About Us">
+<x-layout title="About Sickle Cell Disease">
 
     <!-- About Us Start -->
     <div class="help-area pt-50 pb-115 ptb-sm-60 ">
         <div class="container">
             <div class="section-title text-center ">
-                <h1 class="text-black">About Us</h1>
+                <h1 class="text-black">About Sickle Cell Disease (SCD) </h1>
 
             </div>
             <div class="row text-center">
                 <div class="row text-center">
                     @foreach($features as $feature)
                         @php
-                            $parts = explode(' ', $feature['title'], 2); 
+                            $parts = explode(' ', $feature['title'], 2);
                         @endphp
                         <div class="col-6 col-md-4 mb-5">
                             <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100 text-center">

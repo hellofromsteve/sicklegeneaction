@@ -43,19 +43,19 @@
                                         <li class="{{ request()->routeIs('home') ? 'active' : '' }}"><a href="{{ route('home') }}">Home</a>
 
                                         </li>
-                                        <li class="{{ request()->routeIs('about') || request()->routeIs('about*')  ? 'active' : '' }}"> <a href="{{ route('about') }}">About Us</a>
+                                        <li class="{{ request()->routeIs('about-us') || request()->routeIs('about-us*')  ? 'active' : '' }}"> <a href="{{ route('about-us') }}">About Us</a>
                                             <ul>
-                                                <li><a href="{{ route('about.inspiration') }}">Our Inspiration</a></li>
-                                                <li><a href="{{ route('about.groundwork') }}">Our GroundWork</a></li>
-                                                <li><a href="{{ route('about.mission') }}">Our Mission</a></li>
-                                                <li><a href="{{ route('about.board') }}">Our Board</a></li>
-                                                <li><a href="{{ route('about.goals') }}">Our Goals</a></li>
-                                                <li><a href="{{ route('about.values') }}">Our Values</a></li>
+                                                <li><a href="{{ route('about-us.inspiration') }}">Our Inspiration</a></li>
+                                                <li><a href="{{ route('about-us.groundwork') }}">Our GroundWork</a></li>
+                                                <li><a href="{{ route('about-us.mission') }}">Our Mission</a></li>
+                                                <li><a href="{{ route('about-us.board') }}">Our Board</a></li>
+                                                <li><a href="{{ route('about-us.goals') }}">Our Goals</a></li>
+                                                <li><a href="{{ route('about-us.values') }}">Our Values</a></li>
                                             </ul>
                                         </li>
 
                                         <li><a href="#">What We Do</a></li>
-                                        <li><a href="#">About SCD</a></li>
+                                        <li class="{{ request()->routeIs('about-scd*') ? 'active' : '' }}"><a href="{{ route('about-scd') }}">About SCD</a></li>
                                         <li><a href="#">News</a>
 
                                         </li>
