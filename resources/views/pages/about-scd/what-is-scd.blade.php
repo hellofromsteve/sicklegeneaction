@@ -1,34 +1,70 @@
-<x-layout title="Our Values">
+<x-layout title="What Is Sickle Cell Disease">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">
-        <div class="container">
-            <div class="section-title text-center ">
-                <h1 class="text-danger">Our Values</h1>
-            </div>
-        </div>
-        <div class="pb-50">
-            <div class="container my-5 ">
-                <div class="row align-items-center">
-                    <!-- Left Column: Values List -->
-                    <div class="col-md-6 mb-4 mb-md-0 py-sm-5">
-                        <ul class="list-unstyled">
-                            <li class="mb-3"><h5 class="mb-0">• Compassion</h5></li>
-                            <li class="mb-3"><h5 class="mb-0">• Commitment</h5></li>
-                            <li class="mb-3"><h5 class="mb-0">• Collaboration</h5></li>
-                            <li class="mb-3"><h5 class="mb-0">• Cooperation</h5></li>
-                            <li class="mb-3"><h5 class="mb-0">• Collegiality</h5></li>
-                        </ul>
-                    </div>
 
-                    <!-- Right Column: Image -->
-                    <div class="col-md-6 text-center">
-                        <img src="{{ asset('img/about/values.jpg') }}" alt="Image of Awo and the Sisters" class="img-fluid rounded shadow-sm">
-                    </div>
+        <div class="">
+            <div class="container">
+
+                <h4 class="pt-10 pb-20 text-danger text-center">What Sickle Cell Disease (SCD) Is</h4>
+
+                <h5 class="text-black"> Sickle cell disease is a condition that affects the body’s red blood cells.</h5>
+
+                <div class="text-justify pt-10" >
+                    <p class="text-black"><strong> Sickle cell disease is a condition that makes a person’s round red blood cells become shaped like a farm tool called a “sickle.” It also looks similar to a curved banana.</strong></p>
                 </div>
             </div>
         </div>
 
+        <div class="pb-50">
+            <div class="container">
+
+                <h5 class="pt-10 text-black">Sickle cell disease is a serious condition.</h5>
+
+                <div class="text-justify pt-10" >
+                    <p class="text-black"><strong> When these sickle-shaped red blood cells circulate in the bloodstream, they can cause severe pain and a number of serious life-changing complications.</strong></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container my-5">
+            <div class="row">
+                <!-- Left Column (35%) -->
+                <div class="col-md-4 d-flex align-items-center justify-content-center">
+                    <figure class="text-center">
+                        <img src="{{ asset('img/scd/what-is-scd1.png') }}"
+                             class="img-fluid rounded mb-2"
+                             style="width: 100%; height: 250px; object-fit: cover;"
+                             alt="A Farm Tool Called a Sickle">
+                        <figcaption class="text-muted">A Farm Tool Called a Sickle</figcaption>
+                    </figure>
+                </div>
+
+                <!-- Right Column (65%) -->
+                <div class="col-md-8">
+                    <div class="row">
+                        <div class="col-6">
+                            <figure class="text-center">
+                                <img src="{{ asset('img/scd/what-is-scd2.jpg') }}"
+                                     class="img-fluid rounded mb-2"
+                                     style="width: 100%; height: 250px; object-fit: cover;"
+                                     alt="A Normal Red Blood Cell">
+                                <figcaption class="text-muted">A Normal Red Blood Cell</figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-6">
+                            <figure class="text-center">
+                                <img src="{{ asset('img/scd/what-is-scd3.jpg') }}"
+                                     class="img-fluid rounded mb-2"
+                                     style="width: 90%; height: 250px; object-fit: cover;"
+                                     alt="A Sickle Red Blood Cell">
+                                <figcaption class="text-muted">A Sickle Red Blood Cell</figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <!-- Our Mission End -->
 

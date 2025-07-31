@@ -9,6 +9,11 @@ class SCDController extends Controller
 {
     public function whatIsScd()
     {
-        return view('about-scd.what-is-scd');
+        return view('pages.about-scd.what-is-scd');
+    }
+
+    public function whatCauses()
+    {
+        return view('pages.about-scd.what-causes');
     }
 }
