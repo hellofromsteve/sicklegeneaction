@@ -1,35 +1,46 @@
 <x-layout title="Home">
 
     <!-- Slider Area Start -->
-    <div class="slider-area">
+    <div class=" py-5 text-center">
         <div class="slider-wrapper owl-carousel">
-            <div class="single-slide" style="background-image: url('img/slider/slidermain.jpg');">
-                <div class="banner-content">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-8">
-                                <div class="text-content-wrapper">
-                                    <div class="text-content">
-                                        <h1><span>Early Action</span> Saves Lives</h1>
+            <div class="single-slide px-3">
+                <div class="container">
 
 
-                                        <div class="banner-btn">
-                                            <a class="default-btn" href="https://goo.gl/HtFL2a">Learn More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <h1 class="display-5 fw-bold text-danger mb-4">Early Action Saves Lives</h1>
+
+
+                    <div class="mb-4 d-flex justify-content-center">
+                        <img src="{{ asset('img/banner/home-kid.png') }}" alt="SCD Child" class="img-fluid rounded shadow" style="max-width: 300px;">
                     </div>
+
+
+                    <div class="mb-2">
+                        <h2 class="fw-bold text-black">Born With Sickle Cell Disease</h2>
+                        <p class="text-muted fs-5">
+                            In sub-Saharan Africa, millions of children like this<br>
+                            die before the age of 5.
+                        </p>
+                    </div>
+
+
+                    <div>
+                        <h2 class="fw-bold text-black">You Can Make a Difference.</h2>
+                        <p class="text-muted fs-5">
+                            Join us in taking meaningful action<br>
+                            to help keep each one of them alive and well, into productive adulthood.
+                        </p>
+                    </div>
+
                 </div>
             </div>
-
-
         </div>
     </div>
     <!-- Slider Area End -->
+
+
     <!--  Our Inspiration Start -->
-    <div class="help-area pt-120 pb-115 ptb-sm-60">
+    <div class="help-area pt-50 pb-115 ptb-sm-60">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">

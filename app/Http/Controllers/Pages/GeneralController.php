@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Pages;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use Illuminate\Validation\ValidationException;
 
 class GeneralController extends Controller
 {
@@ -91,5 +92,36 @@ class GeneralController extends Controller
 
     ];
         return view('pages.general.sickle-cell-disease', compact('features'));
+    }
+
+    public function contactUs()
+    {
+
+
+        return view('pages.general.contact-us');
+    }
+
+    public function handleContact(Request $request)
+    {
+        try {
+            $info = $request->validate([
+                'name' => 'required|string|max:200',
+                'email' => 'required|email',
+                'message' => 'required|string|max:200',
+            ]);
+        } catch (ValidationException $e) {
+            $firstError = $e->validator->errors()->first();
+            sweetalert()->error($firstError);
+            return back()->withErrors($e->validator)->withInput();
+        }
+
+        return back()->with('success', 'Thanks for contacting us!');
+
+    }
+
+
+    public function whatWeDo()
+    {
+       return view('pages.general.what-we-do');
     }
 }

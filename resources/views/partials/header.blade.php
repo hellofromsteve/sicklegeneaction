@@ -54,12 +54,10 @@
                                             </ul>
                                         </li>
 
-                                        <li><a href="#">What We Do</a></li>
+                                        <li class="{{ request()->routeIs('what-we-do') ? 'active' : '' }}"><a href="{{ route('what-we-do') }}">What We Do</a></li>
                                         <li class="{{ request()->routeIs('about-scd*') ? 'active' : '' }}"><a href="{{ route('about-scd') }}">About SCD</a></li>
-                                        <li><a href="#">News</a>
-
-                                        </li>
-                                        <li><a href="#">Contact</a></li>
+                                        <li><a href="#">News</a></li>
+                                        <li class="{{ request()->routeIs('contact-us') ? 'active' : '' }}"><a href="{{ route('contact-us') }}">Contact</a></li>
                                         <li><a href="#">How To Help</a>
 
                                         </li>
