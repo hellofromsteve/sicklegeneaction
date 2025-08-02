@@ -16,14 +16,15 @@
                         <div class="col-6 col-md-4 mb-5">
                             <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100 text-center">
                                 <!-- Red dot -->
-                                <div style="width: 12px; height: 12px; background-color: #e3342f; border-radius: 50%; margin: 0 auto 15px;"></div>
+                                <div style="width: 12px; height: 12px; background-color: #e32f4a; border-radius: 50%; margin: 0 auto 15px;"></div>
 
                                 <h3 class="text-black">
                                     <div>{{ $parts[0] ?? '' }}</div>
                                     <div>{{ $parts[1] ?? '' }}</div>
                                 </h3>
 
-                                <a href="{{ route($feature['route']) }}" class="btn btn-sm btn-danger mt-3">Read More</a>
+                                <a href="{{ route($feature['route']) }}" class="default-btn">Read More</a>
+
                             </div>
                         </div>
                     @endforeach

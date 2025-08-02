@@ -71,32 +71,33 @@
     </div>
     <!-- Our Inspiration  End -->
 
-    <!-- About Us Start -->
-    <div class="join-area bg-1 ptb-120 ptb-sm-60">
-        <div class="container text-center">
-            <div class="row">
-                <div class="col-lg-8 ms-auto">
-                    <div class="ht-join-text">
-                        <h4>About Us</h4>
-                        <h1>Empower. Unite. Defeat Sickle Cell.</h1>
-                        <p>By empowering communities and uniting voices, we can defeat the challenges of Sickle Cell Disease together, stronger.</p>
-                        <div class="joning-btn">
-                            <a href="#" class="default-btn">Donate</a>
-                            <a href="#" class="default-btn btn-white">About Us</a>
-                        </div>
-
+    <!-- About Us Section Start -->
+    <div class="about-us-section py-5 bg-light text-center">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <h1 class="text-uppercase text-danger mb-2">About Us</h1>
+                    <h1 class="fw-bold mb-3 text-black">Empower. Unite. Defeat Sickle Cell.</h1>
+                    <p class="fs-5 text-secondary mb-4">
+                        By empowering communities and uniting voices, we can overcome the challenges of Sickle Cell Disease — together, stronger.
+                    </p>
+                    <div class="d-flex justify-content-center gap-3">
+                        <a href="#" class="default-btn px-4 ">Donate</a>
+                        <a href="{{ route('about-us') }}" class="default-btn btn-white px-4 ">Learn More</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- About Us End -->
+    <!-- About Us Section End -->
+
+
 
     <!-- Our Mission Start -->
-    <div class="help-area pt-110 pb-115 ptb-sm-60">
+    <div class="help-area pt-60 pb-115 ptb-sm-60">
         <div class="container">
             <div class="section-title text-center ">
-                <h1 class="text-black">Our Mission</h1>
+                <h1 class="text-danger">Our Mission</h1>
                 <p class="text-black">Improving the quality of lives for individuals.</p>
             </div>
             <div class="row text-center">
