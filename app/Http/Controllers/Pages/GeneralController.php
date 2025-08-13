@@ -60,7 +60,9 @@ class GeneralController extends Controller
     }
 
     public function aboutScd()
-    {     $features = [
+    {
+
+        $features = [
         [
             'title' => 'What SCD Is',
             'route' => 'about-scd.what-is-scd',
@@ -87,11 +89,14 @@ class GeneralController extends Controller
         ],
         [
             'title' => 'The Good News',
-            'route' => 'about-us.advisory',
+            'route' => 'about-scd.good-news',
         ],
 
     ];
-        return view('pages.general.about-scd', compact('features'));
+
+        return view('pages.general.about-scd', [
+            'features' => $features,
+        ]);
     }
 
     public function contactUs()
