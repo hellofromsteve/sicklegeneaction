@@ -6,7 +6,7 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10 mb-2 text-danger text-center">What Causes SCD and What Else To Know</h4>
+                <h4 class="pt-10 mb-2 text-danger text-center">What Causes SCD</h4>
 
                 <h5 class="pt-10 px-4 text-black"> 10 Facts - A Simplified Explanation for a Complex Condition </h5>
                 <h6 class="pt-10 px-4 text-black"> • Sickle cell disease is best understood by those who have a knowledge of molecular genetics.</h6>
@@ -419,7 +419,7 @@
 
                 <div class="container px-4 my-5">
                     <h5 class="text-black fw-bold mb-3 text-center">
-                        A well-trained genetic counselor can help couples 
+                        A well-trained genetic counselor can help couples
                         to make informed decisions about having a baby.
                     </h5>
                 </div>
