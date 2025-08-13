@@ -66,7 +66,7 @@ class GeneralController extends Controller
             'route' => 'about-scd.what-is-scd',
         ],
         [
-            'title' => 'What Causes SCD and What Else to Know',
+            'title' => 'What Causes SCD and Its Challenges',
             'route' => 'about-scd.causes-scd',
         ],
         [
@@ -91,7 +91,7 @@ class GeneralController extends Controller
         ],
 
     ];
-        return view('pages.general.sickle-cell-disease', compact('features'));
+        return view('pages.general.about-scd', compact('features'));
     }
 
     public function contactUs()
