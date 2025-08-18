@@ -1,7 +1,6 @@
 <x-layout title="In Their Own Voices">
 
     <!-- In Their Own Voices Start -->
-
     <div class="help-area pt-10 pb-40 ptb-sm-60">
 
         <div class="pb-50">

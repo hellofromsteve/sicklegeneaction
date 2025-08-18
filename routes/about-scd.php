@@ -8,7 +8,8 @@ use Illuminate\Support\Facades\Route;
 // About Us Routes
 Route::prefix('about-scd')->name('about-scd.')->group(function () {
     Route::get('/what-is-scd', [SCDController::class, 'whatIsScd'])->name('what-is-scd');
-    Route::get('/what-causes-scd-and-what-else-to-know', [SCDController::class, 'whatCauses'])->name('causes-scd');
+    Route::get('/what-causes-scd', [SCDController::class, 'whatCauses'])->name('causes-scd');
+    Route::get('/challenges-of-scd', [SCDController::class, 'scdChallenges'])->name('challenges-scd');
     Route::get('/who-is-affected-by-scd', [SCDController::class, 'whoIsAffected'])->name('affected-scd');
     Route::get('/in-their-own-voices', [SCDController::class, 'inTheirVoices'])->name('voices');
     Route::get('/how-scd-can-be-treated-and-managed', [SCDController::class, 'treatedAndManage'])->name('treated-and-managed');

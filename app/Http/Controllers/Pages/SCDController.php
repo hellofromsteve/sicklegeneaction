@@ -18,6 +18,35 @@ class SCDController extends Controller
         return view('pages.about-scd.what-causes');
     }
 
+    public function scdChallenges()
+    {
+        $complications = [
+            'Acute chest syndrome',
+            'Aplastic crisis',
+            'Blood clots',
+            'Chronic (long-term) pain',
+            'Delayed growth',
+            'Delayed puberty',
+            'Enlarged spleen',
+            'Eye problems',
+            'Gallstones',
+            'Heart problems',
+            'Infections',
+            'Joint problems',
+            'Kidney problems',
+            'Leg ulcers',
+            'Liver problems',
+            'Pain crises',
+            'Pregnancy problems',
+            'Priapism',
+            'Silent brain injury',
+            'Splenic sequestration crisis',
+            'Stroke',
+            'Vitamin deficiency',
+        ];
+        return view('pages.about-scd.scd-challenges', compact('complications'));
+    }
+
     public function whoIsAffected()
     {
         return view('pages.about-scd.who-is-affected');

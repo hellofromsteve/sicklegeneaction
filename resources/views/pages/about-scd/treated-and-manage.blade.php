@@ -64,11 +64,11 @@
                         </h2>
                         <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#ghanaSCDAccordion">
                             <div class="accordion-body">
-                                <p class="text-black mb-1">• From 1992 to 2022, Prof. Kwaku Ohene-Frempong, MD, with the support of international partners and colleagues in Ghana, provided national and global leadership for SCD detection, treatment, and management. Sadly, Prof. passed away in 2022.</p>
-                                <p class="text-black mb-1">• Since 2023, the Ghana Foundation for Sickle Gene Action (GF-SGA) has worked to fill part of the void left by Prof. Ohene-Frempong, aiming to restore lost programming and build upon the groundwork he laid.</p>
-                                <p class="text-black mb-1">• In August 2023, one year after his passing, the SPARCo Standards of Care for SCD in Sub-Saharan Africa were released, providing a unifying call to action to implement these guidelines nationwide.</p>
+                                <p class="text-black mb-3">• From 1992 to 2022, Prof. Kwaku Ohene-Frempong, MD, with the support of international partners and colleagues in Ghana, provided national and global leadership for SCD detection, treatment, and management. Sadly, Prof. passed away in 2022.</p>
+                                <p class="text-black mb-3">• Since 2023, the Ghana Foundation for Sickle Gene Action (GF-SGA) has worked to fill part of the void left by Prof. Ohene-Frempong, aiming to restore lost programming and build upon the groundwork he laid.</p>
+                                <p class="text-black mb-3">• In August 2023, one year after his passing, the SPARCo Standards of Care for SCD in Sub-Saharan Africa were released, providing a unifying call to action to implement these guidelines nationwide.</p>
 
-                                <p class="text-black mb-1 fw-bold">See: Our Groundwork</p>
+                                <p class="mb-1 fw-bold"><a class="text-primary" href="{{ route('about-us.groundwork') }}">See: Our Groundwork </a></p>
                                 <div style="margin-left: 1.5em;">
                                     <p class="text-black mb-1">1. The Sickle Cell Foundation of Ghana (SCFG)</p>
                                     <p class="text-black mb-1">2. Newborn Screening (NBS) and Sickle Cell Clinics</p>
@@ -127,8 +127,13 @@
 
                                 <p class="text-black mb-1">
                                     • Click here to download:
-                                    <a href="#" class="text-primary">SPARCo_SoC_SCD_GuidelinesR_Aug2023.pdf</a>,
-                                    <a href="#" class="text-primary">SPARCo_SoC_Homebased_version.pdf</a>
+                                    <a href="https://www.sickleinafrica.org/sites/default/files/SPARCo_SoC_SCD_GuidelinesR_Aug2023.pdf" class="text-primary">SPARCo_SoC_SCD_GuidelinesR_Aug2023.pdf</a>,
+
+                                </p>
+
+                                <p class="text-black mb-1">
+                                    • Click here to download: Simplified Version
+                                    <a href="https://www.sickleinafrica.org/sites/default/files/SPARCo_SoC_Homebased%20version.pdf" class="text-primary">SPARCo_SoC_Homebased_version.pdf</a>
                                 </p>
                             </div>
                         </div>

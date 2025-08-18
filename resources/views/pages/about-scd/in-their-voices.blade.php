@@ -103,24 +103,24 @@
                     <div class="pt-2">
                         <p class="text-black mb-3">
                             1. Sickle Cell Disease – Ghana<br>
-                            <span style="margin-left: 1.5em;">K. Ohene-Frempong & J. Dzido – Two Fathers on a Mission (8:19) –
-                                <a href="https://www.youtube.com/watch?v=KQJl2dIn9to" class="text-primary" target="_blank">Watch Here</a>
+                            <span style="margin-left: 1.5em;">K. Ohene-Frempong & J. Dzido – Two Fathers on a Mission –
+                                <a href="https://www.youtube.com/watch?v=KQJl2dIn9to" class="text-primary" target="_blank">Watch Here - (8:19 minutes) </a>
                             </span>
                         </p>
 
                         <p class="text-black mb-3">
-                            2. The Untold Stories of Sickle Cell Disease – Joel – Ghana (4:59) –
-                            <a href="https://www.youtube.com/watch?v=WznzNecqDbg&list=PL6YfpI0VEjhsJ5bKF1ghCOKV-T0YVTq-a&index=7" class="text-primary" target="_blank">Watch Here</a>
+                            2. The Untold Stories of Sickle Cell Disease – Joel – Ghana –
+                            <a href="https://www.youtube.com/watch?v=WznzNecqDbg&list=PL6YfpI0VEjhsJ5bKF1ghCOKV-T0YVTq-a&index=7" class="text-primary" target="_blank">Watch Here - (4:59 Minutes)</a>
                         </p>
 
                         <p class="text-black mb-3">
-                            3. The Untold Stories of Sickle Cell Disease – Part 1 Global (3:28) –
-                            <a href="https://www.youtube.com/watch?v=eNlKWlXtDVc" class="text-primary" target="_blank">Watch Here</a>
+                            3. The Untold Stories of Sickle Cell Disease – Part 1 Global –
+                            <a href="https://www.youtube.com/watch?v=eNlKWlXtDVc" class="text-primary" target="_blank">Watch Here - (3:28 minutes)</a>
                         </p>
 
                         <p class="text-black mb-1">
-                            4. The Untold Stories of Sickle Cell Disease – Part 2 Global (4:54) –
-                            <a href="https://www.youtube.com/watch?v=8ubf09bJBRg" class="text-primary" target="_blank">Watch Here</a>
+                            4. The Untold Stories of Sickle Cell Disease – Part 2 Global –
+                            <a href="https://www.youtube.com/watch?v=8ubf09bJBRg" class="text-primary" target="_blank">Watch Here - (4:54 minutes)</a>
                         </p>
                     </div>
                 </div>

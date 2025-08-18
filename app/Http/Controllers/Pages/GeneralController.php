@@ -63,36 +63,40 @@ class GeneralController extends Controller
     {
 
         $features = [
-        [
-            'title' => 'What SCD Is',
-            'route' => 'about-scd.what-is-scd',
-        ],
-        [
-            'title' => 'What Causes SCD and Its Challenges',
-            'route' => 'about-scd.causes-scd',
-        ],
-        [
-            'title' => 'Who Is Affected by SCD',
-            'route' => 'about-scd.affected-scd',
-        ],
-        [
-            'title' => 'In Their Own Voices',
-            'route' => 'about-scd.voices',
-        ],
-        [
-            'title' => 'How SCD Can Be Treated and Managed',
-            'route' => 'about-scd.treated-and-managed',
-        ],
-        [
-            'title' => 'How SCD Can Be Cured',
-            'route' => 'about-scd.cured',
-        ],
-        [
-            'title' => 'The Good News',
-            'route' => 'about-scd.good-news',
-        ],
+            [
+                'title' => 'What SCD Is',
+                'route' => 'about-scd.what-is-scd',
+            ],
+            [
+                'title' => 'What Causes SCD',
+                'route' => 'about-scd.causes-scd',
+            ],
+            [
+                'title' => 'The Challenges of Living With SCD',
+                'route' => 'about-scd.challenges-scd',
+            ],
+            [
+                'title' => 'Who Is Affected by SCD',
+                'route' => 'about-scd.affected-scd',
+            ],
+            [
+                'title' => 'In Their Own Voices',
+                'route' => 'about-scd.voices',
+            ],
+            [
+                'title' => 'How SCD Can Be Treated and Managed',
+                'route' => 'about-scd.treated-and-managed',
+            ],
+            [
+                'title' => 'How SCD Can Be Cured',
+                'route' => 'about-scd.cured',
+            ],
+            [
+                'title' => 'The Good News',
+                'route' => 'about-scd.good-news',
+            ],
 
-    ];
+        ];
 
         return view('pages.general.about-scd', [
             'features' => $features,
@@ -127,6 +131,6 @@ class GeneralController extends Controller
 
     public function whatWeDo()
     {
-       return view('pages.general.what-we-do');
+        return view('pages.general.what-we-do');
     }
 }

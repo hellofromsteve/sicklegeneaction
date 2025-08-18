@@ -63,7 +63,7 @@
                         <p style="text-align: justify;">
                             In 1972, during his second year at Yale University School of Medicine, his firstborn child, his son Kwame, was born with sickle cell disease.
                         </p>
-                        <div class="hlp-btn mt-20"><a href="#" class="default-btn">Read More</a></div>
+                        <div class="hlp-btn mt-20"><a href="{{ route('about-us.inspiration') }}" class="default-btn">Read More</a></div>
                     </div>
                 </div>
             </div>
