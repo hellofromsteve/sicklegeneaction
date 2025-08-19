@@ -1,6 +1,6 @@
-<x-layout title="What Causes Sickle Cell Disease">
+<x-layout title="The Challenges of Living With SCD">
 
-    <!-- Causes Start -->
+    <!-- Challenges With Living With SCD Start -->
     <div class="help-area pt-10 pb-40 ptb-sm-60">
 
         <div class="pb-50">
@@ -16,7 +16,7 @@
                     with a serious condition. <br>
                 </h5>
 
-              '  @php
+                @php
                     $image_desc = [
                         [
                             'image' => 'challenge1',
@@ -36,8 +36,6 @@
                         ],
                     ];
                 @endphp
-
-
 
                     <div class="row pt-20">
                         @foreach($image_desc as $item)
@@ -210,9 +208,9 @@
                     <h3 class="fw-bold mb-3">Sickle Cell Disease Can Affect a Person’s Life SOCIALLY and EMOTIONALLY.</h3>
                     <p class="fs-5 mb-3 fw-bold">These are some of the situations and experiences that can make life more difficult than it needs to be.</p>
 
-                    <h5 class="fw-bold fw-5  mb-3"> <a class="text-primary " href="sdjfsldfj.com"> •	Battle #1: Simply having the disease</a></h5>
-                    <h5 class="fw-bold fw-5 mb-3"> <a class="text-primary " href="sdjfsldfj.com">•	Battle #2: Dealing with people’s negative beliefs and actions</a></h5>
-                    <h5 class="fw-bold fw-5 mb-3"> <a class="text-primary " href="sdjfsldfj.com">•	Battle #3: Living in a place where medical care and/or dedicated advocacy is scarce</a></h5>
+                    <h5 class="fw-bold fw-5  mb-3"> <a class="text-primary " href="{{ route('about-scd.battle-one') }}"> •	Battle #1: Simply having the disease</a></h5>
+                    <h5 class="fw-bold fw-5 mb-3"> <a class="text-primary " href="{{ route('about-scd.battle-two') }}">•	Battle #2: Dealing with people’s negative beliefs and actions</a></h5>
+                    <h5 class="fw-bold fw-5 mb-3"> <a class="text-primary " href="{{ route('about-scd.battle-three') }}">•	Battle #3: Living in a place where medical care and/or dedicated advocacy is scarce</a></h5>
                 </div>
 
             </div>
@@ -220,7 +218,7 @@
         </div>
 
     </div>
-    <!-- Causes End -->
+    <!-- Challenges With Living With SCD End -->
 
 
 </x-layout>

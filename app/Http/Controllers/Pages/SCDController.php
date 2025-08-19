@@ -72,4 +72,20 @@ class SCDController extends Controller
     {
         return view('pages.about-scd.good-news');
     }
+
+
+    public function battleOne()
+    {
+        return view('pages.about-scd.battles.battle-one');
+    }
+
+    public function battleTwo()
+    {
+        return view('pages.about-scd.battles.battle-two');
+    }
+
+    public function battleThree()
+    {
+        return view('pages.about-scd.battles.battle-three');
+    }
 }

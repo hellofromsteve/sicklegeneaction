@@ -67,6 +67,7 @@ class AboutUsController extends Controller
 
     public function goals()
     {
+
         $goals = [
             [
                 'id' => 1,
@@ -100,7 +101,9 @@ class AboutUsController extends Controller
             ],
 
         ];
+
         return view('pages.about-us.goals', compact('goals'));
+
     }
 
     public function staff()
