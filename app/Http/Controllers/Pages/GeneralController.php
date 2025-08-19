@@ -3,7 +3,9 @@
 namespace App\Http\Controllers\Pages;
 
 use App\Http\Controllers\Controller;
+use App\Models\User;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Validation\ValidationException;
 
 class GeneralController extends Controller
@@ -124,7 +126,16 @@ class GeneralController extends Controller
             return back()->withErrors($e->validator)->withInput();
         }
 
-        return back()->with('success', 'Thanks for contacting us!');
+        try {
+
+            sweetalert()->success('Message Sent Successfully');
+        } catch (\Exception $exception) {
+            Log::error($exception->getMessage());
+            sweetalert()->error('Something Went Wrong!');
+            return back();
+        }
+
+        return back();
 
     }
 

@@ -10,7 +10,7 @@ Route::get('/', [GeneralController::class, 'home'])->name('home');
 Route::get('/about-us', [GeneralController::class, 'aboutUs'])->name('about-us');
 Route::get('/about-scd', [GeneralController::class, 'aboutScd'])->name('about-scd');
 Route::get('/contact-us', [GeneralController::class, 'contactUs'])->name('contact-us');
-Route::get('/contact-us', [GeneralController::class, 'contactUs'])->name('contact-us');
+Route::post('/contact-us', [GeneralController::class, 'handleContact'])->name('handle-contact');
 Route::get('/what-we-do', [GeneralController::class, 'whatWeDo'])->name('what-we-do');
 
 
