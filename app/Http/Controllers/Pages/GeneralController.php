@@ -142,6 +142,7 @@ class GeneralController extends Controller
 
     public function whatWeDo()
     {
+
         return view('pages.general.what-we-do');
     }
 }
