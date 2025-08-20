@@ -1,6 +1,6 @@
 <x-layout title="Our Inspiration">
 
-    <!-- About Us Start -->
+    <!-- Inspiration Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">
         <div class="container">
             <div class="section-title text-center ">
@@ -45,7 +45,7 @@
             </div>
         </div>
     </div>
-    <!-- Our Mission End -->
+    <!--Inspiration End -->
 
 
 

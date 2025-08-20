@@ -1,7 +1,7 @@
 <x-layout title="About Sickle Cell Disease">
 
     <!-- About SCD Start -->
-    <div class="help-area pt-50 pb-115 ptb-sm-60 ">
+    <div class="help-area pt-50 pb-50 ptb-sm-60 ">
         <div class="container">
             <div class="section-title text-center ">
                 <h1 class="text-black">About Sickle Cell Disease (SCD) </h1>

@@ -1,127 +1,182 @@
-<x-layout title="In Their Own Voices">
+<x-layout title="How SCD Can Be Cured">
 
-    <!-- In Their Own Voices Start -->
+    <!-- How SCD Can Be Cured Start -->
     <div class="help-area pt-10 pb-40 ptb-sm-60">
 
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10 pb-20 text-danger text-center">In Their Own Voices</h4>
+                <h4 class="pt-10 pb-20 text-danger text-center">How SCD Can Be Cured</h4>
 
-                <h5 class="pt-3 mb-10 px-4 text-black text-center">Sickle Cell Warriors and Their Families Speak  </h5>
+                <h5 class="pt-3 mb-10 px-4 text-black">As of 2025, there are two known types of cures for sickle cell disease.</h5>
 
-                <h5 class="pt-20 px-4 text-black">Numbers Have Names — The Faces and Voices Behind the World’s Stunning SCD Statistics</h5>
 
-                <div class="accordion pt-40 px-4" id="storiesAccordion">
+                <p class="px-4 text-black">•	<span class="fw-bolder">Bone Marrow Transplantation</span> and <span class="fw-bolder">Gene Therapy</span> are the only cures for sickle cell disease.</p>
+                <p class=" px-4 text-black">•	They are not done very often because of the significant risks involved and because of the cost.</p>
 
-                    <!-- 1 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="heading1">
-                            <button class="accordion-button collapsed text-primary fs-5 fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
-                                Behind each statistic is an individual.
-                            </button>
-                        </h2>
-                        <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1" data-bs-parent="#storiesAccordion">
-                            <div class="accordion-body">
-                                <p class="text-black mb-1">• Statistics are important. They let us know how much work needs to be done and how much progress we are making.</p>
-                                <p class="text-black mb-1">• But sometimes we forget that people and their lives are more than just numbers.</p>
-                                <p class="text-black mb-1">• Each individual has a story.</p>
+                <p class=" px-4 text-black">•	A hematologist can explain the details of what a person could expect, based on the particulars of the person’s own medical and financial situation.</p>
+
+
+                <div class="mb-4 ms-3">
+
+                            <strong class="fs-5">1. Blood and Bone Marrow Transplantation</strong>
+                            <a href="https://www.nhlbi.nih.gov/health/sickle-cell-disease/treatment" target="_blank" class="text-primary">
+                                (Read More)
+                            </a>
+
+                            <div class="mt-2 ms-3">
+                                <p class="mb-0"><strong>What it involves</strong></p>
+                                <p class="ms-3  mb-1">• A series of tests and examinations</p>
+                                <p class="ms-3 mb-1">• Harvesting the stem cells from either the recipient or the donor</p>
+                                <p class="ms-3 mb-1">• Preparation of the recipient’s body for the transplant</p>
+                                <p class="ms-3 mb-1">• Transplantation of the harvested stem cells</p>
+                                <p class="ms-3 mb-1">• Recovery</p>
                             </div>
+
+                            <div class="mt-4 ms-3">
+                                <p class="mb-0"><strong>What a person would need to have</strong></p>
+                                <p class="ms-3 mb-1">• A specialized medical facility equipped with skilled staff and advanced infrastructure</p>
+                                <p class="ms-3 mb-1">• A matched donor, usually a close blood relative</p>
+                                <p class="ms-3 mb-1">• A plan for future fertility preservation</p>
+                                <p class="ms-3 mb-1">• Time to prepare for, undergo, and recover from the transplant in a safe environment</p>
+                                <p class="ms-3 mb-1">• Health insurance or a significant amount of personal funds</p>
+                            </div>
+
+                            <div class="mt-4 ms-3">
+                                <p class="mb-0"><strong>What the risks are</strong></p>
+                                <p class="ms-3 mb-1">• An attack on the recipient’s organs by the transplanted stem cells — called “Graft-versus-host disease”</p>
+                                <p class="ms-3 mb-1">• A higher risk of developing certain cancers in later life</p>
+                                <p class="ms-3 mb-1">• Infertility</p>
+                                <p class="ms-3 mb-1">• Seizures</p>
+                                <p class="ms-3 mb-1">• Transplant failure, which would cause the sickle cell disease to return</p>
+                                <p class="ms-3 mb-1">• The loss of life</p>
+                            </div>
+
+                            <div class="mt-4 ms-3">
+                                <p class="mb-0"><strong>Other possible outcomes</strong></p>
+                                <p class="ms-3 mb-1">• The transplant may not cure long-term pain linked with sickle cell disease</p>
+                                <p class="ms-3 mb-1">• The transplant may not always correct all of the damage that sickle cell disease has already caused</p>
+                            </div>
+
+                </div>
+
+
+                <div class="container text-center my-5">
+                    <div class="row justify-content-center">
+
+                        <h5 class="mt-3 mb-2 fw-bold text-black">
+                            In spite of the current requirements, the possible risks, and the expense, <br>
+                            a successful Bone Marrow Transplantation is a joyous occurrence!
+                        </h5>
+
+                        <!-- Image Column 1 -->
+                        <div class="col-12 col-md-6 mb-3">
+                            <img src="{{ asset('img/scd/cure1.png') }}"
+                                 alt="Successful Bone Marrow Img"
+                                 class="img-fluid rounded shadow-sm"
+                                 style="height: 250px; width: 70%; object-fit: cover;">
                         </div>
+
                     </div>
 
-                    <!-- 2 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="heading2">
-                            <button class="accordion-button collapsed text-primary fs-5 fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                Behind each individual is a family.
-                            </button>
-                        </h2>
-                        <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#storiesAccordion">
-                            <div class="accordion-body">
-                                <p class="text-black mb-1">• Each individual is part of a family of more individuals who care about each other.</p>
-                                <p class="text-black mb-1">• It is the families that often work, day and night, to keep their loved one alive and as well as possible.</p>
-                                <p class="text-black mb-1">• Friends, colleagues, employers and, of course, healthcare professionals are there to help, as well.</p>
-                            </div>
-                        </div>
+                    <!-- Caption below images -->
+                    <h5 class="mt-3 fw-bold text-black">
+                        Successful Bone Marrow Transplant | Sickle Cell Disease Journey
+                        <br>
+                       Dr. Gaurav Kharya -    <a class="text-primary" target="_blank" href="https://www.youtube.com/watch?v=s5fJKRggM_I">Watch Here</a>
+                    </h5>
+
+                </div>
+
+
+                <div class="mt-2 ms-3">
+                   <strong class="fs-5"> 2. Gene Therapy</strong>
+
+                    <div class="ms-3">
+                        <p class="mb-0 mt-2"><strong>What it involves</strong></p>
+                        <p class="ms-3 mb-1">1. Referral for participation in a clinical trial</p>
+                        <p class="ms-3 mb-1">2. Determination of eligibility</p>
+                        <p class="ms-3 mb-1">3. Preparation for stem cell collection</p>
+                        <p class="ms-3 mb-1">4. Screenings (such as MRI and blood tests)</p>
+                        <p class="ms-3 mb-1">5. Genetic testing</p>
+                        <p class="ms-3 mb-1">6. Discontinuation of any sickle cell disease medications</p>
+                        <p class="ms-3 mb-1">7. Monthly blood transfusions</p>
+                        <p class="ms-3 mb-1">8. Hospitalization for stem cell collection</p>
+                        <p class="ms-3 mb-1">9. Modification or manufacturing and processing of the collected stem cells</p>
+                        <p class="ms-3 mb-1">10. Repetition of the previous two steps — if the process fails</p>
+                        <p class="ms-3 mb-1">11. Hospitalization to receive the modified stem cells — if the process succeeds</p>
+                        <p class="ms-3 mb-1">12. Chemotherapy to make space in the bone marrow for the modified stem cells</p>
+                        <p class="ms-3 mb-1">13. Recovery in a protective room in a hospital with measures taken to reduce the risk of infection</p>
+                        <p class="ms-3 mb-1">14. Outpatient recovery with monthly monitoring to address potential complications</p>
+                        <p class="ms-3 mb-1">15. Yearly long-term follow-up, for 15 years, to monitor any long-term effect</p>
                     </div>
 
-                    <!-- 3 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="heading3">
-                            <button class="accordion-button collapsed text-primary fs-5 fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                Behind each video listed below is Novartis.
-                            </button>
-                        </h2>
-                        <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#storiesAccordion">
-                            <div class="accordion-body">
-                                <p class="text-black mb-1">• In 2019, The Novartis Africa Sickle Cell Disease Program was launched in Ghana to help bridge disease management and outcome disparities between Africa and the rest of the world.</p>
-                                <p class="text-black mb-1">• They understood the importance of listening to people’s individual stories.</p>
-                            </div>
-                        </div>
+                    <div class="mt-3 ms-3">
+                        <p class="mb-0 mt-2"><strong>What a person would need to have</strong></p>
+                        <p class="ms-3 mb-1">• A specialized medical facility equipped with skilled staff and advanced infrastructure</p>
+                        <p class="ms-3 mb-1">• Time to prepare for, undergo, and recover from, the gene therapy process in a safe environment</p>
+                        <p class="ms-3 mb-1">• Health insurance or a significant amount of personal funds</p>
                     </div>
 
-                    <!-- 4 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="heading4">
-                            <button class="accordion-button collapsed text-primary fs-5 fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                Dr. Alex Kumar helped to tell our stories.
-                            </button>
-                        </h2>
-                        <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#storiesAccordion">
-                            <div class="accordion-body">
-                                <p class="text-black mb-1">• As part of their partnership with Ghana, Novartis worked with Dr. Alex Kumar, a global health physician and photographer.</p>
-                                <p class="text-black mb-1">• Dr. Kumar helped Sickle Cell Warriors and their families to share stories from Ghana and around the globe.</p>
-                            </div>
-                        </div>
+
+                    <div class="mt-3 ms-3">
+                        <p class="mb-0 mt-2"><strong>What the risks are</strong></p>
+                        <p class="ms-3 mb-1">• Infertility</p>
+                        <p class="ms-3 mb-1">• Hair loss</p>
+                        <p class="ms-3 mb-1">• Mouth ulcers</p>
+                        <p class="ms-3 mb-1">• Fewer white blood cells, which puts you at a higher risk of serious infection</p>
+                        <p class="ms-3 mb-1">• Possible unknown risks because the treatment is experimental</p>
                     </div>
 
-                    <!-- 5 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="heading5">
-                            <button class="accordion-button collapsed text-primary fs-5 fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                                Novartis and Dr. Kumar have our sincere gratitude for these stories.
-                            </button>
-                        </h2>
-                        <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#storiesAccordion">
-                            <div class="accordion-body">
-                                <p class="text-black mb-1">• These brief but thoughtfully captured accounts feel like a labor of love.</p>
-                                <p class="text-black mb-1">• It is with deep gratitude to the Novartis Global Health team, and the extraordinary Dr. Alex Kumar, that we can offer an informative glimpse into the humanity behind the statistics.</p>
-                                <p class="text-black mb-1">
-                                    • <a href="https://www.novartis.com/diseases/sickle-cell-disease#:~:text=The%20Novartis%20Africa%20Sickle%20Cell%20Disease%20program%20was%20launched%20in,in%20Africa%20with%20SCD5." target="_blank">Learn more on the Novartis website</a>
-                                </p>
-                            </div>
-                        </div>
+
+                    <div class="mt-3 ms-3">
+                        <p class="mb-0 mt-2"><strong>Other possible outcomes</strong></p>
+                        <p class="ms-3 mb-1">• The gene therapy process may not work.</p>
+                        <p class="ms-3 mb-1">• The transplant may not always correct all of the damage that sickle cell disease has already caused</p>
+                    </div>
+
+                    <div class="ms-3">
+                        <p><a  class="text-primary" href="https://www.genome.gov/research-at-nhgri/Projects/Democratizing-Education/navigating-sickle-cell-disease-gene-therapy" target="_blank">Source 1</a></p>
+                        <p class="mb-0 mt-0"><a class="text-primary" href="https://www.genome.gov/sites/default/files/media/files/2022-09/Sickle_cell_disease_gene_therapy_FAQ_0.pdf" target="_blank">Source 2</a></p>
                     </div>
 
                 </div>
 
-                <div class="px-4 pt-40">
-                    <h5 class="text-black">VIDEOS: Listen to their experiences of living with sickle cell disease.</h5>
 
-                    <div class="pt-2">
-                        <p class="text-black mb-3">
-                            1. Sickle Cell Disease – Ghana<br>
-                            <span style="margin-left: 1.5em;">K. Ohene-Frempong & J. Dzido – Two Fathers on a Mission (8:19) –
-                                <a href="https://www.youtube.com/watch?v=KQJl2dIn9to" class="text-primary" target="_blank">Watch Here</a>
-                            </span>
-                        </p>
+                <div class="container text-center my-5">
+                    <div class="row justify-content-center">
 
-                        <p class="text-black mb-3">
-                            2. The Untold Stories of Sickle Cell Disease – Joel – Ghana (4:59) –
-                            <a href="https://www.youtube.com/watch?v=WznzNecqDbg&list=PL6YfpI0VEjhsJ5bKF1ghCOKV-T0YVTq-a&index=7" class="text-primary" target="_blank">Watch Here</a>
-                        </p>
+                        <h5 class="mt-3 mb-2 fw-bold text-black">
+                            In spite of the extensive process, the possible risks, and the expense, <br>
+                            successful Gene Therapy is a joyous occurrence.
+                        </h5>
 
-                        <p class="text-black mb-3">
-                            3. The Untold Stories of Sickle Cell Disease – Part 1 Global (3:28) –
-                            <a href="https://www.youtube.com/watch?v=eNlKWlXtDVc" class="text-primary" target="_blank">Watch Here</a>
-                        </p>
+                        <!-- Image Column 1 -->
+                        <div class="col-12 col-md-6 mb-3">
+                            <img src="{{ asset('img/scd/cure2.png') }}"
+                                 alt="Sharing Experience 1"
+                                 class="img-fluid rounded shadow-sm"
+                                 style="height: 250px; width: 70%; object-fit: cover;">
+                        </div>
 
-                        <p class="text-black mb-1">
-                            4. The Untold Stories of Sickle Cell Disease – Part 2 Global (4:54) –
-                            <a href="https://www.youtube.com/watch?v=8ubf09bJBRg" class="text-primary" target="_blank">Watch Here</a>
-                        </p>
+
+                        <!-- Image Column 1 -->
+                        <div class="col-12 col-md-6 mb-3">
+                            <img src="{{ asset('img/scd/cure3.png') }}"
+                                 alt="Sharing Experience 2"
+                                 class="img-fluid rounded shadow-sm"
+                                 style="height: 250px; width: 70%; object-fit: cover;">
+                        </div>
                     </div>
+
+                    <!-- Caption below images -->
+                    <h5 class="mt-3 fw-bold text-black">
+                        Individuals with sickle cell disease share experience with <br>
+                        cell and gene therapy June 17, 2024
+                        <br>
+                    <a class="text-primary" target="_blank" href="https://www.youtube.com/watch?v=lrr72uMCbbY">Watch Here</a>
+                    </h5>
+
                 </div>
 
             </div>
