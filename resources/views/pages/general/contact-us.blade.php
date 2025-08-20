@@ -1,20 +1,22 @@
 <x-layout title="Contact Us">
 
     <!-- Banner Area Start -->
-    <div class="banner-area bg-4">
+    <div class="about-us-section py-5 bg-light text-center">
         <div class="container">
-            <div class="breadcrumb-text">
-                <h2>Contact Us</h2>
-                <div class="breadcrumb-bar">
-                    <ul class="breadcrumb">
-                        <li><a href="index.html">Home</a></li>
-                        <li>Contact Us</li>
-                    </ul>
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <h1 class="text-danger mb-2">Contact Us</h1>
+                    <h1 class="fw-bold mb-3 text-black">Empower. Unite. Defeat Sickle Cell.</h1>
+                    <p class="fs-5 text-secondary mb-4 text-black">
+                        Reach out for support or inquiries, and join us in raising awareness to <br> fight sickle cell disease.
+                    </p>
                 </div>
             </div>
         </div>
     </div>
     <!-- Banner Area End -->
+
+
     <!-- Contact Area Start -->
     <div class="contact-area pt-50 pt-sm-60">
         <div class="container">
@@ -86,21 +88,21 @@
             <div class="row text-center">
                 <div class="col-md-4 col-sm-6">
                     <div class="ht-about-feature-item" style="">
-                        <span><img src="img/icon/donation.png" alt=""></span>
+                        <span><img src="{{ asset('img/icon/donation.png') }}" alt=""></span>
                         <h3 class="text-black">Early Diagnosis</h3>
                         <p class="text-black">Early diagnosis of Sickle Cell Disease is crucial for timely care, improved health outcomes, and a better quality of life.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="ht-about-feature-item">
-                        <span><img src="img/icon/volunteer.png" alt=""></span>
+                        <span><img src="{{ asset('img/icon/volunteer.png') }}" alt=""></span>
                         <h3 class="text-black">Early Intervention</h3>
                         <p class="text-black">Prevent complications, reduce hospital visits, and empower individuals with Sickle Cell Disease to live healthier, fuller lives.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="ht-about-feature-item">
-                        <span><img src="img/icon/scholar.png" alt=""></span>
+                        <span><img src="{{ asset('img/icon/scholar.png') }}" alt=""></span>
                         <h3 class="text-black">Advocacy Support</h3>
                         <p class="text-black">Advocacy support gives a voice to Sickle Cell warriors, driving awareness, policy change, and better care.</p>
                     </div>

@@ -52,15 +52,15 @@
                     <div class="hlp-content">
                         <h4 class="text-black">Our Inspiration</h4>
                         <p class="text-black"><strong>In Memoriam: Kwaku Ohene-Frempong</strong></p>
-                        <p style="text-align: justify;">
+                        <p class="text-black" style="text-align: justify;">
                             Kwaku Ohene-Frempong, a prominent figure in hematology and a global authority on sickle cell disease (SCD) was born in Kukurantumi, Ghana in 1946 into a very large and loving family.
                         </p>
 
-                        <p style="text-align: justify;">
+                        <p class="text-black" style="text-align: justify;">
                             KOF excelled academically, athletically, and in leadership during his early education in Kukurantumi and in Kumasi at the prestigious Prempeh College Secondary School.
                         </p>
 
-                        <p style="text-align: justify;">
+                        <p class="text-black" style="text-align: justify;">
                             In 1972, during his second year at Yale University School of Medicine, his firstborn child, his son Kwame, was born with sickle cell disease.
                         </p>
                         <div class="hlp-btn mt-20"><a href="{{ route('about-us.inspiration') }}" class="default-btn">Read More</a></div>
@@ -82,7 +82,7 @@
                         By empowering communities and uniting voices, we can overcome the challenges of Sickle Cell Disease — together, stronger.
                     </p>
                     <div class="d-flex justify-content-center gap-3">
-                        <a href="#" class="default-btn px-4 ">Donate</a>
+                        <a href="{{ route('how-to-help') }}" class="default-btn px-4">Donate</a>
                         <a href="{{ route('about-us') }}" class="default-btn btn-white px-4 ">Learn More</a>
                     </div>
                 </div>
@@ -103,21 +103,21 @@
             <div class="row text-center">
                 <div class="col-md-4 col-sm-6">
                     <div class="ht-about-feature-item" style="">
-                        <span><img src="img/icon/donation.png" alt=""></span>
+                        <span><img src="{{ asset('img/icon/donation.png') }}" alt=""></span>
                         <h3 class="text-black">Early Diagnosis</h3>
                         <p class="text-black">Early diagnosis of Sickle Cell Disease is crucial for timely care, improved health outcomes, and a better quality of life.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="ht-about-feature-item">
-                        <span><img src="img/icon/volunteer.png" alt=""></span>
+                        <span><img src="{{ asset('img/icon/volunteer.png') }}" alt=""></span>
                         <h3 class="text-black">Early Intervention</h3>
                         <p class="text-black">Prevent complications, reduce hospital visits, and empower individuals with Sickle Cell Disease to live healthier, fuller lives.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="ht-about-feature-item">
-                        <span><img src="img/icon/scholar.png" alt=""></span>
+                        <span><img src="{{ asset('img/icon/scholar.png') }}" alt=""></span>
                         <h3 class="text-black">Advocacy Support</h3>
                         <p class="text-black">Advocacy support gives a voice to Sickle Cell warriors, driving awareness, policy change, and better care.</p>
                     </div>
@@ -133,24 +133,24 @@
     <div class="blog-area pt-70 pb-70 pt-sm-60 pb-sm-30">
         <div class="container">
             <div class="section-title text-center">
-                <h1>Our Blog</h1>
-                <p>Explore stories, insights, and updates on the fight against Sickle Cell Disease.</p>
+                <h1 class="text-black">Our Blog</h1>
+                <p class="text-black">Explore stories, insights, and updates on the fight against Sickle Cell Disease.</p>
             </div>
             <div class="row">
                 <!-- Single Blog Start -->
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="ht-single-blog">
                         <div class="ht-blog-img">
-                            <a href="blog-details.html"><img src="{{ asset('img/blog/gbcblog.jpg') }}" alt=""></a>
+                            <a href="#"><img src="{{ asset('img/blog/gbcblog.jpg') }}" alt=""></a>
                         </div>
                         <div class="ht-blog-text">
-                            <h2><a href="blog-details.html">Decentralize Hydroxyurea for widespread accessibility.</a></h2>
+                            <h2><a href="#">Decentralize Hydroxyurea for widespread accessibility.</a></h2>
                             <div class="post-meta-wapper">
                                 <span class="s-post-meta"><i class="zmdi zmdi-calendar-check"></i>Nov 27, 2023</span>
                                 <span class="s-post-meta"><i class="zmdi zmdi-assignment-account"></i> By: <a href="#">GBC Ghana Online</a></span>
                             </div>
                             <p>Sickle cell experts have emphasised the importance of early detection of sickle ...</p>
-                            <a href="blog-details.html" class="default-btn mt-10">Read More</a>
+                            <a href="#" class="default-btn mt-10">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -159,16 +159,16 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="ht-single-blog">
                         <div class="ht-blog-img">
-                            <a href="blog-details.html"><img src="{{ asset('img/blog/launchnew.png') }}" alt="Launch Logo"></a>
+                            <a href="javascript:void(0)"><img src="{{ asset('img/blog/launchnew.png') }}" alt="Launch Logo"></a>
                         </div>
                         <div class="ht-blog-text">
-                            <h2><a href="blog-details.html">Foundation launched, Urges Call To Action.</a></h2>
+                            <h2><a href="javascript:void(0)">Foundation launched, Urges Call To Action.</a></h2>
                             <div class="post-meta-wapper">
                                 <span class="s-post-meta"><i class="zmdi zmdi-calendar-check"></i>Nov 30, 2023</span>
                                 <span class="s-post-meta"><i class="zmdi zmdi-assignment-account"></i>By: <a href="#">Citi News Room</a></span>
                             </div>
                             <p>Sickle Gene Action Foundation (SGAF) has been launched in Accra with a call on...</p>
-                            <a href="blog-details.html" class="default-btn mt-10">Read More</a>
+                            <a href="javascript:void(0)" class="default-btn mt-10">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -177,16 +177,16 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="ht-single-blog">
                         <div class="ht-blog-img">
-                            <a href="blog-details.html"><img src="{{ asset('img/blog/gnablog.jpg') }}" alt="Uniting Against SCD"></a>
+                            <a href="javascript:void(0)"><img src="{{ asset('img/blog/gnablog.jpg') }}" alt="Uniting Against SCD"></a>
                         </div>
                         <div class="ht-blog-text">
-                            <h2><a href="blog-details.html">Uniting Against Sickle Cell Disease in Ghana</a></h2>
+                            <h2><a href="javascript:void(0)">Uniting Against Sickle Cell Disease in Ghana</a></h2>
                             <div class="post-meta-wapper">
                                 <span class="s-post-meta"><i class="zmdi zmdi-calendar-check"></i>May 23, 2022</span>
                                 <span class="s-post-meta"><i class="zmdi zmdi-assignment-account"></i>By: <a href="#">GNA </a></span>
                             </div>
                             <p>Sickle Gene Action Foundation (SGAF), a Sickle Cell Disease (SCD) advocacy...</p>
-                            <a href="blog-details.html" class="default-btn mt-10">Read More</a>
+                            <a href="javascript:void(0)" class="default-btn mt-10">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -206,7 +206,7 @@
                     <h5>Support care for Sickle Cell warriors.</h5>
                 </div>
                 <div class="donate-btn">
-                    <a href="#" class="default-btn">Donate now</a>
+                    <a href="{{ route('how-to-help') }}" class="default-btn">Donate now</a>
                 </div>
             </div>
         </div>

@@ -55,10 +55,18 @@
                                         </li>
 
                                         <li class="{{ request()->routeIs('what-we-do') ? 'active' : '' }}"><a href="{{ route('what-we-do') }}">What We Do</a></li>
-                                        <li class="{{ request()->routeIs('about-scd*') ? 'active' : '' }}"><a href="{{ route('about-scd') }}">About SCD</a></li>
+                                        <li class="{{ request()->routeIs('about-scd*') ? 'active' : '' }}"><a href="{{ route('about-scd') }}">About SCD</a>
+                                            <ul>
+                                                <li><a href="{{ route('about-scd.what-is-scd') }}">What Is SCD</a></li>
+                                                <li><a href="{{ route('about-scd.causes-scd') }}">What Causes SCD</a></li>
+                                                <li><a href="{{ route('about-scd.voices') }}">In Their Voices</a></li>
+                                                <li><a href="{{ route('about-scd.cured') }}">How Can It Be Cured</a></li>
+                                                <li><a href="{{ route('about-scd.good-news') }}">The Good News</a></li>
+                                            </ul>
+                                        </li>
                                         <li><a href="#">News</a></li>
                                         <li class="{{ request()->routeIs('contact-us') ? 'active' : '' }}"><a href="{{ route('contact-us') }}">Contact</a></li>
-                                        <li><a href="#">How To Help</a>
+                                        <li class="{{ request()->routeIs('how-to-help') ? 'active' : '' }}"><a href="{{ route('how-to-help')  }}">How To Help</a>
 
                                         </li>
 

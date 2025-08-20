@@ -14,7 +14,7 @@
                 @foreach($advisory as $person)
                     <div class="col">
                         <div class="card h-100 text-center shadow-sm">
-                            <img src="{{ asset($person['photo']) }}" class="card-img-top img-fluid" alt="{{ $person['alt'] }}">
+                            <img src="{{ asset('img/team' . $person['photo']) }}" class="card-img-top img-fluid" alt="{{ $person['alt'] }}">
                             <div class="card-body">
                                 <h5 class="card-title mb-1">{{ $person['name'] }}</h5>
                                 <p class="text-muted mb-2">{{ $person['position'] }}</p>

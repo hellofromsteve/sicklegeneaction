@@ -6,7 +6,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-footer-widget">
                         <div class="footer-logo">
-                            <a href="index.html"><img src="img/logo/sgaf-logo.png" alt="Sickle Gene Action Foundation"></a>
+                            <a href="{{ route('home') }}"><img src="{{ asset('img/logo/sgaf-logo.png') }}" alt="Sickle Gene Action Foundation"></a>
                         </div>
                         <div class="footer-info">
                             <p>Transforming Lives Through Awareness.</p>
@@ -31,10 +31,10 @@
                     <div class="single-footer-widget">
                         <h4>Quick Links</h4>
                         <ul class="footer-list">
-                            <li><a href="about.html">About us</a></li>
-                            <li><a href="#">Gallery</a></li>
-                            <li><a href="#">FAQ</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="{{ route('about-us') }}">About us</a></li>
+                            <li><a href="{{ route('about-us.mission') }}">Mission</a></li>
+                            <li><a href="{{ route('contact-us') }}">Contact Us</a></li>
+                            <li><a href="{{ route('how-to-help') }}">How To Help</a></li>
 
                         </ul>
                     </div>
@@ -43,27 +43,27 @@
                     <div class="single-footer-widget">
                         <h4>About Us</h4>
                         <ul class="footer-list">
-                            <li><a href="#">What We Do</a></li>
-                            <li><a href="#">Our Goals</a></li>
-                            <li><a href="#">Our Inspiration</a></li>
-                            <li><a href="#">Our Board</a></li>
-
-
+                            <li><a href="{{ route('what-we-do') }}">What We Do</a></li>
+                            <li><a href="{{ route('about-us.goals') }}">Our Goals</a></li>
+                            <li><a href="{{ route('about-us.inspiration') }}">Our Inspiration</a></li>
+                            <li><a href="{{ route('about-us.board') }}">Our Board</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
+
+
                     <div class="single-footer-widget">
                         <h4>Subscribe Us</h4>
                         <div class="footer-newsletter">
                             <p>Subscribe to our newsletter!</p>
                             <div class="newsletter-form mc_embed_signup">
-                                <form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
+                                <form action="{{ route('handle-subscribe') }}" method="post" >
+                                    @csrf
                                     <div id="mc_embed_signup_scroll" class="mc-form">
-                                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address...." required>
-                                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                        <input type="email" value="" name="email" class="email" id="mce-EMAIL" placeholder="Email address...." required>
                                         <div class="mc-news" aria-hidden="true"><input type="text" name="b_6bbb9b6f5827bd842d9640c82_05d85f18ef" tabindex="-1" value=""></div>
-                                        <button id="mc-embedded-subscribe" type="submit" name="subscribe"><i class="zmdi zmdi-mail-send"></i></button>
+                                        <button  type="submit"><i class="zmdi zmdi-mail-send"></i></button>
                                     </div>
                                 </form>
                             </div>
