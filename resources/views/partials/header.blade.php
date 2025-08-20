@@ -60,7 +60,7 @@
                                                 <li><a href="{{ route('about-scd.what-is-scd') }}">What Is SCD</a></li>
                                                 <li><a href="{{ route('about-scd.causes-scd') }}">What Causes SCD</a></li>
                                                 <li><a href="{{ route('about-scd.voices') }}">In Their Voices</a></li>
-                                                <li><a href="{{ route('about-scd.cured') }}">How Can It Be Cured</a></li>
+                                                <li><a href="{{ route('about-scd.cured') }}">Can It Be Cured</a></li>
                                                 <li><a href="{{ route('about-scd.good-news') }}">The Good News</a></li>
                                             </ul>
                                         </li>
