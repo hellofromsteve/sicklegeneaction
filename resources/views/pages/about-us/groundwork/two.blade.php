@@ -7,7 +7,7 @@
             <div class="container">
 
 
-                <h4 class="pt-10 ">2. Newborn Screening (NBS) and Sickle Cell Clinics – Crucial for Saving Lives</h4>
+                <h4 class="pt-10 ">2.	The National Newborn Screening (NBS) Programme - Crucial for Saving Lives </h4>
                 <h5 class="pt-30 px-4">Ghana’s Groundwork for Newborn Screening (1992-2022)</h5>
 
                 <!-- Full Historical Accordion Timeline -->
@@ -341,15 +341,44 @@
                                     <!-- 2020 - CHAI Partnership -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2020_consag">
+                                                •	2020: The American Society of Hematology Consortium on Newborn Screening in Africa for Sickle Cell Disease (CONSA
+                                            </button>
+                                        </h2>
+                                        <div id="collapse2020_consag" class="accordion-collapse collapse">
+                                            <div class="accordion-body">
+                                                The CONSA partnership to demonstrate the benefits of newborn screening and early interventions for children with SCD in sub-Saharan Africa was officially launched in 2020. Prof. Ohene-Frempong, President of the Sickle Cell Foundation of Ghana, became the National Coordinator for CONSA in Ghana.
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- 2020 - CHAI Partnership -->
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header">
                                             <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2020_chai">
-                                                • 2020: The Clinton Health Access Initiative – SCFG Partnership (2020)
+                                                • 2020: The Clinton Health Access Initiative (CHAI) – SCFG Partnership (2020)
                                             </button>
                                         </h2>
                                         <div id="collapse2020_chai" class="accordion-collapse collapse">
                                             <div class="accordion-body">
                                                 The Clinton Health Access Initiative in Ghana (CHAI-Ghana), in partnership with the Sickle Cell Foundation of Ghana, was awarded
-                                                a grant from the Bill and Melinda Gates Foundation in August 2020 to embark on a project entitled, “Closing the Loop in Sickle Cell Disease in Ghana through Enhanced Newborn Screening and Treatment “.
+                                                a grant from the Bill and Melinda    Gates Foundation in August 2020 to embark on a project entitled, “Closing the Loop in Sickle Cell Disease in Ghana through Enhanced Newborn Screening and Treatment “.
 
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <!-- 2020 - CHAI Partnership -->
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header">
+                                            <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2021_chai">
+                                                • 2021: The Clinton Health Access Initiative (CHAI) – SCFG Partnership 
+                                            </button>
+                                        </h2>
+                                        <div id="collapse2021_chai" class="accordion-collapse collapse">
+                                            <div class="accordion-body">
+                                                The Clinton Health Access Initiative in Ghana (CHAI-Ghana), was officially launched, in partnership with the Sickle Cell Foundation of Ghana, to enhance healthcare delivery and support health systems.
                                             </div>
                                         </div>
                                     </div>

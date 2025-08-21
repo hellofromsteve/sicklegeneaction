@@ -6,11 +6,11 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10">5. Centers of Excellence (COEs) for Management of Sickle Cell Disease in Regional Hospitals</h4>
+                <h4 class="pt-10">5. Treatment Centers for Sickle Cell Disease </h4>
                 <h5 class="pt-20 px-4 mb-3">Ghana’s Groundwork for Nationwide Excellence in Specialized Treatment and Care</h5>
 
                 <div class="text-justify pt-10 px-4" >
-                    <p class="text-black">As of 2022: The 21 Sickle Cell Centers Across Ghana</p>
+                    <p class="text-black">As of 2022: There are 21 Sickle Cell Centers Across Ghana</p>
                 </div>
 
                 <div class="text-justify pt-10 px-4" >
