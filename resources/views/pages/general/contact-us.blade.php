@@ -6,7 +6,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <h1 class="text-danger mb-2">Contact Us</h1>
-                    <h1 class="fw-bold mb-3 text-black">Empower. Unite. Defeat Sickle Cell.</h1>
+                    <h1 class="fw-bold mb-3 text-black">Empower. Unite.</h1>
                     <p class="fs-5 text-secondary mb-4 text-black">
                         Reach out for support or inquiries, and join us in raising awareness to <br> fight sickle cell disease.
                     </p>
@@ -62,9 +62,9 @@
                     <h3 class="sub-title text-black"> Be Part of the Mission</h3>
                     <p class="text-black">Help us build on 30+ years of work to improve the lives of Sickle Cell Warriors in Ghana. Together, we can scale life-saving strategies and reduce pain and disability.</p>
                     <p class="text-black"> Reach out — let’s make an impact.</p>
-                    <span class="ht-c-info"><span>Address:</span> 44 Jungle Avenue, East Legon - Ghana</span>
-                    <span class="ht-c-info"><span>Email:</span> <a href="mailto:info@sicklegeneactionghana.com">info@sicklegeneactionghana.com</a></span>
-                    <span class="ht-c-info"><span>Phone:</span> <a href="tel:+233534701222">+233534701222</a></span>
+                    <span class="ht-c-info" class="text-black"><span>Address:</span> 44 Jungle Avenue, East Legon - Ghana</span>
+                    <span class="ht-c-info"><span>Email:</span> <a href="mailto:info@sicklegeneactionghana.com" class="text-primary">info@sicklegeneactionghana.com</a></span>
+                    <span class="ht-c-info"><span>Phone:</span> <a href="tel:+233534701222" class="text-primary">+233534701222</a></span>
                     <div class="c-links">
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>

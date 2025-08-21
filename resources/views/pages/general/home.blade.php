@@ -77,7 +77,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <h1 class="text-uppercase text-danger mb-2">About Us</h1>
-                    <h1 class="fw-bold mb-3 text-black">Empower. Unite. Defeat Sickle Cell.</h1>
+                    <h1 class="fw-bold mb-3 text-black">Empower. Unite</h1>
                     <p class="fs-5 text-secondary mb-4">
                         By empowering communities and uniting voices, we can overcome the challenges of Sickle Cell Disease — together, stronger.
                     </p>
