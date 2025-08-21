@@ -14,23 +14,23 @@
                     <!-- 1. Alignment with Ghana’s Strategy -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingOne">
-                            <button class="accordion-button fw-bolder fs-5 text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <button class="accordion-button collapsed fw-bolder fs-5 text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                                 1. We align with Ghana’s National SCD Strategy
                             </button>
                         </h2>
-                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#scdAccordion">
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#scdAccordion">
                             <div class="accordion-body">
                                 <p class="text-black fs-5">
                                     We align with Ghana’s National Strategy for Sickle Cell Disease and support Ghana’s 6 Implementation Strategies designed to improve health outcomes of individuals with SCD.
                                 </p>
                                 <p class="text-black fs-5 mb-1">Specifically, this includes engaging in actions that help to:</p>
                                 <ul class="text-black fs-5 ps-4 mb-0">
-                                    <li>Ensure universal newborn screening for SCD.</li>
-                                    <li>Develop mechanisms for catch-up screening.</li>
-                                    <li>Improve Facilities, Laboratory, and Diagnostic Capacities, Equipment, Infrastructure.</li>
-                                    <li>Build Capacity on SCD – Skilled Workforce, Pre-Service Training Institutions.</li>
-                                    <li>Improve Access to Medicines, Technologies, and Innovation.</li>
-                                    <li>Develop Outreach Services for SCD.</li>
+                                    <li>1. Ensure universal newborn screening for SCD.</li>
+                                    <li>2. Develop mechanisms for catch-up screening.</li>
+                                    <li>3. Improve Facilities, Laboratory, and Diagnostic Capacities, Equipment, Infrastructure.</li>
+                                    <li>4. Build Capacity on SCD – Skilled Workforce, Pre-Service Training Institutions.</li>
+                                    <li>5. Improve Access to Medicines, Technologies, and Innovation.</li>
+                                    <li>6. Develop Outreach Services for SCD.</li>
                                 </ul>
                             </div>
                         </div>
