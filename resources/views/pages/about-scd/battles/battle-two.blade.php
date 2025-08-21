@@ -86,7 +86,7 @@
                         ],
                         [
                             'image' => 'battle2-4',
-                            'desc'  => 'Being fired due to medical needs',
+                            'desc'  => 'Being disrespected based on income status',
                         ],
                     ];
                 @endphp

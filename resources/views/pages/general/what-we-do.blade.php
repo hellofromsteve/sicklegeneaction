@@ -9,63 +9,89 @@
         </div>
         <div class="">
             <div class="container">
-                <!-- 1. Alignment with Ghana’s Strategy -->
-                <div class="text-justify pt-10">
-                    <p class="text-black fs-5">
-                        <strong>1. We align with Ghana’s National SCD Strategy</strong>
-                    </p>
-                    <p class="text-black fs-5 ps-3">
-                        We align with Ghana’s National Strategy for Sickle Cell Disease and support Ghana’s 6 Implementation Strategies designed to improve health outcomes of individuals with SCD.
-                    </p>
-                    <p class="text-black fs-5 ps-4 mb-1">Specifically, this includes engaging in actions that help to:</p>
-                    <ul class="text-black fs-5 ps-5 mb-4">
-                        <li class="mb-2">1. Ensure universal newborn screening for SCD.</li>
-                        <li class="mb-2">2. Develop mechanisms for catch-up screening.</li>
-                        <li class="mb-2">3. Improve Facilities, Laboratory, and Diagnostic Capacities, Equipment, Infrastructure.</li>
-                        <li class="mb-2">4. Build Capacity on SCD – Skilled Workforce, Pre-Service Training Institutions.</li>
-                        <li class="mb-2">5. Improve Access to Medicines, Technologies, and Innovation.</li>
-                        <li class="mb-2">6. Develop Outreach Services for SCD.</li>
-                    </ul>
-                </div>
+                <div class="accordion" id="scdAccordion">
 
-                <!-- 2. Identify Needs and Successes -->
-                <div class="text-justify pt-10">
-                    <p class="text-black fs-5">
-                        <strong>2. We identify needs and successes.</strong>
-                    </p>
-                    <p class="text-black fs-5 ps-3">
-                        We monitor and report on nationwide needs and successes.
-                    </p>
-                </div>
+                    <!-- 1. Alignment with Ghana’s Strategy -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button fw-bolder fs-5 text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                1. We align with Ghana’s National SCD Strategy
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#scdAccordion">
+                            <div class="accordion-body">
+                                <p class="text-black fs-5">
+                                    We align with Ghana’s National Strategy for Sickle Cell Disease and support Ghana’s 6 Implementation Strategies designed to improve health outcomes of individuals with SCD.
+                                </p>
+                                <p class="text-black fs-5 mb-1">Specifically, this includes engaging in actions that help to:</p>
+                                <ul class="text-black fs-5 ps-4 mb-0">
+                                    <li>Ensure universal newborn screening for SCD.</li>
+                                    <li>Develop mechanisms for catch-up screening.</li>
+                                    <li>Improve Facilities, Laboratory, and Diagnostic Capacities, Equipment, Infrastructure.</li>
+                                    <li>Build Capacity on SCD – Skilled Workforce, Pre-Service Training Institutions.</li>
+                                    <li>Improve Access to Medicines, Technologies, and Innovation.</li>
+                                    <li>Develop Outreach Services for SCD.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
 
-                <!-- 3. Raise Awareness -->
-                <div class="text-justify pt-10">
-                    <p class="text-black fs-5">
-                        <strong>3. We raise awareness and provide education.</strong>
-                    </p>
-                    <p class="text-black fs-5 ps-3">
-                        We raise and attempt to maintain public awareness and understanding about sickle cell disease.
-                    </p>
-                </div>
+                    <!-- 2. Identify Needs and Successes -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed fw-bolder fs-5 text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                2. We identify needs and successes
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#scdAccordion">
+                            <div class="accordion-body">
+                                <p class="text-black fs-5">We monitor and report on nationwide needs and successes.</p>
+                            </div>
+                        </div>
+                    </div>
 
-                <!-- 4. Amplify Voices -->
-                <div class="text-justify pt-10">
-                    <p class="text-black fs-5">
-                        <strong>4. We amplify sickle cell warrior voices.</strong>
-                    </p>
-                    <p class="text-black fs-5 ps-3">
-                        We amplify the voices of Sickle Cell Warriors and their Families by sharing their stories, experiences, and advocacy through our platforms and events.
-                    </p>
-                </div>
+                    <!-- 3. Raise Awareness -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed fw-bolder fs-5 text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                3. We raise awareness and provide education
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#scdAccordion">
+                            <div class="accordion-body">
+                                <p class="text-black fs-5">We raise and attempt to maintain public awareness and understanding about sickle cell disease.</p>
+                            </div>
+                        </div>
+                    </div>
 
-                <!-- 5. Fill Screening Gaps -->
-                <div class="text-justify pt-10">
-                    <p class="text-black fs-5">
-                        <strong>5. We fill screening gaps and facilitate enrollment in our medical care system.</strong>
-                    </p>
-                    <p class="text-black fs-5 ps-3">
-                        We fill potential sickle cell screening gaps at selected events. We then enroll individuals, as needed, into the National Health Insurance Scheme (NHIS) program and connect them with the assigned healthcare center within their community for further care and treatment.
-                    </p>
+                    <!-- 4. Amplify Voices -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingFour">
+                            <button class="accordion-button collapsed fw-bolder fs-5 text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                4. We amplify sickle cell warrior voices
+                            </button>
+                        </h2>
+                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#scdAccordion">
+                            <div class="accordion-body">
+                                <p class="text-black fs-5">We amplify the voices of Sickle Cell Warriors and their Families by sharing their stories, experiences, and advocacy through our platforms and events.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 5. Fill Screening Gaps -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed fw-bolder fs-5 text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                5. We fill screening gaps and facilitate enrollment in our medical care system
+                            </button>
+                        </h2>
+                        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#scdAccordion">
+                            <div class="accordion-body">
+                                <p class="text-black fs-5">We fill potential sickle cell screening gaps at selected events. We then enroll individuals, as needed, into the National Health Insurance Scheme (NHIS) program and connect them with the assigned healthcare center within their community for further care and treatment.</p>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -95,7 +121,6 @@
              Images of Awo & Team Doing the Work
             </p>
         </div>
-
 
 
         <div class="container py-5">
