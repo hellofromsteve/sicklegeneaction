@@ -22,22 +22,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 ml-auto">
-                    <div class="contact-form-wrapper fix">
+                    <div class="contact-form-wrapper fix pt-2">
                         <h3 class="sub-title">Reach Out To Us</h3>
 
-                        <form action="{{ route('handle-contact') }}" method="POST" class="contact_form">
+                        <form action="{{ route('handle-contact') }}" method="POST" class="form-control">
                             @csrf
                             <div class="row">
                                 <div class="col-md-6 col-sm-6 mb-3">
                                     <label for="name" class="form-label">Your Name</label>
-                                    <input type="text" id="name" name="name" placeholder="Enter your name" value="{{ old('name') }}" class="form-control">
+                                    <input type="text"  name="name" placeholder="Enter your name" value="{{ old('name') }}" class="form-control">
                                     @error('name')
                                     <span class="text-danger d-block mt-1">{{ $message }}</span>
                                     @enderror
                                 </div>
                                 <div class="col-md-6 col-sm-6 mb-3">
                                     <label for="email" class="form-label">Your Email</label>
-                                    <input type="text" id="email" name="email" placeholder="Enter your email" value="{{ old('email') }}" class="form-control">
+                                    <input type="text" name="email" placeholder="Enter your email" value="{{ old('email') }}" class="form-control">
                                     @error('email')
                                     <span class="text-danger d-block mt-1">{{ $message }}</span>
                                     @enderror
@@ -45,11 +45,15 @@
                             </div>
                             <div class="mb-3">
                                 <label for="message" class="form-label">Your Message</label>
-                                <textarea id="message" name="message" cols="30" rows="10" placeholder="Enter your message" class="form-control">{{ old('message') }}</textarea>
+                                <textarea  name="message" cols="30" rows="10" placeholder="Enter your message" class="form-control">{{ old('message') }}</textarea>
                                 @error('message')
                                 <span class="text-danger d-block mt-1">{{ $message }}</span>
                                 @enderror
                             </div>
+                            {!! NoCaptcha::display() !!}
+                            @error('g-recaptcha-response')
+                            <span class="text-red-600 text-sm">{{ $message }}</span>
+                            @enderror
                             <button type="submit" class="submit-btn default-btn">
                                 <span>Submit</span>
                             </button>

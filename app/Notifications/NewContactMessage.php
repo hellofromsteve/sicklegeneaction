@@ -7,15 +7,18 @@ use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Notifications\Messages\MailMessage;
 use Illuminate\Notifications\Notification;
 
-class ContactFormSubmitted extends Notification
+class NewContactMessage extends Notification
 {
     use Queueable;
+
+    private array $info;
 
     /**
      * Create a new notification instance.
      */
-    public function __construct()
+    public function __construct($info)
     {
+        $this->info = $info;
         //
     }
 
@@ -35,9 +38,12 @@ class ContactFormSubmitted extends Notification
     public function toMail(object $notifiable): MailMessage
     {
         return (new MailMessage)
-            ->line('The introduction to the notification.')
-            ->action('Notification Action', url('/'))
-            ->line('Thank you for using our application!');
+            ->line('Hello Mrs Awo, kindly find a new contact message from your website.')
+            ->line('Sender: ' . $this->info['name'])
+            ->line('Email: ' . $this->info['email'])
+            ->line('Message: ' . $this->info['message']);
+//            ->action('Notification Action', url('/'))
+//            ->line('Thank you for using our application!');
     }
 
     /**

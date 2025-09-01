@@ -3,8 +3,10 @@
 namespace App\Http\Controllers\Pages;
 
 use App\Http\Controllers\Controller;
+use App\Notifications\NewContactMessage;
 use App\Models\User;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Notification;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Validation\ValidationException;
 
@@ -117,8 +119,9 @@ class GeneralController extends Controller
         try {
             $info = $request->validate([
                 'name' => 'required|string|max:200',
-                'email' => 'required|email',
+                'email' => 'required|email|max:200',
                 'message' => 'required|string|max:200',
+                'g-recaptcha-response' => 'required|captcha',
             ]);
         } catch (ValidationException $e) {
             $firstError = $e->validator->errors()->first();
@@ -128,10 +131,20 @@ class GeneralController extends Controller
 
         try {
 
+
+            Notification::route('mail', 'asarestephen.asare@gmail.com')
+                ->notify(new NewContactMessage($info));
+
+            Notification::route('mail', 'direct2stephen@gmail.com')
+                ->notify(new NewContactMessage($info));
+
+
+
+
             sweetalert()->success('Message Sent Successfully');
         } catch (\Exception $exception) {
             Log::error($exception->getMessage());
-            sweetalert()->error('Something Went Wrong!');
+            sweetalert()->error($exception->getMessage());
             return back();
         }
 

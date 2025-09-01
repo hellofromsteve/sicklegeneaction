@@ -111,8 +111,14 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'hello@example.com'),
-        'name' => env('MAIL_FROM_NAME', 'Example'),
+        'address' => env('MAIL_FROM_ADDRESS', 'hello@sicklegeneaction.com'),
+        'name' => env('MAIL_FROM_NAME', 'Sickle Gene Action Ghana'),
+    ],
+
+
+    'reply_to' => [
+        'address' => 'hello@sicklegeneaction.com',
+        'name' => 'SGAF Email',
     ],
 
 ];

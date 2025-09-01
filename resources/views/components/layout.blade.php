@@ -37,6 +37,8 @@
     <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="{{ asset('css/plugin/owl.carousel.min.css') }}">
 
+    {!! NoCaptcha::renderJs() !!}
+
     <!---::: Main CSS :::-->
     <!-- Style CSS -->
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
