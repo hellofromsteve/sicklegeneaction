@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Pages;
 
 use App\Http\Controllers\Controller;
+use App\Models\Subscription;
 use App\Notifications\NewContactMessage;
 use App\Models\User;
 use Illuminate\Http\Request;
@@ -130,16 +131,11 @@ class GeneralController extends Controller
         }
 
         try {
-
-
             Notification::route('mail', 'asarestephen.asare@gmail.com')
                 ->notify(new NewContactMessage($info));
 
             Notification::route('mail', 'direct2stephen@gmail.com')
                 ->notify(new NewContactMessage($info));
-
-
-
 
             sweetalert()->success('Message Sent Successfully');
         } catch (\Exception $exception) {
@@ -150,6 +146,34 @@ class GeneralController extends Controller
 
         return back();
 
+    }
+
+
+    public function handleSubscribe(Request $request)
+    {
+
+        try {
+            $request->validate([
+                'email' => 'required|email|max:200',
+            ]);
+        } catch (ValidationException $e) {
+            $firstError = $e->validator->errors()->first();
+            sweetalert()->error($firstError);
+            return back()->withErrors($e->validator)->withInput();
+        }
+
+        try {
+            Subscription::query()->create([
+                'email' => $request->email,
+            ]);
+            sweetalert()->success('Subscribed To Our Newsletter');
+        } catch (\Exception $exception) {
+            Log::error($exception->getMessage());
+            sweetalert()->error('Something went wrong');
+            return back();
+        }
+
+        return back();
     }
 
 
