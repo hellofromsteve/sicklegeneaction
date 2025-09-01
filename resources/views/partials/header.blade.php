@@ -64,9 +64,8 @@
                                                 <li><a href="{{ route('about-scd.good-news') }}">The Good News</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">News</a></li>
-                                        <li class="{{ request()->routeIs('contact-us') ? 'active' : '' }}"><a href="{{ route('contact-us') }}">Contact</a></li>
                                         <li class="{{ request()->routeIs('how-to-help') ? 'active' : '' }}"><a href="{{ route('how-to-help')  }}">How To Help</a>
+                                        <li class="{{ request()->routeIs('contact-us') ? 'active' : '' }}"><a href="{{ route('contact-us') }}">Contact</a></li>
 
                                         </li>
 

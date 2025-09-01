@@ -373,7 +373,7 @@
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
                                             <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2021_chai">
-                                                • 2021: The Clinton Health Access Initiative (CHAI) – SCFG Partnership 
+                                                • 2021: The Clinton Health Access Initiative (CHAI) – SCFG Partnership
                                             </button>
                                         </h2>
                                         <div id="collapse2021_chai" class="accordion-collapse collapse">

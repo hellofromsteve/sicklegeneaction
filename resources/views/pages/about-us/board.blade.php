@@ -30,16 +30,22 @@
                         <div class="modal-dialog modal-dialog-centered modal-lg">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="bioModalLabel{{ $person['id'] }}">{{ $person['name'] }}</h5>
+                                    <h5 class="modal-title px-4" id="bioModalLabel{{ $person['id'] }}">{{ $person['name'] }}</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body text-start">
-                                    <p class="mb-1"><strong>Position:</strong> {{ $person['position'] }}</p>
+                                    <p class="px-4 mb-1"><strong>Position:</strong> {{ $person['position'] }}</p>
                                     <hr>
-                                    <p>{{ $person['bio'] }}</p>
+                                    <div class="p-4">
+                                        @foreach(preg_split("/\r\n|\n|\r/", $person['bio']) as $paragraph)
+                                            @if(trim($paragraph) != '')
+                                                <p>{{ $paragraph }}</p>
+                                            @endif
+                                        @endforeach
+                                    </div>
                                 </div>
                                 <div class="modal-footer">
-                                    <button type="button" class="btn btn-sm btn-secondary" data-bs-dismiss="modal">Close</button>
+                                    <button type="button" class="btn  btn-danger" data-bs-dismiss="modal">Close</button>
                                 </div>
                             </div>
                         </div>

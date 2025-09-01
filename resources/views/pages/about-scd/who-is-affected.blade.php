@@ -7,7 +7,7 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10 pb-20 text-danger text-center">Who Is Affected By SCD</h4>
+                <h4 class="pt-10 pb-20 text-danger text-center">Who Is Affected by Sickle Cell Disease (SCD)</h4>
 
 
                 <h5 class="pt-10 px-4 text-black">People struggle with sickle cell disease around the globe.</h5>

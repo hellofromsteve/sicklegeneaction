@@ -1,7 +1,7 @@
 <x-layout title="Home">
 
     <!-- Slider Area Start -->
-    <div class=" py-5 text-center">
+    <div class=" py-1 text-center">
         <div class="slider-wrapper owl-carousel">
             <div class="single-slide px-3">
                 <div class="container">
@@ -17,7 +17,7 @@
 
                     <div class="mb-2">
                         <h2 class="fw-bold text-black">Born With Sickle Cell Disease</h2>
-                        <p class="text-muted fs-5">
+                        <p class="text-black fs-5">
                             In sub-Saharan Africa, millions of children like this<br>
                             die before the age of 5.
                         </p>
@@ -26,7 +26,7 @@
 
                     <div>
                         <h2 class="fw-bold text-black">You Can Make a Difference.</h2>
-                        <p class="text-muted fs-5">
+                        <p class="text-black fs-5">
                             Join us in taking meaningful action<br>
                             to help keep each one of them alive and well, into productive adulthood.
                         </p>

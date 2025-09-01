@@ -18,9 +18,6 @@
                             <div class="card-body">
                                 <h5 class="card-title mb-1">{{ $person['name'] }}</h5>
                                 <p class="text-muted mb-2">{{ $person['position'] }}</p>
-                                <button class="btn btn-sm btn-outline-danger" data-bs-toggle="modal" data-bs-target="#bioModal{{ $person['id'] }}">
-                                    View Bio
-                                </button>
                             </div>
                         </div>
                     </div>

@@ -4,7 +4,7 @@
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">
         <div class="container">
             <div class="section-title text-center ">
-                <h1 class="text-danger">What We Do</h1>
+                <h1 class="text-black">What We Do</h1>
             </div>
         </div>
         <div class="">
@@ -117,114 +117,13 @@
                 </div>
             </div>
 
+{{--
             <p class="mt-10 fw-bolder text-black">
              Images of Awo & Team Doing the Work
             </p>
+             --}}
         </div>
 
-
-        <div class="container py-5">
-            <h4 class="text-center mb-4 text-black">What Our ACTIONS Have Accomplished</h4>
-            <table class="table table-bordered text-center align-middle fs-6 text-black">
-                <thead class="table-light">
-                <tr>
-                    <th rowspan="2" class="text-start">Time Period<br>or Dates</th>
-                    <th rowspan="2" class="text-start">What Our ACTIONS Have Accomplished</th>
-                    <th colspan="5"> </th>
-                </tr>
-                <tr>
-                    <th>1<br><small>Aligned Actions with<br>National Strategy</small></th>
-                    <th>2<br><small>Identified National Needs<br>& Successes</small></th>
-                    <th>3<br><small>Raised Awareness &<br>Provide Education</small></th>
-                    <th>4<br><small>Amplified SCD<br>Warrior Voices</small></th>
-                    <th>5<br><small>Filled Selected<br>Screening Gaps</small></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td></td>
-                    <td class="text-start">Facilitated Awareness Education Exercises to over 1,500 to children between the ages of 6 years to 18 years old in Basic, Junior High Schools, and Senior High School.</td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td class="text-start">Facilitated Awareness Education Exercises at the Borstal - Correctional Institute.</td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td class="text-start">The Ark Foundation for Abused Women</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td class="text-start">Partnered the Rotary Club of Ghana, Ghana Education Services, to facilitate Education and Awareness programs at the</td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td class="text-start">Sponsored and facilitated Awareness and Education programs in partnership Ablekuma North Health Directorate and Ghana Education Service to Screened 250 basic school children in Saleria 1 and 2 cluster of schools in Ablekuma.</td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td class="text-start">Part of our outreach with Street Children is also to Feed the Streets and organize NHIS enrollment drives.</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td class="text-start">Visited 9 regions across the country to facilitate Awareness and Education programs.</td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td class="text-start">Engaged in ongoing media campaigns to promote Awareness and Education of Sickle Cell Disease across the country.</td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td class="text-start">Made several outreach visits to various homes within improvished communities where we had identified children with Sickle Cell Gene who were not enrolled into treatment and supported the respective families to participate in treatment through their community healthcare centers.</td>
-                    <td><input type="checkbox" checked></td>
-                    <td><input type="checkbox" checked></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                </tbody>
-            </table>
-        </div>
 
     </div>
     <!-- Our Mission End -->

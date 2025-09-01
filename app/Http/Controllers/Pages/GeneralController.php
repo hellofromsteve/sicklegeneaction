@@ -37,16 +37,16 @@ class GeneralController extends Controller
                 'route' => 'about-us.goals',
             ],
             [
-                'title' => 'Our Staff',
-                'route' => 'about-us.staff',
-            ],
-            [
                 'title' => 'Our Board',
                 'route' => 'about-us.board',
             ],
             [
                 'title' => 'Our Advisory Board',
                 'route' => 'about-us.advisory',
+            ],
+            [
+                'title' => 'Our Staff',
+                'route' => 'about-us.staff',
             ],
             [
                 'title' => 'Our Memberships',

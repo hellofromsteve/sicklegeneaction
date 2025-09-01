@@ -4,10 +4,10 @@
     <div class="help-area pt-40 pb-20 ptb-sm-10 ">
         <div class="container">
             <div class=" text-center ">
-                <h1 class="text-black">Our Goals</h1>
+                <h1 class="text-danger">Our Goals</h1>
             </div>
 
-            <div class="section-title text-center ">
+            <div class="section-title text-center mt-2">
                 <p class="text-black"><strong>Our goals focus on activities that align with
                     Ghana’s National Strategy for  <br>Sickle Cell Disease
                     to ensure that Sickle Cell Warriors and their Families <br>

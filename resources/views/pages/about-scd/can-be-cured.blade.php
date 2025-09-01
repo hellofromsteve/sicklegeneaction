@@ -6,7 +6,7 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10 pb-20 text-danger text-center">How SCD Can Be Cured</h4>
+                <h4 class="pt-10 pb-20 text-danger text-center">How Sickle Cell Disease (SCD) Can Be Cured</h4>
 
                 <h5 class="pt-3 mb-10 px-4 text-black">As of 2025, there are two known types of cures for sickle cell disease.</h5>
 
