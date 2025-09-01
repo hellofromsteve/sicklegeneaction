@@ -131,11 +131,17 @@ class GeneralController extends Controller
         }
 
         try {
-            Notification::route('mail', 'asarestephen.asare@gmail.com')
-                ->notify(new NewContactMessage($info));
+            $emails = [
+                config('app.email.owner'),
+                config('app.email.developer'),
+            ];
 
-            Notification::route('mail', 'direct2stephen@gmail.com')
-                ->notify(new NewContactMessage($info));
+            foreach ($emails as $email) {
+                if ($email) {
+                    Notification::route('mail', $email)
+                        ->notify(new NewContactMessage($info));
+                }
+            }
 
             sweetalert()->success('Message Sent Successfully');
         } catch (\Exception $exception) {

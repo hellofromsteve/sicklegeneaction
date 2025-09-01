@@ -74,10 +74,10 @@
 
                         </div>
                         <div class="social-media">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-pinterest"></i></a>
+                            <a href="javascript:void(0)"><i class="fa fa-facebook"></i></a>
+                            <a href="javascript:void(0)"><i class="fa fa-twitter"></i></a>
+                            <a href="javascript:void(0)"><i class="fa fa-instagram"></i></a>
+
                         </div>
                     </div>
                 </div>

@@ -123,4 +123,9 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    'email' => [
+        'owner' => env('OWNER_EMAIL', 'awotwumasi@yahoo.com'),
+        'developer' => env('DEVELOPER_EMAIL','direct2stephen@gmail.com')
+    ],
+
 ];
