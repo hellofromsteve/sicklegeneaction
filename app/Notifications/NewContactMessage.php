@@ -38,7 +38,8 @@ class NewContactMessage extends Notification
     public function toMail(object $notifiable): MailMessage
     {
         return (new MailMessage)
-            ->line('Hello Mrs Awo, kindly find a new contact message from your website.')
+            ->greeting("Hello Ms Awo,")
+            ->line('Kindly find a new contact message from your website.')
             ->line('Sender: ' . $this->info['name'])
             ->line('Email: ' . $this->info['email'])
             ->line('Message: ' . $this->info['message']);
