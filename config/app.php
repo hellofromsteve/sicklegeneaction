@@ -124,8 +124,8 @@ return [
     ],
 
     'email' => [
-        'owner' => env('OWNER_EMAIL', 'awotwumasi@yahoo.com'),
-        'developer' => env('DEVELOPER_EMAIL','direct2stephen@gmail.com')
+        'owner' => env('OWNER_EMAIL', 'awo@sicklegeneactionghana.com'),
+        'developer' => env('DEVELOPER_EMAIL','dev@sicklegeneactionghana.com')
     ],
 
 ];

@@ -1,6 +1,6 @@
 <x-layout title="What Is Sickle Cell Disease">
 
-    <!-- About Us Start -->
+    <!-- What Is SCD Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">
 
         <div class="">
@@ -66,8 +66,6 @@
             </div>
         </div>
     </div>
-    <!-- Our Mission End -->
-
-
+    <!-- What Is SCD End -->
 
 </x-layout>

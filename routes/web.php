@@ -23,4 +23,5 @@ Route::get('/how-to-help', [HowToHelpController::class, 'howToHelp'])->name('how
 // About Routes
 require base_path('routes/about-us.php');
 require base_path('routes/about-scd.php');
+require base_path('routes/what-we-do.php');
 

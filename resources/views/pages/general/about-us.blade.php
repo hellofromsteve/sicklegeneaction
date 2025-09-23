@@ -32,7 +32,7 @@
             </div>
         </div>
     </div>
-    <!-- Our Mission End -->
+    <!-- About Us End -->
 
     <!-- Our Mission End
     <div class="pb-50">
