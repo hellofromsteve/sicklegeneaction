@@ -50,12 +50,8 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="hlp-content">
-{{--                        <h4 class="text-black">Our Inspiration</h4>--}}
-                        <h4 class="pt-10 pb-20 text-black"><strong></strong></h4>
+                        <h4 class="text-black">Our Inspiration</h4>
                         <h5 class="text-black"><strong>In Memoriam: Kwaku Ohene-Frempong</strong></h5>
-                        <h5 class="text-black"><strong>2. We identify needs and advancements.</strong></h5>
-
-                        <p class="text-black m-0 pb-0"><strong>Our aim is to gather information that will:</strong></p>
                         <p class="text-black" style="text-align: justify;"><strong>
                             Kwaku Ohene-Frempong, a prominent figure in hematology and a global authority on sickle cell disease (SCD) was born in Kukurantumi, Ghana in 1946 into a very large and loving family.
                             </strong>
