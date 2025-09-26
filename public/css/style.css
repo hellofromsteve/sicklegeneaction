@@ -1,10 +1,5 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Jibon Charity Bootstrap5 Template
-    Description: This is html5 template
-    Author: #
-    Version: 2.0.0
-
 -----------------------------------------------------------------------------------
 
     CSS INDEX
@@ -188,8 +183,8 @@ ul {
   color: #969696;
 }
 .default-btn {
-  background: #fc2c62;
-  border: 1px solid #fc2c62;
+  background: #ff0042;
+  border: 1px solid #ff0041;
   border-radius: 25px;
   color: #ffffff;
   display: inline-block;
@@ -205,20 +200,20 @@ ul {
   cursor: pointer;
 }
 .default-btn.btn-pink {
-  background: #fc2c62;
-  border-color: #fc2c62;
+  background: #ff0041;
+  border-color: #ff003d;
 }
 .default-btn:hover,
 .default-btn:focus,
 .default-btn:active {
   background: #ffffff;
-  color: #fc2c62;
+  color: #f60040;
 }
 .default-btn.btn-pink:hover,
 .default-btn.btn-pink:focus,
 .default-btn.btn-pink:active {
   background: #ffffff;
-  color: #fc2c62;
+  color: #f6003e;
 }
 .default-btn.btn-white {
   background: #fff;
@@ -226,9 +221,9 @@ ul {
   border-color: #fff;
 }
 .default-btn.btn-white:hover {
-  background: #fc2c62;
+  background: #ee0640;
   color: #fff;
-  border-color: #fc2c62;
+  border-color: #fa013e;
 }
 
 input,
@@ -245,7 +240,7 @@ textarea {
   background: rgba(0, 0, 0, 0);
   border: 1px solid #c1c1c1;
   box-shadow: none;
-  color: #666666;
+  color: #101010;
   font-size: 12px;
   height: 35px;
   padding-left: 10px;
@@ -253,11 +248,11 @@ textarea {
 }
 input::-moz-placeholder,
 textarea::-moz-placeholder {
-  color: #666666;
+  color: #050505;
 }
 input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
-  color: #666666;
+  color: #090909;
 }
 select {
   width: 100%;
@@ -1477,19 +1472,19 @@ textarea:focus {
   padding-right: 30px;
 }
 .hlp-content > h4 {
-  color: #555;
+  color: #070707;
   font-size: 44px;
   font-weight: 400;
   margin-bottom: 25px;
   text-transform: capitalize;
 }
 .hlp-content p strong {
-  color: #555;
-  font-size: 24px;
-  font-weight: 400;
+  color: #101010;
+  /*font-size: 24px;*/
+  /*font-weight: 400;*/
 }
 .hlp-content > p {
-  color: #555;
+  color: #090909;
 }
 .hlp-content > p:last-child {
   margin-bottom: 0;

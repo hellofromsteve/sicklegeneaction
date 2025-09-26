@@ -50,18 +50,27 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="hlp-content">
-                        <h4 class="text-black">Our Inspiration</h4>
-                        <p class="text-black"><strong>In Memoriam: Kwaku Ohene-Frempong</strong></p>
-                        <p class="text-black" style="text-align: justify;">
+{{--                        <h4 class="text-black">Our Inspiration</h4>--}}
+                        <h4 class="pt-10 pb-20 text-black"><strong></strong></h4>
+                        <h5 class="text-black"><strong>In Memoriam: Kwaku Ohene-Frempong</strong></h5>
+                        <h5 class="text-black"><strong>2. We identify needs and advancements.</strong></h5>
+
+                        <p class="text-black m-0 pb-0"><strong>Our aim is to gather information that will:</strong></p>
+                        <p class="text-black" style="text-align: justify;"><strong>
                             Kwaku Ohene-Frempong, a prominent figure in hematology and a global authority on sickle cell disease (SCD) was born in Kukurantumi, Ghana in 1946 into a very large and loving family.
+                            </strong>
                         </p>
 
-                        <p class="text-black" style="text-align: justify;">
+                        <p class="text-black" style="text-align: justify;"> <strong>
+
                             KOF excelled academically, athletically, and in leadership during his early education in Kukurantumi and in Kumasi at the prestigious Prempeh College Secondary School.
+                            </strong>
                         </p>
 
-                        <p class="text-black" style="text-align: justify;">
+                        <p class="text-black" style="text-align: justify;"> <strong>
+
                             In 1972, during his second year at Yale University School of Medicine, his firstborn child, his son Kwame, was born with sickle cell disease.
+                            </strong>
                         </p>
                         <div class="hlp-btn mt-20"><a href="{{ route('about-us.inspiration') }}" class="default-btn">Read More</a></div>
                     </div>

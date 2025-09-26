@@ -31,10 +31,10 @@
                 <h5 class="text-black"> Our Aim</h5>
                 <p class="text-black m-0 pb-0"><strong>Our aim is to stay engaged with policy makers so that we can:</strong></p>
                 <div class="text-justify">
-                    <p class="text-black m-0"><strong>  •	represent our sickle cell community</strong></p>
-                    <p class="text-black m-0"><strong> •	help to influence policy maker decisions</strong></p>
-                    <p class="text-black m-0"><strong>•	encourage accountability</strong></p>
-                    <p class="text-black m-0"><strong>•	work for sustainable, systemwide change</strong></p>
+                    <p class="text-black m-0"><strong>  •	Represent our sickle cell community</strong></p>
+                    <p class="text-black m-0"><strong> •	Help to influence policy maker decisions</strong></p>
+                    <p class="text-black m-0"><strong>•	Encourage accountability</strong></p>
+                    <p class="text-black m-0"><strong>•	Work for sustainable, systemwide change</strong></p>
 
                 </div>
 

@@ -191,20 +191,20 @@ class GeneralController extends Controller
                 'route' => 'what-we-do.awns',
             ],
             [
-                'title' => 'What We Identify Needs and Advancements',
+                'title' => 'We Identify Needs & Advancements',
                 'route' => 'what-we-do.ina',
             ],
             [
-                'title' => 'We Raise Awareness',
-                'route' => 'what-we-do.raise-awareness',
+                'title' => 'We Fill Screening Gaps',
+                'route' => 'what-we-do.wfsg',
             ],
             [
                 'title' => 'We Amplify SCD Warrior Voices',
                 'route' => 'what-we-do.aswv',
             ],
             [
-                'title' => 'We Fill Screening Gaps',
-                'route' => 'what-we-do.wfsg',
+                'title' => 'We Raise Awareness',
+                'route' => 'what-we-do.raise-awareness',
             ],
 
 
