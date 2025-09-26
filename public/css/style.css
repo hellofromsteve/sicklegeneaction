@@ -1472,19 +1472,19 @@ textarea:focus {
   padding-right: 30px;
 }
 .hlp-content > h4 {
-  color: #070707;
+  color: #000000;
   font-size: 44px;
   font-weight: 400;
   margin-bottom: 25px;
   text-transform: capitalize;
 }
 .hlp-content p strong {
-  color: #101010;
-  /*font-size: 24px;*/
+  color: #000000;
+  /*font-size: 26px;*/
   /*font-weight: 400;*/
 }
 .hlp-content > p {
-  color: #090909;
+  color: #000000;
 }
 .hlp-content > p:last-child {
   margin-bottom: 0;
