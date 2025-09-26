@@ -25,7 +25,7 @@
 
                 <div class="text-justify pt-20" >
                     <h5 class="pt-20"> Jun 19, 2023 </h5>
-                    <p class="text-black fs-5"> <strong> Ade, a management consultant originally from Ghana talks about his expearince living with sickle cell.
+                    <p class="text-black fs-5"> <strong> Ade, a management consultant originally from Ghana talks about his experience living with sickle cell disease.
                         <br>
                         He also speaks about the importance of advocacy, removing negative stereotypes and empowering</strong>
                     </p>

@@ -19,7 +19,6 @@
                     <!-- Section 1 -->
                     <div class="mb-4">
                         <h6 class="fw-bold text-black mb-3"> •	Sufficient numbers of trained clinicians and care teams</h6>
-                        <h6 class="fw-bold text-black  mb-3"> •	Sufficient numbers of trained clinicians and care teams</h6>
                         <h6 class="fw-bold text-black  mb-3">•	Sufficient numbers of clinical care settings and hospitals</h6>
                         <h6 class="fw-bold text-black  mb-3">•	Sufficient medical supplies and equipment</h6>
                         <h6 class="fw-bold text-black  mb-3">•	Sufficient supplies of medicines</h6>
@@ -45,8 +44,7 @@
                     @endfor
                     <div class="text-center">
                         <h5 class="text-black">Our hard working healthcare professionals need the
-                            <br> best training, equipment, and support to care for our Sickle Cell Warriors <br>  and for all people in Ghana
-
+                            <br> best training, equipment, and support to care for our Sickle Cell Warriors <br>  and for all people in Ghana.
                         </h5></div>
                 </div>
 

@@ -54,7 +54,6 @@
                         A Ghanaian baby being screened for SCD<br>
                     </p>
 
-
                 </div>
             </div>
         </div>

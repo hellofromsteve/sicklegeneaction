@@ -1,6 +1,6 @@
 <x-layout title="Align with National Strategy">
 
-    <!-- What Is SCD Start -->
+    <!-- What We Do Alignment Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">
 
         <div class="">
@@ -65,13 +65,6 @@
                 </div>
 
 
-
-
-
-
-
-
-
                 <p class="text-danger mt-30 mb-0 pb-0 fs-5"><strong>We work across government agencies</strong></p>
                 <p class="text-black mb-0 pb-0 fs-6"><strong>  As stakeholders, we continue to engage with the following overnmental entities to promote the wellbeing of Sickle Cell Warriors and their families:</strong></p>
                 <div class="text-justify">
@@ -89,56 +82,7 @@
             </div>
         </div>
 
-        <div class="pb-50">
-            <div class="container">
-
-                <h5 class="pt-10 text-black">Sickle cell disease is a serious condition.</h5>
-
-                <div class="text-justify pt-10" >
-                    <p class="text-black"><strong> When these sickle-shaped red blood cells circulate in the bloodstream, they can cause severe pain and a number of serious life-changing complications.</strong></p>
-                </div>
-            </div>
-        </div>
-
-        <div class="container my-5">
-            <div class="row">
-                <!-- Left Column (35%) -->
-                <div class="col-md-4 d-flex align-items-center justify-content-center">
-                    <figure class="text-center">
-                        <img src="{{ asset('img/scd/what-is-scd1.png') }}"
-                             class="img-fluid rounded mb-2"
-                             style="width: 100%; height: 250px; object-fit: cover;"
-                             alt="A Farm Tool Called a Sickle">
-                        <figcaption class="text-muted">A Farm Tool Called a Sickle</figcaption>
-                    </figure>
-                </div>
-
-                <!-- Right Column (65%) -->
-                <div class="col-md-8">
-                    <div class="row">
-                        <div class="col-6">
-                            <figure class="text-center">
-                                <img src="{{ asset('img/scd/what-is-scd2.jpg') }}"
-                                     class="img-fluid rounded mb-2"
-                                     style="width: 100%; height: 250px; object-fit: cover;"
-                                     alt="A Normal Red Blood Cell">
-                                <figcaption class="text-muted">A Normal Red Blood Cell</figcaption>
-                            </figure>
-                        </div>
-                        <div class="col-6">
-                            <figure class="text-center">
-                                <img src="{{ asset('img/scd/what-is-scd3.jpg') }}"
-                                     class="img-fluid rounded mb-2"
-                                     style="width: 90%; height: 250px; object-fit: cover;"
-                                     alt="A Sickle Red Blood Cell">
-                                <figcaption class="text-muted">A Sickle Red Blood Cell</figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
-    <!-- What Is SCD End -->
+    <!-- What We Do Alignment End -->
 
 </x-layout>

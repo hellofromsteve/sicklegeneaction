@@ -19,16 +19,17 @@ class WhatWeDoController extends Controller
 
     public function raiseAwareness()
     {
-
+        return view('pages.what-we-do.awareness');
     }
 
-    public function aswv()
+    public function amplify()
     {
-
+        return view('pages.what-we-do.amplify');
     }
 
-    public function wfsg()
+    public function screening()
     {
+        return view('pages.what-we-do.screening');
 
     }
 }

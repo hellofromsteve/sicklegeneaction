@@ -1,4 +1,4 @@
-<x-layout title="">
+<x-layout title="What We Do">
 
     <!-- What We Do Start -->
     <div class="help-area pt-50 pb-115 ptb-sm-60 ">

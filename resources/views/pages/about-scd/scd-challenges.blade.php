@@ -55,7 +55,7 @@
                 <div class="container my-5">
                     <div class="row">
                         <div class="col-12">
-                            <h2 class="mb-3">Sickle cell disease can affect a person’s life MEDICALLY.</h2>
+                            <h2 class="mb-3">Sickle Cell Disease Can Affect A Person’s Life MEDICALLY.</h2>
 
                             <h4>What to know:</h4>
                             <div class="fw-bold ms-4">
