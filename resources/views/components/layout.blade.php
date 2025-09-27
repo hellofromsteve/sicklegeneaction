@@ -27,6 +27,8 @@
     <!-- Material-design-iconic-font CSS -->
     <link rel="stylesheet" href="{{ asset('css/vendor/material-design-iconic-font.min.css') }}">
 
+
+
     <!--::: Plugin CSS :::-->
     <!-- Meanmenu CSS -->
     <link rel="stylesheet" href="{{ asset('css/plugin/meanmenu.css') }}">
@@ -42,10 +44,12 @@
     <!---::: Main CSS :::-->
     <!-- Style CSS -->
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+
     <!-- Responsive CSS -->
     <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
 
     @vite(['resources/js/app.js', 'resources/css/app.css'])
+    @yield('head')
 
 </head>
 <body>

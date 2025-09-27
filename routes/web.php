@@ -15,6 +15,7 @@ Route::post('/contact-us', [GeneralController::class, 'handleContact'])->name('h
 Route::post('/subscribe-us', [GeneralController::class, 'handleSubscribe'])->name('handle-subscribe');
 Route::get('/what-we-do', [GeneralController::class, 'whatWeDo'])->name('what-we-do');
 Route::get('/how-to-help', [HowToHelpController::class, 'howToHelp'])->name('how-to-help');
+Route::get('/online-donate', [HowToHelpController::class, 'onlineDonate'])->name('online-donate');
 
 
 

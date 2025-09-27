@@ -1,0 +1,94 @@
+
+
+.hero-section {
+    background: linear-gradient(135deg, #e50c45, #f30622);
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.donation-tier {
+    border: 2px solid #e9ecef;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.donation-tier:hover {
+    border-color: #ff1900;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(231, 76, 60, 0.15);
+}
+
+.tier-silver {
+    border-color: #95a5a6;
+}
+
+.tier-gold {
+    border-color: #f39c12;
+}
+
+.tier-diamond {
+    border-color: #218ace;
+}
+
+.tier-silver:hover {
+    border-color: #95a5a6;
+    box-shadow: 0 10px 25px rgba(149, 165, 166, 0.15);
+}
+
+.tier-gold:hover {
+    border-color: #1230f3;
+    box-shadow: 0 10px 25px rgba(243, 156, 18, 0.15);
+}
+
+.tier-diamond:hover {
+    border-color: #3498db;
+    box-shadow: 0 10px 25px rgba(52, 152, 219, 0.15);
+}
+
+.impact-card {
+    background: #f8f9fa;
+    border-left: 4px solid #ff1700;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 0 8px 8px 0;
+}
+
+.btn-donate {
+    background: linear-gradient(45deg, #8a1609, #ff1500);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 25px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.btn-donate:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(215, 36, 36, 0.49);
+    color: white;
+}
+
+.section-title {
+    color: #2c3e50;
+    font-weight: 700;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.section-title::after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: #ff0015;
+    margin: 10px auto 0;
+}
+
+.ways-help-icon {
+    font-size: 3rem;
+    color: #ff1700;
+    margin-bottom: 20px;
+}

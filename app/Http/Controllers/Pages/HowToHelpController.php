@@ -10,4 +10,9 @@ class HowToHelpController extends Controller
     {
         return view('pages.general.how-to-help');
    }
+
+    public function onlineDonate()
+    {
+        return view('pages.general.online-donate');
+   }
 }

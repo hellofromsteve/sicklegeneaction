@@ -54,6 +54,13 @@ body {
   line-height: normal;
   font-family: "Open Sans", sans-serif;
 }
+
+.ways-help-icon {
+    font-size: 3rem;
+    color: #ff1400;
+    margin-bottom: 20px;
+}
+
 .clear {
   clear: both;
 }
