@@ -209,7 +209,7 @@
                     collaborations and best practices for a better quality of life.</p>
                 <div class="row justify-content-center">
                     <div class="col-md-8">
-                        <a href="#" class="btn btn-light btn-lg me-3 mb-2">
+                        <a href="{{ route('online-donate') }}" target="_blank" class="btn btn-light btn-lg me-3 mb-2">
                             <i class="fas fa-credit-card me-2"></i>Donate Online
                         </a>
                         <a href="#" class="btn btn-outline-light btn-lg mb-2">

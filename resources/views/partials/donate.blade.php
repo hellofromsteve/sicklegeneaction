@@ -27,18 +27,17 @@
             <div class="col-md-6 col-lg-4">
                 <div class="ht-single-cause">
                     <div class="ht-cause-img">
-                        <a href="javascript:void(0)"><img src="{{ asset('img/donation/sgafbank.jpg') }}" alt="Sickle Gene Action Ghana Bank Transfer"></a>
+                        <a href="javascript:void(0)"><img src="{{ asset('img/donation/sgafmomo.jpg') }}" alt="Sickle Gene Action Ghana Bank Transfer"></a>
                     </div>
                     <div class="ht-cause-text">
                         <h3 class="text-black"><a href="javascript:void(0)">Bank Details</a></h3>
                         <div class="mb-3">
-                            <p class="text-black mb-1 fw-bold">Sickle Gene Action Foundation of Ghana LBG</p>
-                            <p class="text-black mb-1">Location: East Legon</p>
+                            <p class="text-black mb-1 fw-bold">Sickle Gene Action Foundation</p>
+                            <p class="text-black mb-1">Bank: Stanbic Bank Ghana</p>
+                            <p class="text-black mb-1">Branch: East Legon</p>
                             <p class="text-black mb-2">Acct#: <span class="h5 text-danger">9040013773550</span></p>
                         </div>
-                        <div class="cause-btn-time">
-                            <a href="javascript:void(0)" class="default-btn">Copy Account Details</a>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
