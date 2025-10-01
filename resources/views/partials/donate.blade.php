@@ -37,7 +37,7 @@
                             <p class="text-black mb-1">Branch: East Legon</p>
                             <p class="text-black mb-2">Acct#: <span class="h5 text-danger">9040013773550</span></p>
                         </div>
-                       
+
                     </div>
                 </div>
             </div>

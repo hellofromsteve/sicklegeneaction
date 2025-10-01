@@ -73,7 +73,7 @@
                 <div class="col-lg-6">
                     <div class="impact-card">
                         <h5><i class="fas fa-graduation-cap text-danger me-2"></i>Raising Awareness</h5>
-                        <p><strong>GHC 55,000</strong>to facilitate awareness drives for <strong>1,000 people</strong>
+                        <p><strong>GHC 55,000</strong> to facilitate awareness drives for <strong>1,000 people</strong>
                             including:</p>
                         <ul class="mb-0">
                             <li>Sensitization exercises in educational institutions</li>
@@ -85,7 +85,7 @@
                 <div class="col-lg-6">
                     <div class="impact-card">
                         <h5><i class="fas fa-microphone text-danger me-2"></i>Media Outreach</h5>
-                        <p><strong>GHC 45,000</strong>to support our annual media strategy:</p>
+                        <p><strong>GHC 45,000</strong> to support our annual media strategy:</p>
                         <ul class="mb-0">
                             <li>National media tour</li>
                             <li>Monthly publications on Sickle Cell Awareness</li>
@@ -96,28 +96,28 @@
                 <div class="col-lg-6">
                     <div class="impact-card">
                         <h5><i class="fas fa-users text-danger me-2"></i>Amplifying Warrior Voices</h5>
-                        <p><strong>GHC 48,000</strong>to train <strong>160 SCD advocates</strong> (10 per region) as
+                        <p><strong>GHC 48,000</strong> to train <strong>160 SCD advocates</strong> (10 per region) as
                             support group facilitators mentored by our national coordinator.</p>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="impact-card">
                         <h5><i class="fas fa-video text-danger me-2"></i>Documentary & Stories</h5>
-                        <p><strong>GHC 80,000</strong>to produce documentaries on SCD survival campaigns, stories, and
+                        <p><strong>GHC 80,000</strong> to produce documentaries on SCD survival campaigns, stories, and
                             videos for TV stations, YouTube, and social media platforms.</p>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="impact-card">
                         <h5><i class="fas fa-stethoscope text-danger me-2"></i>Filling Screening Gaps</h5>
-                        <p><strong>GHC 32,000</strong>for screens and enrolls <strong>1,000 pupils</strong> with Sickle
+                        <p><strong>GHC 32,000</strong> for screening and enrolling <strong>1,000 pupils</strong> with Sickle
                             Cell Disease onto the NHIS Scheme.</p>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="impact-card">
                         <h5><i class="fas fa-tint text-danger me-2"></i>Blood Donation Drives</h5>
-                        <p><strong>GHC 60,000</strong>to facilitate blood donation drives twice a year, including medical
+                        <p><strong>GHC 60,000</strong> to facilitate blood donation drives twice a year, including medical
                             consumables, testing, storage, and banking.</p>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
         <div class="container">
             <h2 class="section-title text-center">Partnership & Donation Tiers</h2>
             <p class="text-center text-muted mb-5">We value all support we receive. No amount or resource is too small
-                for the work we have ahead of us. Your support is always welcomed.</p>
+                for the work we have ahead of us. <br> Your support is always welcomed.</p>
 
             <div class="row g-4">
                 <div class="col-lg-4">
