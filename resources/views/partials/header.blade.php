@@ -31,7 +31,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-4">
                     <div class="logo">
-                        <a href="{{ route('home') }}"><img src="{{ asset('img/logo/sgaf-new.jpg') }}" height="55px" width="140px" alt="Sickle Gene Action Foundation Logo"></a>
+                        <a href="{{ route('home') }}"><img src="{{ asset('img/logo/sgaf-new.jpg') }}" height="55px" width="200px" alt="Sickle Gene Action Foundation Logo"></a>
                     </div>
                 </div>
                 <div class="col-lg-9 col-md-8 d-none d-md-block">
