@@ -5,7 +5,7 @@
 
             <div class="container">
 
-                <h4 class="pt-10 text-black ">3. We raise awareness. </h4>
+                <h4 class="pt-10 text-black ">5. We raise awareness. </h4>
                 <div class="text-justify " >
                     <p class="text-black"><strong>We raise and attempt to maintain public awareness and understanding about sickle cell disease.</strong></p>
                 </div>
