@@ -66,7 +66,7 @@
                     <div id="leadershipCollapse1" class="accordion-collapse collapse" data-bs-parent="#raiseAccordion">
 
                         <div class="accordion-body px-3">
-                            <p><strong>In partnership Ablekuma North Health Directorate and Ghana Education Service, we conducted:</strong></p>
+                            <p><strong>In partnership with Ablekuma North Health Directorate and Ghana Education Service, we conducted:</strong></p>
                             <p>✓ Programs for over 2,500  school children between the ages of 6 years to 18 years in Basic and Junior High Schools, and Senior High Schools. </p>
                             <p>✓ A program for 250 basic school children in the Saleria 1 and 2 cluster of schools in Ablekuma</p>
                         </div>
@@ -105,7 +105,7 @@
                         <div class="accordion-body px-3">
                             <p><strong>Through a series of outreach visits to various homes within impoverished communities:
                                 </strong></p>
-                            <p>✓ We visited the homes of children who had been identified as having the Sickle Gene (do you mean sickle cell disease?), but who were not enrolled into treatment: </p>
+                            <p>✓ We visited the homes of children who had been identified as having the Sickle Cell Disease (do you mean sickle cell disease?), but who were not enrolled into treatment: </p>
                             <p>✓ We supported their respective families in getting treatment for their children through their community healthcare centers</p>
 
                         </div>

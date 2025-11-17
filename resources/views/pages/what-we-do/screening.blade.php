@@ -13,7 +13,7 @@
                     <p class="text-black m-0 pb-0"><strong>Our aim is to provide facts and dispel misinformation so that:</strong></p>
                     <div class="text-justify">
                         <p class="text-black m-0"><strong>•	Sickle Cell Warriors and their families will receive the most well-informed health care available in Ghana.</strong></p>
-                        <p class="text-black m-0"><strong>       •	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve.</strong></p>
+                        <p class="text-black m-0"><strong>•	Sickle Cell Warriors and their families will receive the social respect and support that they need and deserve.</strong></p>
                         <p class="text-black m-0"><strong> •	People in the general public can make informed genetic decisions when they are planning to have children.</strong></p>
                         <p class="text-black m-0"><strong>•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD</strong></p>
                     </div>

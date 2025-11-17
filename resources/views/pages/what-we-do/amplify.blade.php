@@ -74,7 +74,7 @@
                     <div id="amplifyCollapse1" class="accordion-collapse collapse" data-bs-parent="#raiseAccordion">
 
                         <div class="accordion-body px-3">
-                            <p>✓ The Sickle Cell Disease Association was formed in Kumasi through the efforts of the staff of the Education and Counseling Component of the Newborn Screening program to provide support for the patients and their family.</p>
+                            <p>✓ The Sickle Cell Disease Association was formed in Kumasi through the efforts of the staff of the Education and Counseling Component of the Newborn Screening program to provide support for the patients and their families.</p>
                             <p>✓ The first President of the Association, Dr. E. K. Appiah, a prominent private medical practitioner in Kumasi, also serves on the Newborn Screening Advisory Committee. Dr. Appiah was elected in 2004 to serve as the National President of the Sickle Cell Association of Ghana.</p>
                         </div>
                     </div>
@@ -91,14 +91,14 @@
                         <div class="accordion-body px-3">
                             <p><strong>To establish the Sickle Cell Disease Young Adult and Adolescent Support Group (SAYAS) at Korle Bu Teaching Hospital in 2025. This will be the first national support group that caters to our adolescents and young adults with Sickle Cell Disease in Ghana.
                                 </strong></p>
-                            <p><strong>The purpose of this timely intervention is to provide adolescents and young adults Sickle cell Warriors with: </strong></p>
+                            <p><strong>The purpose of this timely intervention is to provide adolescents and young adults Sickle Cell Warriors with: </strong></p>
                             <p>✓ Health Education</p>
                             <p>✓ Reproductive Health-care Options</p>
                             <p>✓ Heath Screenings</p>
                             <p>✓ Psychosocial Support</p>
                             <p>✓ Mentorship</p>
                             <p>✓ To accomplish our goal
-                                •	With the support and partnership of donors, it is our hope raise 75,000 cedis towards the launch of SAYAS in 2025
+                                •	With the support and partnership of donors, it is our hope to raise 75,000.00 cedis towards the launch of SAYAS in 2025
                             </p>
 
                         </div>
