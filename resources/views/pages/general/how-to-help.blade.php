@@ -148,7 +148,7 @@
                                 <li><i class="fas fa-check text-success me-2"></i>Media interview mentions</li>
                                 <li><i class="fas fa-check text-success me-2"></i>Publication acknowledgments</li>
                             </ul>
-                            <button class="btn btn-outline-secondary mt-3">Become Silver Partner</button>
+                            <a href="{{  route('contact-us') }}" class="btn btn-outline-secondary mt-3">Become Silver Partner</a>
                         </div>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                                 <li><i class="fas fa-check text-success me-2"></i>Featured in publications</li>
                                 <li><i class="fas fa-check text-success me-2"></i>Quarterly impact reports</li>
                             </ul>
-                            <button class="btn btn-warning mt-3 text-white">Become Gold Partner</button>
+                            <a href="{{  route('contact-us') }}" class="btn btn-warning mt-3 text-white">Become Gold Partner</a>
                         </div>
                     </div>
                 </div>
@@ -192,7 +192,7 @@
                                 <li><i class="fas fa-check text-success me-2"></i>Exclusive partnership opportunities
                                 </li>
                             </ul>
-                            <button class="btn btn-primary mt-3">Become Diamond Partner</button>
+                            <a href="{{  route('contact-us') }}"  class="btn btn-primary mt-3">Become Diamond Partner</a>
                         </div>
                     </div>
                 </div>
