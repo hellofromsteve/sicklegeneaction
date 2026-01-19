@@ -160,7 +160,8 @@ class GeneralController extends Controller
 
         try {
             $request->validate([
-                'email' => 'required|email|max:200',
+                'email' => 'required|email|max:200|unique:subscriptions,email',
+                'g-recaptcha-response' => 'required|captcha',
             ]);
         } catch (ValidationException $e) {
             $firstError = $e->validator->errors()->first();

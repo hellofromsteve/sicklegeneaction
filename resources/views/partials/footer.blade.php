@@ -60,11 +60,10 @@
                             <div class="newsletter-form mc_embed_signup">
                                 <form action="{{ route('handle-subscribe') }}" method="post" >
                                     @csrf
+                                    {!! NoCaptcha::display() !!}
                                     <div id="mc_embed_signup_scroll" class="mc-form">
-                                        {!! NoCaptcha::display() !!}
-                                        @if (error('g-recaptcha-response'))
-                                            <span class="text-red-600 text-sm">{{ $message }}</span>
-                                        @endif
+                                     
+                                      
                                         <input type="email" value="" name="email" class="email" id="mce-EMAIL" placeholder="Email address...." required>
                                         <div class="mc-news" aria-hidden="true"><input type="text" name="b_6bbb9b6f5827bd842d9640c82_05d85f18ef" tabindex="-1" value=""></div>
                                         <button  type="submit"><i class="zmdi zmdi-mail-send"></i></button>
