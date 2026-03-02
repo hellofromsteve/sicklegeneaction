@@ -137,7 +137,7 @@
     </div>
     <!-- Our Mission End -->
 
-@include('partials.donate')
+{{--@include('partials.donate')--}}
 
     <!-- What We Do Start -->
     <div class="blog-area pt-70 pb-30 pt-sm-60 pb-sm-30">
