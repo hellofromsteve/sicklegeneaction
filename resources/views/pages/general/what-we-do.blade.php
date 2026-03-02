@@ -5,7 +5,6 @@
         <div class="container">
             <div class="section-title text-center ">
                 <h1 class="text-black">What We Do</h1>
-
             </div>
             <div class="row text-center">
                 <div class="row text-center">

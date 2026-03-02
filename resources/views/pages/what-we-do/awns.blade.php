@@ -5,29 +5,34 @@
 
         <div class="">
             <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-8">
+                        <h4 class="pt-10 pb-20 text-black">1. We align with Ghana’s National Strategy for SCD</h4>
+                        <div class="text-justify pt-10">
+                            <p class="text-black"><strong>We align with Ghana’s National Strategy for Sickle Cell Disease (2024) and support Ghana’s 6 Implementation Strategies designed to improve health outcomes of individuals with SCD.</strong></p>
+                        </div>
 
-                <h4 class="pt-10 pb-20 text-black ">1.	We align with Ghana’s National Strategy for SCD </h4>
-                <div class="text-justify pt-10" >
-                    <p class="text-black"><strong> We align with Ghana’s National Strategy for Sickle Cell Disease (2024) and support Ghana’s 6 Implementation Strategies  designed to improve health outcomes of individuals with SCD. </strong></p>
+                        <h5 class="text-black">Specifically, this includes engaging in actions that help to:</h5>
+                        <div class="text-justify pt-2">
+                            <p class="text-black m-0"><strong>1. Ensure Universal Newborn Screening for SCD.</strong></p>
+                            <p class="text-black m-0"><strong>2. Develop Mechanisms for Catch-Up Screening.</strong></p>
+                            <p class="text-black m-0"><strong>3. Improve Facilities, Laboratory, and Diagnostic Capacities, Equipment, Infrastructure.</strong></p>
+                            <p class="text-black m-0"><strong>4. Build Capacity on SCD - Skilled Workforce, Pre-Service Training Institutions.</strong></p>
+                            <p class="text-black m-0"><strong>5. Improve Access to Medicines, Technologies, and Innovation.</strong></p>
+                            <p class="text-black m-0"><strong>6. Develop Outreach Services for SCD.</strong></p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 text-center mt-50`">
+                        <img src="{{ asset('img/about/national-strategy.jpeg') }}" alt="25th April 2024 MOH/GHS National
+                        Sickle Cell Strategy Stakeholder Engagement Meeting" class="img-fluid rounded shadow">
+                        <p>25th April 2024
+                            MOH/GHS National Sickle Cell Strategy Stakeholder Engagement Meeting</p>
+                    </div>
                 </div>
-
-
-                <h5 class="text-black"> Specifically, this includes engaging in actions that help to: </h5>
-                <div class="text-justify pt-2">
-                    <p class="text-black m-0"><strong>1. Ensure Universal Newborn Screening for SCD.</strong></p>
-                    <p class="text-black m-0"><strong>2. Develop Mechanisms for Catch-Up Screening.</strong></p>
-                    <p class="text-black m-0"><strong> 3. Improve Facilities, Laboratory, and Diagnostic Capacities, Equipment, Infrastructure.</strong></p>
-                    <p class="text-black m-0"><strong>4.Build Capacity on SCD - Skilled Workforce, Pre-Service Training Institutions.</strong></p>
-                    <p class="text-black m-0"><strong>5. Improve Access to Medicines, Technologies, and Innovation.</strong></p>
-                    <p class="text-black m-0"><strong>6. Develop Outreach Services for SCD.</strong></p>
-                </div>
-
-
-
             </div>
 
             <div class="container mt-30">
-
                 <h5 class="text-black"> Our Aim</h5>
                 <p class="text-black m-0 pb-0"><strong>Our aim is to stay engaged with policy makers so that we can:</strong></p>
                 <div class="text-justify">

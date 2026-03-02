@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\BlogController;
+use App\Http\Controllers\MediaController;
 use App\Http\Controllers\Pages\AboutUsController;
 use App\Http\Controllers\Pages\AboutUs\GoalsController;
 use App\Http\Controllers\Pages\AboutUs\GroundworkController;
@@ -11,6 +13,9 @@ Route::get('/', [GeneralController::class, 'home'])->name('home');
 Route::get('/about-us', [GeneralController::class, 'aboutUs'])->name('about-us');
 Route::get('/about-scd', [GeneralController::class, 'aboutScd'])->name('about-scd');
 Route::get('/contact-us', [GeneralController::class, 'contactUs'])->name('contact-us');
+Route::get('/blog', [BlogController::class, 'blog'])->name('media.blog');
+Route::get('/gallery', [MediaController::class, 'gallery'])->name('media.gallery');
+
 Route::post('/contact-us', [GeneralController::class, 'handleContact'])->name('handle-contact');
 Route::post('/subscribe-us', [GeneralController::class, 'handleSubscribe'])->name('handle-subscribe');
 Route::get('/what-we-do', [GeneralController::class, 'whatWeDo'])->name('what-we-do');

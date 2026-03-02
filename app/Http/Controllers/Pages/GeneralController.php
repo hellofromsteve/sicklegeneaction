@@ -16,7 +16,31 @@ class GeneralController extends Controller
     //
     public function home()
     {
-        return view('pages.general.home');
+        $whatWeDo = [
+            [
+                'title' => 'We Align with National Strategy',
+                'route' => 'what-we-do.awns',
+            ],
+            [
+                'title' => 'We Identify Needs & Advancements',
+                'route' => 'what-we-do.ina',
+            ],
+            [
+                'title' => 'We Fill Screening Gaps',
+                'route' => 'what-we-do.wfsg',
+            ],
+            [
+                'title' => 'We Amplify SCD Warrior Voices',
+                'route' => 'what-we-do.aswv',
+            ],
+            [
+                'title' => 'We Raise Awareness',
+                'route' => 'what-we-do.raise-awareness',
+            ],
+
+
+        ];
+        return view('pages.general.home', compact('whatWeDo'));
     }
 
     public function aboutUs()
@@ -212,5 +236,10 @@ class GeneralController extends Controller
         ];
 
         return view('pages.general.what-we-do', compact('whatWeDo'));
+    }
+
+    public function blog()
+    {
+        return view('pages.general.blog-page');
     }
 }

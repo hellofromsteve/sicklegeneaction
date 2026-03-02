@@ -7,7 +7,7 @@
                 <div class="container">
 
 
-                    <h1 class="display-5 fw-bold text-danger mb-4">Early Action Saves Lives</h1>
+                    <h1 class="display-5 fw-bold text-danger mb-4">Early Action <br> Saves Lives</h1>
 
 
                     <div class="mb-4 d-flex justify-content-center">
@@ -42,6 +42,11 @@
     <!--  Our Inspiration Start -->
     <div class="help-area pt-50 pb-115 ptb-sm-60">
         <div class="container">
+            <div class="justify-content-center">
+                <div class="col-lg-12 bg-white text-center justify-content-center">
+                      <h1 class=" text-danger mb-4">Our Inspiration</h1>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="hlp-img img-full">
@@ -50,8 +55,8 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="hlp-content">
-                        <h4 class="text-black">Our Inspiration</h4>
-                        <h5 class="text-black"><strong>In Memoriam: Kwaku Ohene-Frempong</strong></h5>
+{{--                        <h4 class="text-black">Our Inspiration</h4>--}}
+                        <h5 class="text-black"><strong>In Memoriam: <br> Kwaku Ohene-Frempong</strong></h5>
                         <p class="text-black" style="text-align: justify;"><strong>
                             Kwaku Ohene-Frempong, a prominent figure in hematology and a global authority on sickle cell disease (SCD) was born in Kukurantumi, Ghana in 1946 into a very large and loving family.
                             </strong>
@@ -81,7 +86,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
-                    <h1 class="text-uppercase text-danger mb-2">About Us</h1>
+                    <h1 class=" text-danger mb-2">About Us</h1>
                     <h1 class="fw-bold mb-3 text-black">Empower. Unite</h1>
                     <p class="fs-5 text-secondary mb-4">
                         By empowering communities and uniting voices, we can overcome the challenges of Sickle Cell Disease — together, stronger.
@@ -134,11 +139,45 @@
 
 @include('partials.donate')
 
-    <!-- Blog Area Start -->
-    <div class="blog-area pt-70 pb-70 pt-sm-60 pb-sm-30">
+    <!-- What We Do Start -->
+    <div class="blog-area pt-70 pb-30 pt-sm-60 pb-sm-30">
         <div class="container">
             <div class="section-title text-center">
-                <h1 class="text-black">Our Blog</h1>
+                <h1 class="text-danger">What We Do</h1>
+                <p class="text-black">Explore stories, insights, and updates on the fight against Sickle Cell Disease.</p>
+            </div>
+            <div class="row text-center">
+                <div class="row text-center">
+                    @foreach($whatWeDo as $feature)
+                        @php
+                            $parts = explode(' ', $feature['title'], 2);
+                        @endphp
+                        <div class="col-6 col-md-4 mb-5">
+                            <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100 text-center">
+                                <!-- Red dot -->
+                                <div style="width: 12px; height: 12px; background-color: #e32f4a; border-radius: 50%; margin: 0 auto 15px;"></div>
+
+                                <h3 class="text-black">
+                                    <div>{{ $parts[0] ?? '' }}</div>
+                                    <div>{{ $parts[1] ?? '' }}</div>
+                                </h3>
+
+                                <a href="{{ route($feature['route']) }}" class="default-btn">Read More</a>
+
+                            </div>
+                        </div>
+                    @endforeach
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- What We Do End -->
+
+    <!-- Blog Area Start -->
+    <div class="blog-area pt-70 pb-30 pt-sm-60 pb-sm-30">
+        <div class="container">
+            <div class="section-title text-center">
+                <h1 class="text-danger">Our Blog</h1>
                 <p class="text-black">Explore stories, insights, and updates on the fight against Sickle Cell Disease.</p>
             </div>
             <div class="row">
@@ -197,13 +236,17 @@
                 </div>
                 <!-- Single Blog End -->
             </div>
+
+            <div class="text-center">
+            <div class="hlp-btn mt-20"><a href="{{ route('about-us.inspiration') }}" class="default-btn">See More Articles</a></div>
+            </div>
         </div>
     </div>
     <!-- Blog Area End -->
 
 
     <!-- Donate Text Area Start -->
-    <div class="donate-text-area bg-acquamarine">
+    <div class="donate-text-area bg-danger ">
         <div class="container">
             <div class="ht-donate-wrapper">
                 <div class="donate-text">

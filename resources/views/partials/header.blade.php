@@ -64,6 +64,12 @@
                                                 <li><a href="{{ route('about-scd.good-news') }}">The Good News</a></li>
                                             </ul>
                                         </li>
+                                        <li class="{{ request()->routeIs('media.*') ? 'active' : '' }}"><a href="{{ route('media.blog') }}">Media & Blog</a>
+                                            <ul>
+                                                <li><a href="{{ route('media.blog') }}">Our Blog</a></li>
+                                                <li><a href="{{ route('media.gallery') }}">Media</a></li>
+                                            </ul>
+                                        </li>
                                         <li class="{{ request()->routeIs('how-to-help') ? 'active' : '' }}"><a href="{{ route('how-to-help')  }}">How To Help</a>
                                         <li class="{{ request()->routeIs('contact-us') ? 'active' : '' }}"><a href="{{ route('contact-us') }}">Contact</a></li>
 

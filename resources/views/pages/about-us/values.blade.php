@@ -23,7 +23,10 @@
 
                     <!-- Right Column: Image -->
                     <div class="col-md-6 text-center">
-                        <img src="{{ asset('img/about/values.jpg') }}" alt="Image of Awo and the Sisters" class="img-fluid rounded shadow-sm">
+                        <img src="{{ asset('img/about/SGAF-ISCC-focus.jpeg') }}"
+                            width="300" alt="ISCC Focus group discussion in  May 2024"
+                             class="rounded shadow-sm">
+                        <p class="mt-2">ISCC Focus group discussion in  May 2024</p>
                     </div>
                 </div>
             </div>
