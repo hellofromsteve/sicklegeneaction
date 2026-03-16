@@ -23,12 +23,12 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4 text-center mt-50`">
-                        <img src="{{ asset('img/about/national-strategy.jpeg') }}" alt="25th April 2024 MOH/GHS National
-                        Sickle Cell Strategy Stakeholder Engagement Meeting" class="img-fluid rounded shadow">
-                        <p>25th April 2024
-                            MOH/GHS National Sickle Cell Strategy Stakeholder Engagement Meeting</p>
-                    </div>
+{{--                    <div class="col-md-4 text-center mt-50`">--}}
+{{--                        <img src="{{ asset('img/about/national-strategy.jpeg') }}" alt="25th April 2024 MOH/GHS National--}}
+{{--                        Sickle Cell Strategy Stakeholder Engagement Meeting" class="img-fluid rounded shadow">--}}
+{{--                        <p>25th April 2024--}}
+{{--                            MOH/GHS National Sickle Cell Strategy Stakeholder Engagement Meeting</p>--}}
+{{--                    </div>--}}
                 </div>
             </div>
 
@@ -61,28 +61,78 @@
 
             <div class="container mt-30">
 
-                <h5 class="text-black"> Our Work</h5>
-                <p class="text-danger m-0 pb-0 fs-5"><strong> We work to make hydroxyurea treatment more accessible.</strong></p>
+                <h5 class="text-black">Our Work</h5>
+
+                <!-- FIRST SECTION (FULL WIDTH) -->
+                <p class="text-danger m-0 pb-0 fs-5">
+                    <strong>We work to make hydroxyurea treatment more accessible.</strong>
+                </p>
+
                 <div class="text-justify">
-                    <p class="text-black m-0"><strong>    •	Our cherished accomplishment is for our, now, Executive Director to have been part of the delegation led by the Sickle Cell Foundation of Ghana that called on Former Vice President Dr. Mahamudu Bawumia to place a medication (Hydroxyurea) for treatment of SCD on the national health insurance.</strong></p>
-                    <p class="text-black m-0"><strong>  •	Hydroxyurea was subsequently placed on the essential drug list under NHIS in 2022.</strong></p>
-                    <p class="text-black m-0"><strong>•	We continue to engage government and our legislators on widening the scope of NHIS coverage for persons with SCD, due its heavy financial burden on persons with SCD and their caregivers.</strong></p>
+                    <p class="text-black m-0">
+                        <strong>• Our cherished accomplishment is for our, now, Executive Director to have been part of the delegation led by the Sickle Cell Foundation of Ghana that called on Former Vice President Dr. Mahamudu Bawumia to place a medication (Hydroxyurea) for treatment of SCD on the national health insurance.</strong>
+                    </p>
+
+                    <p class="text-black m-0">
+                        <strong>• Hydroxyurea was subsequently placed on the essential drug list under NHIS in 2022.</strong>
+                    </p>
+
+                    <p class="text-black m-0">
+                        <strong>• We continue to engage government and our legislators on widening the scope of NHIS coverage for persons with SCD, due its heavy financial burden on persons with SCD and their caregivers.</strong>
+                    </p>
                 </div>
 
 
-                <p class="text-danger mt-30 mb-0 pb-0 fs-5"><strong>We work across government agencies</strong></p>
-                <p class="text-black mb-0 pb-0 fs-6"><strong>  As stakeholders, we continue to engage with the following governmental entities to promote the wellbeing of Sickle Cell Warriors and their families:</strong></p>
-                <div class="text-justify">
-                    <p class="text-black m-0"><strong>   •	The Ministry of Health,</strong></p>
-                    <p class="text-black m-0"><strong>•	The Ministry of Education</strong></p>
-                    <p class="text-black m-0"><strong> •	The Ministry of Gender, Children, and Social Protection, as well as</strong></p>
-                    <p class="text-black m-0"><strong> •	The Ghana Health Service</strong></p>
-                    <p class="text-black m-0"><strong> •	The Ministry of Health’s recent 2024 call to action on Sickle Cell Disease has opened up ongoing dialogues with stakeholders within the Sickle Cell Community.</strong></p>
-                    <p class="text-black m-0"><strong> Through these ongoing dialogues, we are looking to sharpen legislation around the National Sickle Cell Agenda. We do so to further advance our cause for making improvements in the quality of care through the implementation of best practices.</strong></p>
+                <!-- SECOND SECTION WITH IMAGE -->
+                <div class="row mt-30 align-items-start">
+
+                    <!-- TEXT -->
+                    <div class="col-lg-8">
+
+                        <p class="text-danger mb-0 pb-0 fs-5">
+                            <strong>We work across government agencies</strong>
+                        </p>
+
+                        <p class="text-black mb-0 pb-0 fs-6">
+                            <strong>
+                                As stakeholders, we continue to engage with the following governmental entities to promote the wellbeing of Sickle Cell Warriors and their families:
+                            </strong>
+                        </p>
+
+                        <div class="text-justify">
+                            <p class="text-black m-0"><strong>• The Ministry of Health</strong></p>
+                            <p class="text-black m-0"><strong>• The Ministry of Education</strong></p>
+                            <p class="text-black m-0"><strong>• The Ministry of Gender, Children, and Social Protection</strong></p>
+                            <p class="text-black m-0"><strong>• The Ghana Health Service</strong></p>
+
+                            <p class="text-black m-0">
+                                <strong>
+                                    • The Ministry of Health’s recent 2024 call to action on Sickle Cell Disease has opened up ongoing dialogues with stakeholders within the Sickle Cell Community.
+                                </strong>
+                            </p>
+
+                            <p class="text-black m-0">
+                                <strong>
+                                    Through these ongoing dialogues, we are looking to sharpen legislation around the National Sickle Cell Agenda. We do so to further advance our cause for making improvements in the quality of care through the implementation of best practices.
+                                </strong>
+                            </p>
+                        </div>
+
+                    </div>
+
+
+                    <!-- IMAGE -->
+                    <div class="col-lg-4 text-center">
+
+                        <img src="{{ asset('img/about/national-strategy.jpeg') }}"
+                             alt="Government engagement for SCD advocacy"
+                             class="img-fluid rounded shadow"
+                             style="max-height:420px; object-fit:cover;">
+                        <p>25th April 2024
+                            MOH/GHS National Sickle Cell Strategy Stakeholder Engagement Meeting</p>
+                    </div>
+
                 </div>
-
-
-
 
             </div>
         </div>

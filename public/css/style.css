@@ -1883,37 +1883,101 @@ textarea:focus {
 /*----------------------------------------*/
 /*  10. Gallery Area
 /*----------------------------------------*/
-.gallery-img {
-  float: left;
-  padding: 10px;
-  width: 25%;
-  overflow: hidden;
+/*.gallery-img {*/
+/*  float: left;*/
+/*  padding: 10px;*/
+/*  width: 25%;*/
+/*  overflow: hidden;*/
+/*}*/
+/*.gallery-img img,*/
+/*.ht-blog-img img,*/
+/*.ht-event-img img,*/
+/*.ht-cause-img img {*/
+/*  width: 100%;*/
+/*  transform: scale(1);*/
+/*  transition: all 0.3s ease-in-out;*/
+/*}*/
+/*.gallery-img:hover img,*/
+/*.ht-single-blog:hover .ht-blog-img img,*/
+/*.ht-single-event:hover .ht-event-img img,*/
+/*.ht-single-cause:hover .ht-cause-img img {*/
+/*  transform: scale(1.1);*/
+/*}*/
+/*.ht-blog-img,*/
+/*.ht-event-img,*/
+/*.ht-cause-img {*/
+/*  overflow: hidden;*/
+/*}*/
+/*.gallery-img a {*/
+/*  display: block;*/
+/*  overflow: hidden;*/
+/*}*/
+/*.gallery-lsit {*/
+/*  margin: -10px;*/
+/*}*/
+
+
+
+/*----------------------------------------*/
+/*  10. Gallery Area
+/*----------------------------------------*/
+
+.gallery-lsit {
+    margin: -10px;
 }
+
+/* Clear floats */
+.gallery-lsit::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.gallery-img {
+    float: left;
+    padding: 10px;
+    width: 25%;
+    overflow: hidden;
+}
+
+/* Image styling */
 .gallery-img img,
 .ht-blog-img img,
 .ht-event-img img,
 .ht-cause-img img {
-  width: 100%;
-  transform: scale(1);
-  transition: all 0.3s ease-in-out;
+    width: 100%;
+    height: 230px;              /* fixed height for alignment */
+    object-fit: cover;           /* keeps image proportions */
+    transform: scale(1);
+    transition: all 0.3s ease-in-out;
 }
+
+/* Hover zoom effect */
 .gallery-img:hover img,
 .ht-single-blog:hover .ht-blog-img img,
 .ht-single-event:hover .ht-event-img img,
 .ht-single-cause:hover .ht-cause-img img {
-  transform: scale(1.1);
+    transform: scale(1.1);
 }
+
 .ht-blog-img,
 .ht-event-img,
 .ht-cause-img {
-  overflow: hidden;
+    overflow: hidden;
 }
+
 .gallery-img a {
-  display: block;
-  overflow: hidden;
+    display: block;
+    overflow: hidden;
 }
-.gallery-lsit {
-  margin: -10px;
+
+/* Title styling */
+.gallery-img p {
+    margin-top: 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    height: 60px;          /* keeps equal spacing for titles */
+    overflow: hidden;
 }
 /*----------------------------------------*/
 /*  11. Donate Text Area

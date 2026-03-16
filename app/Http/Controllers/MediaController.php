@@ -15,27 +15,46 @@ class MediaController extends Controller
 
     public function getImages()
     {
-        return[
-            ['img' => 'image1.jpeg', 'title' => 'Image 1'],
-            ['img' => 'image2.jpeg', 'title' => 'Image 2'],
-            ['img' => 'image3.jpeg', 'title' => 'Image 3'],
-            ['img' => 'image4.jpeg', 'title' => 'Image 4'],
-            ['img' => 'image5.jpeg', 'title' => 'Image 5'],
-            ['img' => 'image6.jpeg', 'title' => 'Image 6'],
-            ['img' => 'image7.jpeg', 'title' => 'Image 7'],
-            ['img' => 'image8.jpeg', 'title' => 'Image 8'],
-            ['img' => 'image9.jpeg', 'title' => 'Image 9'],
-            ['img' => 'image10.jpeg', 'title' => 'Image 10'],
-            ['img' => 'image11.jpeg', 'title' => 'Image 11'],
-            ['img' => 'image12.jpeg', 'title' => 'Image 12'],
-            ['img' => 'image13.jpeg', 'title' => 'Image 13'],
-            ['img' => 'image14.jpeg', 'title' => 'Image 14'],
-            ['img' => 'image15.jpeg', 'title' => 'Image 15'],
-            ['img' => 'image16.jpeg', 'title' => 'Image 16'],
-            ['img' => 'image17.jpeg', 'title' => 'Image 17'],
-            ['img' => 'image18.jpeg', 'title' => 'Image 18'],
-            ['img' => 'image19.jpeg', 'title' => 'Image 19'],
-            ['img' => 'image20.jpeg', 'title' => 'Image 20'],
+        return [
+            ['img' => 'image1.jpeg', 'title' => 'Free SCD screening at Akweibu JHS Cluster of Schools, Dansoman on World Sickle Cell Day 2025'],
+
+            ['img' => 'image2.jpeg', 'title' => 'A student of Saleria Basic School reciting a poem on SCD during a free education and screening session at Odorkor'],
+
+            ['img' => 'image3.jpeg', 'title' => 'Students of Akweibu JHS queued up for screening'],
+
+            ['img' => 'image4.jpeg', 'title' => 'Donation to the GARH Sickle Cell Clinic, Pediatrics'],
+
+            ['img' => 'image5.jpeg', 'title' => 'GF-SGA in a group photo with the Medical Director of GARH during a visit to the hospital’s sickle cell clinic in 2023'],
+
+            ['img' => 'image6.jpeg', 'title' => 'GF-SGA donation and awareness education at GARH Children’s Ward'],
+
+            ['img' => 'image7.jpeg', 'title' => "GF-SGA supporting GNS Foundation's Awareness Event"],
+
+            ['img' => 'image8.jpeg', 'title' => 'GF-SGA partnership meeting with the Ablekuma North Health Directorate in Accra'],
+
+            ['img' => 'image9.jpeg', 'title' => 'GF-SGA participation in ISCC Focus Group Discussion in May 2024'],
+
+            ['img' => 'image10.jpeg', 'title' => 'GF-SGA and Rotary Club in a group photo during a SCD Awareness Education and Screening Exercise at the Presbyterian Basic School at Shiashie, East Legon in Accra'],
+
+            ['img' => 'image11.jpeg', 'title' => 'GF-SGA participating in a SCD Advocacy Summit organised by Novartis in May 2024'],
+
+            ['img' => 'image12.jpeg', 'title' => 'Community Engagement: SCD Awareness Creation and Education in Wa in the Upper West Region'],
+
+            ['img' => 'image13.jpeg', 'title' => 'MOH/GHS National Sickle Cell Strategy Stakeholder Engagement Meeting in April 2024'],
+
+            ['img' => 'image14.jpeg', 'title' => 'GF-SGA Awareness Creation, Education and Feed the Street Kids Drive at Shiashie, Madina Zongo in May 2024'],
+
+            ['img' => 'image15.jpeg', 'title' => 'SGA and Rotary Club of Roman Ridge Awareness Creation at Juvenile Borstal Institute, Accra in March 2024'],
+
+            ['img' => 'image16.jpeg', 'title' => "Awareness Education on Professional Development Day at Achimota Senior High School in February 2024"],
+
+            ['img' => 'image17.jpeg', 'title' => 'A group photo with students of Achimota Senior High School after an Awareness and Education Day in 2024'],
+
+            ['img' => 'image18.jpeg', 'title' => 'A group photo with the GARH Sickle Cell Association during a SCD Awareness and Education programme'],
+
+            ['img' => 'image19.jpeg', 'title' => '2024 World Sickle Cell Day Activity: Awareness, Education and Free Screening Exercise at Saleria Basic School in Accra'],
+
+            ['img' => 'image20.jpeg', 'title' => '7th June 2024 Supporting GNS Foundation Awareness Event'],
         ];
     }
 }

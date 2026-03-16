@@ -17,7 +17,12 @@
                 <p class=" px-4 text-black">•	A hematologist can explain the details of what a person could expect, based on the particulars of the person’s own medical and financial situation.</p>
 
 
-                <div class="mb-4 ms-3">
+                <div class="row align-items-start">
+
+                    <!-- LEFT SIDE: TEXT CONTENT -->
+                    <div class="col-lg-8">
+
+                        <div class="mb-4 ms-3">
 
                             <strong class="fs-5">1. Blood and Bone Marrow Transplantation</strong>
                             <a href="https://www.nhlbi.nih.gov/health/sickle-cell-disease/treatment" target="_blank" class="text-primary">
@@ -26,7 +31,7 @@
 
                             <div class="mt-2 ms-3">
                                 <p class="mb-0"><strong>What it involves</strong></p>
-                                <p class="ms-3  mb-1">• A series of tests and examinations</p>
+                                <p class="ms-3 mb-1">• A series of tests and examinations</p>
                                 <p class="ms-3 mb-1">• Harvesting the stem cells from either the recipient or the donor</p>
                                 <p class="ms-3 mb-1">• Preparation of the recipient’s body for the transplant</p>
                                 <p class="ms-3 mb-1">• Transplantation of the harvested stem cells</p>
@@ -57,6 +62,21 @@
                                 <p class="ms-3 mb-1">• The transplant may not cure long-term pain linked with sickle cell disease</p>
                                 <p class="ms-3 mb-1">• The transplant may not always correct all of the damage that sickle cell disease has already caused</p>
                             </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- RIGHT SIDE: IMAGE -->
+                    <div class="col-lg-4 text-center">
+
+                        <img src="{{ asset('img/about/canitbecure.jpeg') }}"
+                             alt="Cures Diagram for SCD"
+                             class="img-fluid rounded shadow"
+                             style="max-height:450px; object-fit:cover;">
+
+                    </div>
 
                 </div>
 

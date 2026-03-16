@@ -55,25 +55,42 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="hlp-content">
-{{--                        <h4 class="text-black">Our Inspiration</h4>--}}
+                        {{--                        <h4 class="text-black">Our Inspiration</h4>--}}
                         <h5 class="text-black"><strong>In Memoriam: <br> Kwaku Ohene-Frempong</strong></h5>
-                        <p class="text-black" style="text-align: justify;"><strong>
-                            Kwaku Ohene-Frempong, a prominent figure in hematology and a global authority on sickle cell disease (SCD) was born in Kukurantumi, Ghana in 1946 into a very large and loving family.
+
+                        <p class="text-black" style="text-align: justify;">
+                            <strong>
+                                With decades of dedicated service to the global sickle cell disease community, Professor Kwaku Ohene-Frempong transformed the landscape of SCD care, research, and advocacy across the world.
                             </strong>
                         </p>
 
-                        <p class="text-black" style="text-align: justify;"> <strong>
-
-                            KOF excelled academically, athletically, and in leadership during his early education in Kukurantumi and in Kumasi at the prestigious Prempeh College Secondary School.
+                        <p class="text-black" style="text-align: justify;">
+                            <strong>
+                                He championed newborn screening, evidence-based care, and public education, which has today shaped modern SCD management.
                             </strong>
                         </p>
 
-                        <p class="text-black" style="text-align: justify;"> <strong>
-
-                            In 1972, during his second year at Yale University School of Medicine, his firstborn child, his son Kwame, was born with sickle cell disease.
+                        <p class="text-black" style="text-align: justify;">
+                            <strong>
+                                As a father to a son living with sickle cell disease, Professor Ohene-Frempong understood the daily realities, challenges, and hopes of families affected by SCD. This experience further strengthened his passion to improve care and outcomes for families everywhere.
                             </strong>
                         </p>
-                        <div class="hlp-btn mt-20"><a href="{{ route('about-us.inspiration') }}" class="default-btn">Read More</a></div>
+
+                        <p class="text-black" style="text-align: justify;">
+                            <strong>
+                                Through his works, countless healthcare professionals, families, and SCD warriors were empowered with knowledge, hope, and practical solutions. His leadership strengthened international partnerships and improved access to quality care in Africa particularly, Ghana.
+                            </strong>
+                        </p>
+
+                        <p class="text-black" style="text-align: justify;">
+                            <strong>
+                                His life and legacy remind us that with vision, compassion, and persistence, we can transform pain into purpose and challenges into lasting impact. KOF remains a beacon of hope and a true inspiration in the global movement to conquer Sickle Cell Disease.
+                            </strong>
+                        </p>
+
+                        <div class="hlp-btn mt-20">
+                            <a href="{{ route('about-us.inspiration') }}" class="default-btn">Read More</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -110,28 +127,53 @@
                 <h1 class="text-danger">Our Mission</h1>
                 <p class="text-black">Improving the quality of lives for individuals.</p>
             </div>
+
             <div class="row text-center">
+
                 <div class="col-md-4 col-sm-6">
-                    <div class="ht-about-feature-item" style="">
-                        <span><img src="{{ asset('img/icon/donation.png') }}" alt=""></span>
+                    <div class="ht-about-feature-item">
+
+                        <div class="mission-img">
+                            <img src="{{ asset('img/home/earlydiagnosis.jpeg') }}" alt="Early Diagnosis">
+                        </div>
+
                         <h3 class="text-black">Early Diagnosis</h3>
-                        <p class="text-black">Early diagnosis of Sickle Cell Disease is crucial for timely care, improved health outcomes, and a better quality of life.</p>
+                        <p class="text-black">
+                            Early diagnosis of Sickle Cell Disease is crucial for timely care, improved health outcomes, and a better quality of life.
+                        </p>
                     </div>
                 </div>
+
+
                 <div class="col-md-4 col-sm-6">
                     <div class="ht-about-feature-item">
-                        <span><img src="{{ asset('img/icon/volunteer.png') }}" alt=""></span>
+
+                        <div class="mission-img">
+                            <img src="{{ asset('img/home/earlyintervention.jpeg') }}" alt="Early Intervention">
+                        </div>
+
                         <h3 class="text-black">Early Intervention</h3>
-                        <p class="text-black">Prevent complications, reduce hospital visits, and empower individuals with Sickle Cell Disease to live healthier, fuller lives.</p>
+                        <p class="text-black">
+                            Prevent complications, reduce hospital visits, and empower individuals with Sickle Cell Disease to live healthier, fuller lives.
+                        </p>
                     </div>
                 </div>
+
+
                 <div class="col-md-4 col-sm-6">
                     <div class="ht-about-feature-item">
-                        <span><img src="{{ asset('img/icon/scholar.png') }}" alt=""></span>
+
+                        <div class="mission-img">
+                            <img src="{{ asset('img/home/advocacy.jpeg') }}" alt="Advocacy Support">
+                        </div>
+
                         <h3 class="text-black">Advocacy Support</h3>
-                        <p class="text-black">Advocacy support gives a voice to Sickle Cell warriors, driving awareness, policy change, and better care.</p>
+                        <p class="text-black">
+                            Advocacy support gives a voice to Sickle Cell warriors, driving awareness, policy change, and better care.
+                        </p>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>

@@ -27,7 +27,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="ht-single-cause">
                     <div class="ht-cause-img">
-                        <a href="javascript:void(0)"><img src="{{ asset('img/donation/sgafmomo.jpg') }}" alt="Sickle Gene Action Ghana Bank Transfer"></a>
+                        <a href="javascript:void(0)"><img src="{{ asset('img/donation/stanbic.jpg') }}" alt="Sickle Gene Action Ghana Bank Transfer"></a>
                     </div>
                     <div class="ht-cause-text">
                         <h3 class="text-black"><a href="javascript:void(0)">Bank Details</a></h3>
