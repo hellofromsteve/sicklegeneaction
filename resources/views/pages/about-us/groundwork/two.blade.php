@@ -11,7 +11,7 @@
                 <h5 class="pt-30 px-4">Ghana’s Groundwork for Newborn Screening (1992-2022)</h5>
 
                 <!-- Full Historical Accordion Timeline -->
-                <div class="accordion mt-20 px-4" id="timelineAccordion">
+                <div class="accordion mt-20 px-4" id="timelineAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
                     <!-- 1989-1990 -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading1989">

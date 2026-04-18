@@ -31,7 +31,7 @@
                 </div>
 
 
-                <div class="accordion pt-40 px-4" id="kscAccordion">
+                <div class="accordion pt-40 px-4" id="kscAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
 
                     <!-- Accordion Item: 2000 -->

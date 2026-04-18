@@ -55,6 +55,24 @@ class MediaController extends Controller
             ['img' => 'image19.jpeg', 'title' => '2024 World Sickle Cell Day Activity: Awareness, Education and Free Screening Exercise at Saleria Basic School in Accra'],
 
             ['img' => 'image20.jpeg', 'title' => '7th June 2024 Supporting GNS Foundation Awareness Event'],
+
+            ['img' => 'image21.jpeg', 'title' => ''],
+
+            ['img' => 'image22.jpeg', 'title' => ''],
+            ['img' => 'image23.jpeg', 'title' => ''],
+            ['img' => 'image24.jpeg', 'title' => ''],
+            ['img' => 'image25.jpeg', 'title' => ''],
+            ['img' => 'image26.jpeg', 'title' => ''],
+            ['img' => 'image27.jpeg', 'title' => ''],
+            ['img' => 'image28.jpeg', 'title' => ''],
+            ['img' => 'image29.jpeg', 'title' => ''],
+
+
+            ['img' => 'image30.jpeg', 'title' => 'KOF interacting with a Sickle Cell Warrior at the 6th Symposium at Labadi Beach Hotel, 2016.'],
+
+            ['img' => 'image31.jpeg', 'title' => 'A moment of engagement for KOF. Interacting with a mother at the Maternal  and Child Care  Hospital in Kumasi.'],
+
+            ['img' => 'image32.jpeg', 'title' => 'KOF (middle) in a meeting with the staff of the Sickle Cell Foundation of Ghana. Seated to his left is Mrs Janet Ohene-Frempong, and to his right is Mrs Mary Lamptey, National Nurse Coordinator for NBS.'],
         ];
     }
 }

@@ -13,7 +13,7 @@
                 <h5 class="pt-10 px-4 text-black">People struggle with sickle cell disease around the globe.</h5>
 
 
-                <div class="accordion pt-40 px-4" id="globalSickleAccordion">
+                <div class="accordion pt-40 px-4" id="globalSickleAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                     <!-- 1 -->
                     <div class="accordion-item">

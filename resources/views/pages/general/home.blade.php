@@ -1,17 +1,16 @@
 <x-layout title="Home">
 
     <!-- Slider Area Start -->
-    <div class=" py-1 text-center">
+    <div class=" py-5 text-center" style="background-color: #D5EDFF;">
         <div class="slider-wrapper owl-carousel">
             <div class="single-slide px-3">
                 <div class="container">
 
-
-                    <h1 class="display-5 fw-bold text-danger mb-4">Early Action <br> Saves Lives</h1>
+                    <h1 class="display-5 fw-bold text-danger mb-4">Early Action Saves Lives</h1>
 
 
                     <div class="mb-4 d-flex justify-content-center">
-                        <img src="{{ asset('img/banner/home-kid.png') }}" alt="SCD Child" class="img-fluid rounded shadow" style="max-width: 300px;">
+                        <img src="{{ asset('img/banner/home-kid.png') }}" alt="SCD Child" class="img-fluid rounded shadow" style="max-width: 400px;">
                     </div>
 
 
@@ -42,53 +41,50 @@
     <!--  Our Inspiration Start -->
     <div class="help-area pt-50 pb-115 ptb-sm-60">
         <div class="container">
-            <div class="justify-content-center">
-                <div class="col-lg-12 bg-white text-center justify-content-center">
-                      <h1 class=" text-danger mb-4">Our Inspiration</h1>
+            <div class="row justify-content-center mb-4">
+                <div class="col-lg-12 text-center">
+                    <h1 class="text-danger">Our Inspiration</h1>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="hlp-img img-full">
-                        <img src="{{ asset('img/bg/inspiration.jpg') }}" alt="Kwaku Ohene-Frempong">
+
+            <div class="row align-items-center"> <div class="col-lg-6 mb-sm-30">
+                    <div class="hlp-img img-full text-center">
+                        <img src="{{ asset('img/bg/inspiration.jpg') }}" alt="Kwaku Ohene-Frempong" style="width: 100%; max-width: 450px; border: 4px solid #002d5b; height: auto; border-radius: 8px;">
+
+                        <div class="mt-3">
+                            <h5 class="text-black mb-0"><strong>Kwaku Ohene-Frempong, MD</strong></h5>
+                            <p class="text-black">1946–2022</p>
+                        </div>
                     </div>
                 </div>
+
                 <div class="col-lg-6">
                     <div class="hlp-content">
-                        {{--                        <h4 class="text-black">Our Inspiration</h4>--}}
-                        <h5 class="text-black"><strong>In Memoriam: <br> Kwaku Ohene-Frempong</strong></h5>
+                        <h5 class="text-black mb-3"><strong>In Memoriam: Kwaku Ohene-Frempong</strong></h5>
 
-                        <p class="text-black" style="text-align: justify;">
-                            <strong>
-                                With decades of dedicated service to the global sickle cell disease community, Professor Kwaku Ohene-Frempong transformed the landscape of SCD care, research, and advocacy across the world.
-                            </strong>
-                        </p>
+                        <div class="inspiration-text" style="color: black; text-align: justify; line-height: 1.6;">
+                            <p>
+                                <strong>With decades of dedicated service to the global sickle cell disease community, Professor Kwaku Ohene-Frempong transformed the landscape of SCD care, research, and advocacy across the world.</strong>
+                            </p>
 
-                        <p class="text-black" style="text-align: justify;">
-                            <strong>
+                            <p>
                                 He championed newborn screening, evidence-based care, and public education, which has today shaped modern SCD management.
-                            </strong>
-                        </p>
+                            </p>
 
-                        <p class="text-black" style="text-align: justify;">
-                            <strong>
+                            <p>
                                 As a father to a son living with sickle cell disease, Professor Ohene-Frempong understood the daily realities, challenges, and hopes of families affected by SCD. This experience further strengthened his passion to improve care and outcomes for families everywhere.
-                            </strong>
-                        </p>
+                            </p>
 
-                        <p class="text-black" style="text-align: justify;">
-                            <strong>
-                                Through his works, countless healthcare professionals, families, and SCD warriors were empowered with knowledge, hope, and practical solutions. His leadership strengthened international partnerships and improved access to quality care in Africa particularly, Ghana.
-                            </strong>
-                        </p>
+                            <p>
+                                Through his works, countless healthcare professionals, families, and SCD warriors were empowered with knowledge, hope, and practical solutions. His leadership strengthened international partnerships and improved access to quality care in Africa, particularly Ghana.
+                            </p>
 
-                        <p class="text-black" style="text-align: justify;">
-                            <strong>
+                            <p>
                                 His life and legacy remind us that with vision, compassion, and persistence, we can transform pain into purpose and challenges into lasting impact. KOF remains a beacon of hope and a true inspiration in the global movement to conquer Sickle Cell Disease.
-                            </strong>
-                        </p>
+                            </p>
+                        </div>
 
-                        <div class="hlp-btn mt-20">
+                        <div class="hlp-btn mt-30">
                             <a href="{{ route('about-us.inspiration') }}" class="default-btn">Read More</a>
                         </div>
                     </div>
@@ -99,7 +95,7 @@
     <!-- Our Inspiration  End -->
 
     <!-- About Us Section Start -->
-    <div class="about-us-section py-5 bg-light text-center">
+    <div class="about-us-section py-5  text-center">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
@@ -129,14 +125,13 @@
             </div>
 
             <div class="row text-center">
-
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-4 col-sm-6 mb-4">
                     <div class="ht-about-feature-item">
-
-                        <div class="mission-img">
-                            <img src="{{ asset('img/home/earlydiagnosis.jpeg') }}" alt="Early Diagnosis">
+                        <div class="mission-img mb-3">
+                            <img src="{{ asset('img/home/earlydiagnosis.jpeg') }}"
+                                 alt="Early Diagnosis"
+                                 style="border: 4px solid #002d5b; border-radius: 8px; width: 100%; height: 250px; object-fit: cover;">
                         </div>
-
                         <h3 class="text-black">Early Diagnosis</h3>
                         <p class="text-black">
                             Early diagnosis of Sickle Cell Disease is crucial for timely care, improved health outcomes, and a better quality of life.
@@ -144,14 +139,13 @@
                     </div>
                 </div>
 
-
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-4 col-sm-6 mb-4">
                     <div class="ht-about-feature-item">
-
-                        <div class="mission-img">
-                            <img src="{{ asset('img/home/earlyintervention.jpeg') }}" alt="Early Intervention">
+                        <div class="mission-img mb-3">
+                            <img src="{{ asset('img/home/earlyintervention.jpeg') }}"
+                                 alt="Early Intervention"
+                                 style="border: 4px solid #002d5b; border-radius: 8px; width: 100%; height: 250px; object-fit: cover;">
                         </div>
-
                         <h3 class="text-black">Early Intervention</h3>
                         <p class="text-black">
                             Prevent complications, reduce hospital visits, and empower individuals with Sickle Cell Disease to live healthier, fuller lives.
@@ -159,21 +153,19 @@
                     </div>
                 </div>
 
-
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-4 col-sm-6 mb-4">
                     <div class="ht-about-feature-item">
-
-                        <div class="mission-img">
-                            <img src="{{ asset('img/home/advocacy.jpeg') }}" alt="Advocacy Support">
+                        <div class="mission-img mb-3">
+                            <img src="{{ asset('img/home/advocacy.jpeg') }}"
+                                 alt="Advocacy Support"
+                                 style="border: 4px solid #002d5b; border-radius: 8px; width: 100%; height: 250px; object-fit: cover;">
                         </div>
-
                         <h3 class="text-black">Advocacy Support</h3>
                         <p class="text-black">
                             Advocacy support gives a voice to Sickle Cell warriors, driving awareness, policy change, and better care.
                         </p>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
@@ -195,8 +187,9 @@
                             $parts = explode(' ', $feature['title'], 2);
                         @endphp
                         <div class="col-6 col-md-4 mb-5">
-                            <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100 text-center">
-                                <!-- Red dot -->
+                            <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100 text-center d-flex flex-column"
+                                 style="border: 3px solid #002d5b !important; transition: transform 0.3s ease;">
+
                                 <div style="width: 12px; height: 12px; background-color: #e32f4a; border-radius: 50%; margin: 0 auto 15px;"></div>
 
                                 <h3 class="text-black">
@@ -204,8 +197,7 @@
                                     <div>{{ $parts[1] ?? '' }}</div>
                                 </h3>
 
-                                <a href="{{ route($feature['route']) }}" class="default-btn">Read More</a>
-
+                                <a href="{{ route($feature['route']) }}" class="default-btn mt-auto">Learn More</a>
                             </div>
                         </div>
                     @endforeach
@@ -222,7 +214,7 @@
             <div class="ht-donate-wrapper">
                 <div class="donate-text">
                     <h2>Your Help Goes A Long Way</h2>
-                    <h5>Support care for Sickle Cell warriors.</h5>
+                    <h5>Support care for Sickle Cell Warriors.</h5>
                 </div>
                 <div class="donate-btn">
                     <a href="{{ route('how-to-help') }}" class="default-btn">Donate now</a>

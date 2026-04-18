@@ -14,7 +14,7 @@
 
             <h3 class="pt-20 text-start">Tributes & Remembrances:</h3>
 
-            <div class="accordion pt-20 px-0 mb-5 text-start" id="tributeAccordion">
+            <div class="accordion pt-20 px-0 mb-5 text-start" id="tributeAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingNew1">

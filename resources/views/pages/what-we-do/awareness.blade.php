@@ -53,7 +53,7 @@
             <h5 class="pt-30">We have conducted Awareness and Education Programs for children and adults, including:</h5>
 
 
-            <div class="accordion accordion-flush mt-2" id="raiseAccordion">
+            <div class="accordion accordion-flush mt-2" id="raiseAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                 <!-- Accordion Item 1 -->
                 <div class="accordion-item">
@@ -70,6 +70,10 @@
                             <p>✓ Programs for over 2,500  school children between the ages of 6 years to 18 years in Basic and Junior High Schools, and Senior High Schools. </p>
                             <p>✓ A program for 250 basic school children in the Saleria 1 and 2 cluster of schools in Ablekuma</p>
                         </div>
+
+                        <div class="text-center">
+                            <img src="{{ asset('img/home/programwithschool.jpeg') }}" alt="School Program" class="img-fluid rounded shadow-sm" height="200px" width="300px">
+                        </div>
                     </div>
                 </div>
 
@@ -77,7 +81,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#leadershipCollapse2">
-                            <strong>2.	Programs with Organizations</strong>
+                            <strong>2. Programs with Organizations</strong>
                         </button>
                     </h2>
                     <div id="leadershipCollapse2" class="accordion-collapse collapse" data-bs-parent="#needsAccordion">
@@ -129,6 +133,54 @@
             </div>
         </div>
 
+        <!-- Awareness Activities Gallery -->
+        <div class="container mt-50">
+            <h5 class="text-black mb-4">Our Awareness Campaigns in Action</h5>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                        <img src="{{ asset('img/gallery/image17.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="Achimota Senior High School Awareness">
+                        <div class="card-body text-center" style="background-color: #D5EDFF;">
+                            <p class="card-text text-black small mb-0"><strong>Group photo with students of Achimota Senior High School after an Awareness and Education Day in 2024</strong></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                        <img src="{{ asset('img/gallery/image15.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="Rotary Club Awareness at Borstal Institute">
+                        <div class="card-body text-center" style="background-color: #D5EDFF;">
+                            <p class="card-text text-black small mb-0"><strong>GF-SGA and Rotary Club Awareness Creation at Juvenile Borstal Institute, Accra - March 2024</strong></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                        <img src="{{ asset('img/gallery/image14.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="Feed the Street Kids Drive">
+                        <div class="card-body text-center" style="background-color: #D5EDFF;">
+                            <p class="card-text text-black small mb-0"><strong>GF-SGA Awareness Creation, Education and Feed the Street Kids Drive at Shiashie, Madina Zongo - May 2024</strong></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-4 mt-2">
+                <div class="col-md-6">
+                    <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                        <img src="{{ asset('img/gallery/image12.jpeg') }}" class="card-img-top" style="height: 250px; object-fit: cover;" alt="Community Engagement in Wa">
+                        <div class="card-body text-center" style="background-color: #D5EDFF;">
+                            <p class="card-text text-black small mb-0"><strong>Community Engagement: SCD Awareness Creation and Education in Wa, Upper West Region</strong></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                        <img src="{{ asset('img/gallery/image2.jpeg') }}" class="card-img-top" style="height: 250px; object-fit: cover;" alt="Student reciting poem on SCD">
+                        <div class="card-body text-center" style="background-color: #D5EDFF;">
+                            <p class="card-text text-black small mb-0"><strong>A student of Saleria Basic School reciting a poem on SCD during a free education and screening session at Odorkor</strong></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </div>
 

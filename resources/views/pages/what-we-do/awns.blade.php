@@ -135,6 +135,29 @@
                 </div>
 
             </div>
+
+            <!-- Partnership Activities Gallery -->
+            <div class="container mt-50">
+                <h5 class="text-black mb-4">Building Strategic Partnerships</h5>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-md-5">
+                        <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                            <img src="{{ asset('img/gallery/image8.jpeg') }}" class="card-img-top" style="height: 250px; object-fit: cover;" alt="Partnership meeting with Ablekuma North Health Directorate">
+                            <div class="card-body text-center" style="background-color: #D5EDFF;">
+                                <p class="card-text text-black small mb-0"><strong>GF-SGA partnership meeting with the Ablekuma North Health Directorate in Accra</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                            <img src="{{ asset('img/gallery/image10.jpeg') }}" class="card-img-top" style="height: 250px; object-fit: cover;" alt="GF-SGA and Rotary Club partnership">
+                            <div class="card-body text-center" style="background-color: #D5EDFF;">
+                                <p class="card-text text-black small mb-0"><strong>GF-SGA and Rotary Club partnership - SCD Awareness Education and Screening at Presbyterian Basic School, Shiashie</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
     </div>

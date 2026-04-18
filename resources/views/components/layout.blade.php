@@ -52,7 +52,7 @@
     @yield('head')
 
 </head>
-<body>
+<body class="" style="background-color: #D5EDFF;">
 
 @include('partials.header')
 

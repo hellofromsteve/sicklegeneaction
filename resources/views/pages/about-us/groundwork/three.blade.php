@@ -19,7 +19,7 @@
 
                 <h5 class="pt-20 px-4">The Public-Private Partnership lead to a number of important outcomes, including: </h5>
 
-                <div class="accordion pt-40 px-4" id="hydroxyureaAccordion">
+                <div class="accordion pt-40 px-4" id="hydroxyureaAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                     <!-- 1. Initial Source -->
                     <div class="accordion-item">

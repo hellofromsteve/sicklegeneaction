@@ -13,7 +13,7 @@
 
                 <h5 class="pt-20 px-4 text-black">Numbers Have Names — The Faces and Voices Behind the World’s Stunning SCD Statistics</h5>
 
-                <div class="accordion pt-40 px-4" id="storiesAccordion">
+                <div class="accordion pt-40 px-4" id="storiesAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                     <!-- 1 -->
                     <div class="accordion-item">

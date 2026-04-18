@@ -140,6 +140,125 @@
   .ht-sidebar-widget {
   margin-bottom: 35px;
 }
+
+/* ========================================
+   HOMEPAGE MOBILE RESPONSIVE FIXES
+   ======================================== */
+
+/* Hero/Slider Section */
+.slider-wrapper .single-slide h1.display-5 {
+  font-size: 1.75rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 15px !important;
+}
+.slider-wrapper .single-slide h2 {
+  font-size: 1.25rem !important;
+  line-height: 1.3 !important;
+}
+.slider-wrapper .single-slide p.fs-5 {
+  font-size: 0.95rem !important;
+  line-height: 1.5 !important;
+}
+.slider-wrapper .single-slide p br {
+  display: none;
+}
+.slider-wrapper .single-slide img {
+  max-width: 280px !important;
+}
+
+/* Our Inspiration Section */
+.hlp-img img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+.hlp-content h5 {
+  font-size: 1.1rem !important;
+}
+.inspiration-text p {
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
+  text-align: left !important;
+}
+.hlp-content h4 {
+  font-size: 1.25rem !important;
+}
+
+/* About Us Section */
+.about-us-section h1 {
+  font-size: 1.5rem !important;
+}
+.about-us-section p.fs-5 {
+  font-size: 1rem !important;
+  padding: 0 10px;
+}
+.about-us-section .d-flex.gap-3 {
+  flex-direction: column !important;
+  gap: 10px !important;
+  align-items: center !important;
+}
+.about-us-section .default-btn {
+  width: 80%;
+  max-width: 200px;
+}
+
+/* Our Mission Section */
+.mission-img img {
+  height: 180px !important;
+}
+.help-area .ht-about-feature-item h3 {
+  font-size: 1rem !important;
+}
+.help-area .ht-about-feature-item p {
+  font-size: 0.85rem !important;
+  line-height: 1.4 !important;
+}
+
+/* Feature Boxes mobile fixes (What We Do, About Us, About SCD pages) */
+.ht-about-feature-item {
+  padding: 15px 10px !important;
+  min-height: auto;
+  overflow: hidden;
+}
+.ht-about-feature-item h3 {
+  font-size: 14px !important;
+  line-height: 1.3 !important;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  margin-bottom: 10px !important;
+}
+.ht-about-feature-item h3 div {
+  font-size: inherit !important;
+}
+.ht-about-feature-item .default-btn {
+  font-size: 11px !important;
+  padding: 0 12px !important;
+  line-height: 30px !important;
+  white-space: nowrap;
+  display: inline-block;
+  max-width: 100%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/* Donate Banner Section */
+.donate-text-area .ht-donate-wrapper {
+  flex-direction: column !important;
+  text-align: center !important;
+  padding: 20px 15px !important;
+}
+.donate-text-area .donate-text h2 {
+  font-size: 1.25rem !important;
+  margin-bottom: 5px !important;
+}
+.donate-text-area .donate-text h5 {
+  font-size: 0.95rem !important;
+  margin-bottom: 15px !important;
+}
+.donate-text-area .donate-btn {
+  margin-top: 10px;
+}
+
 .donate-btn .default-btn {
   line-height: 32px;
   padding: 0 21px;
@@ -446,4 +565,70 @@ form.search-pop-up, .search-pop-up input {width: 100%;}
 .team-area.team-section {padding-bottom: 35px;}
 .blog-section .nav.nav-tabs {margin-right: 203px;}
 .slider-two-area .text-content > h1 {font-size: 30px;}
+}
+
+/* Extra small mobile :400px and below */
+@media (max-width: 400px) {
+  /* Hero Section - extra small */
+  .slider-wrapper .single-slide h1.display-5 {
+    font-size: 1.4rem !important;
+  }
+  .slider-wrapper .single-slide h2 {
+    font-size: 1.1rem !important;
+  }
+  .slider-wrapper .single-slide p.fs-5 {
+    font-size: 0.85rem !important;
+  }
+  .slider-wrapper .single-slide img {
+    max-width: 220px !important;
+  }
+
+  /* Inspiration Section - extra small */
+  .hlp-content h5 {
+    font-size: 1rem !important;
+  }
+  .inspiration-text p {
+    font-size: 0.85rem !important;
+  }
+
+  /* About Us Section - extra small */
+  .about-us-section h1 {
+    font-size: 1.25rem !important;
+  }
+  .about-us-section p.fs-5 {
+    font-size: 0.9rem !important;
+  }
+
+  /* Mission Section - extra small */
+  .mission-img img {
+    height: 150px !important;
+  }
+  .help-area .ht-about-feature-item h3 {
+    font-size: 0.9rem !important;
+  }
+  .help-area .ht-about-feature-item p {
+    font-size: 0.8rem !important;
+  }
+
+  /* Feature Boxes - extra small screen fixes (all pages) */
+  .ht-about-feature-item {
+    padding: 12px 8px !important;
+  }
+  .ht-about-feature-item h3 {
+    font-size: 12px !important;
+    line-height: 1.2 !important;
+  }
+  .ht-about-feature-item .default-btn {
+    font-size: 10px !important;
+    padding: 0 8px !important;
+    line-height: 26px !important;
+  }
+
+  /* Donate Banner - extra small */
+  .donate-text-area .donate-text h2 {
+    font-size: 1.1rem !important;
+  }
+  .donate-text-area .donate-text h5 {
+    font-size: 0.85rem !important;
+  }
 }

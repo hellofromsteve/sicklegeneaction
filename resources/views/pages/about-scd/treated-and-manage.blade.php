@@ -10,7 +10,7 @@
                 <h4 class="pt-10 pb-20 text-danger text-center">How SCD Can Be Treated and Managed</h4>
 
 
-                <div class="accordion pt-40 px-4" id="ghanaSCDAccordion">
+                <div class="accordion pt-40 px-4" id="ghanaSCDAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                     <!-- 1 -->
                     <div class="accordion-item">

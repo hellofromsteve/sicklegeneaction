@@ -53,6 +53,36 @@
 
             </div>
 
+            <!-- Screening Activities Gallery -->
+            <div class="container mt-50">
+                <h5 class="text-black mb-4">Our Screening Activities</h5>
+                <div class="row g-4">
+                    <div class="col-md-4">
+                        <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                            <img src="{{ asset('img/gallery/image1.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="Free SCD screening at Akweibu JHS">
+                            <div class="card-body text-center" style="background-color: #D5EDFF;">
+                                <p class="card-text text-black small mb-0"><strong>Free SCD screening at Akweibu JHS Cluster of Schools, Dansoman on World Sickle Cell Day 2025</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                            <img src="{{ asset('img/gallery/image3.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="Students queued up for screening">
+                            <div class="card-body text-center" style="background-color: #D5EDFF;">
+                                <p class="card-text text-black small mb-0"><strong>Students of Akweibu JHS queued up for screening</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                            <img src="{{ asset('img/gallery/image19.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="World Sickle Cell Day Screening">
+                            <div class="card-body text-center" style="background-color: #D5EDFF;">
+                                <p class="card-text text-black small mb-0"><strong>2024 World Sickle Cell Day: Awareness, Education and Free Screening at Saleria Basic School</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
     </div>

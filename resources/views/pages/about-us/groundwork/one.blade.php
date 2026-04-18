@@ -33,7 +33,7 @@
                     </p>
                 </div>
 
-                <div class="accordion accordion-flush px-4 pt-3" id="leadershipAccordion">
+                <div class="accordion accordion-flush px-4 pt-3" id="leadershipAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                     <!-- Accordion Item 1 -->
                     <div class="accordion-item">

@@ -69,7 +69,7 @@
                             </div>
                         </div>
 
-                        <div class="accordion mt-4" id="complicationsAccordion">
+                        <div class="accordion mt-4" id="complicationsAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingComplications">
                                     <button class="accordion-button collapsed text-primary fs-5 fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseComplications" aria-expanded="false" aria-controls="collapseComplications">
@@ -135,7 +135,7 @@
                     <h3 class="fw-bold mb-3">Sickle Cell Disease Can Affect a Person’s Life PHYSICALLY</h3>
                     <p class="fs-5 mb-3 fw-bold">A few issues to be aware of:</p>
 
-                    <div class="accordion" id="physicalAccordion">
+                    <div class="accordion" id="physicalAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                         <!-- 1 -->
                         <div class="accordion-item">

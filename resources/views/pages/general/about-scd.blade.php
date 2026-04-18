@@ -17,7 +17,8 @@
 
                         @endphp
                         <div class="col-6 col-md-4 mb-5 {{ $isLastInRow ? 'mx-auto' : '' }}">
-                            <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100 text-center">
+                            <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100 text-center d-flex flex-column"
+                                 style="border: 3px solid #002d5b !important; transition: transform 0.3s ease;">
                                 <div style="width: 12px; height: 12px; background-color: #e3342f; border-radius: 50%; margin: 0 auto 15px;"></div>
 
                                 <h3 class="text-black text-wrap">{{ $feature['title'] }}</h3>
@@ -30,7 +31,7 @@
                                   </h3>
                                  --}}
 
-                                <a href="{{ route($feature['route']) }}" class="btn btn-sm btn-danger mt-3">Read More</a>
+                                <a href="{{ route($feature['route']) }}" class="default-btn mt-auto">Learn More</a>
                             </div>
                         </div>
                     @endforeach
@@ -45,19 +46,19 @@
         <!-- Section Title -->
 
         <div class="row row-cols-2 row-cols-sm-3 row-cols-md-5 g-4">
-            <div class="col">
+            <div class="col" style="border: 1px solid #002d5b; border-radius: 8px; object-fit: cover;">
                 <img src="{{ asset('img/about/healthy_baby.jpg') }}" alt="Healthy Baby" class="img-fluid rounded shadow-sm">
             </div>
-            <div class="col">
+            <div class="col" style="border: 1px solid #002d5b; border-radius: 8px; object-fit: cover;">
                 <img src="{{ asset('img/about/healthy_young.jpg') }}" alt="Healthy Child" class="img-fluid rounded shadow-sm">
             </div>
-            <div class="col">
+            <div class="col" style="border: 1px solid #002d5b; border-radius: 8px; object-fit: cover;">
                 <img src="{{ asset('img/about/healthy_teen.png') }}" alt="Healthy Adolescent" class="img-fluid rounded shadow-sm">
             </div>
-            <div class="col">
+            <div class="col" style="border: 1px solid #002d5b; border-radius: 8px; object-fit: cover;">
                 <img src="{{ asset('img/about/healthy_adult.jpg') }}" alt="Healthy Young Adult" class="img-fluid rounded shadow-sm">
             </div>
-            <div class="col">
+            <div class="col" style="border: 1px solid #002d5b; border-radius: 8px; object-fit: cover;">
                 <img src="{{ asset('img/about/healthy_old.jpg') }}" alt="Healthy Older Adult" class="img-fluid rounded shadow-sm">
             </div>
         </div>

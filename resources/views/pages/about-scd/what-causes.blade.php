@@ -14,7 +14,7 @@
                 </h6>
 
 
-                <div class="accordion pt-40 px-4 mb-5" id="causesAccordion">
+                <div class="accordion pt-40 px-4 mb-5" id="causesAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                     <!-- 1 -->
                     <div class="accordion-item">

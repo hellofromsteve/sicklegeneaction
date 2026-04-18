@@ -72,7 +72,7 @@
                 </p>
             </div>
 
-            <div class="accordion accordion-flush px-4" id="needsAccordion">
+            <div class="accordion accordion-flush px-4" id="needsAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                 <!-- Accordion Item 1 -->
                 <div class="accordion-item">
@@ -216,7 +216,7 @@
                 <p class="text-black">This includes:</p>
             </div>
 
-            <div class="accordion accordion-flush px-4" id="advAccordion">
+            <div class="accordion accordion-flush px-4" id="advAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                 <!-- Accordion Item 1 -->
                 <div class="accordion-item">
@@ -325,7 +325,7 @@
                 </ul>
             </div>
 
-            <div class="accordion accordion-flush px-4 " id="needsAccordion">
+            <div class="accordion accordion-flush px-4 " id="needsAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                 <!-- Accordion Item 1 -->
                 <div class="accordion-item">
@@ -425,6 +425,37 @@
                     </div>
                 </div>
 
+            </div>
+        </div>
+
+        <!-- Stakeholder Engagement Gallery -->
+        <div class="container mt-50 pb-50">
+            <h5 class="text-black mb-4">Our Stakeholder Engagements</h5>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                        <img src="{{ asset('img/gallery/image13.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="MOH/GHS National Sickle Cell Strategy Meeting">
+                        <div class="card-body text-center" style="background-color: #D5EDFF;">
+                            <p class="card-text text-black small mb-0"><strong>MOH/GHS National Sickle Cell Strategy Stakeholder Engagement Meeting - April 2024</strong></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                        <img src="{{ asset('img/gallery/image11.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="SCD Advocacy Summit by Novartis">
+                        <div class="card-body text-center" style="background-color: #D5EDFF;">
+                            <p class="card-text text-black small mb-0"><strong>GF-SGA participating in a SCD Advocacy Summit organised by Novartis - May 2024</strong></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                        <img src="{{ asset('img/gallery/image9.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="ISCC Focus Group Discussion">
+                        <div class="card-body text-center" style="background-color: #D5EDFF;">
+                            <p class="card-text text-black small mb-0"><strong>GF-SGA participation in ISCC Focus Group Discussion - May 2024</strong></p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 

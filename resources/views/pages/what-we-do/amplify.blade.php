@@ -61,7 +61,7 @@
 
         <div class="container">
 
-            <div class="accordion accordion-flush mt-2" id="raiseAccordion">
+            <div class="accordion accordion-flush mt-2" id="raiseAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                 <!-- Accordion Item 1 -->
                 <div class="accordion-item">
@@ -109,6 +109,28 @@
             </div>
         </div>
 
+        <!-- Amplifying Voices Gallery -->
+        <div class="container mt-50">
+            <h5 class="text-black mb-4">Supporting Sickle Cell Warriors and Their Families</h5>
+            <div class="row g-4 justify-content-center">
+                <div class="col-md-5">
+                    <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                        <img src="{{ asset('img/gallery/image18.jpeg') }}" class="card-img-top" style="height: 250px; object-fit: cover;" alt="GARH Sickle Cell Association">
+                        <div class="card-body text-center" style="background-color: #D5EDFF;">
+                            <p class="card-text text-black small mb-0"><strong>A group photo with the GARH Sickle Cell Association during a SCD Awareness and Education programme</strong></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
+                        <img src="{{ asset('img/gallery/image30.jpeg') }}" class="card-img-top" style="height: 250px; object-fit: cover;" alt="Prof. Ohene-Frempong with Sickle Cell Warrior">
+                        <div class="card-body text-center" style="background-color: #D5EDFF;">
+                            <p class="card-text text-black small mb-0"><strong>Prof. Ohene-Frempong interacting with a Sickle Cell Warrior at the 6th Symposium at Labadi Beach Hotel, 2016</strong></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </div>
 

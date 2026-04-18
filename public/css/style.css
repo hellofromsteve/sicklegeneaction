@@ -1941,7 +1941,16 @@ textarea:focus {
 }
 
 /* Image styling */
-.gallery-img img,
+.gallery-img img {
+    width: 100%;
+    height: 230px;              /* fixed height for alignment */
+    object-fit: cover;           /* keeps image proportions */
+    transform: scale(1);
+    transition: all 0.3s ease-in-out;
+    border: 4px solid #002d5b;   /* dark blue border to match home page mission section */
+    border-radius: 8px;
+}
+
 .ht-blog-img img,
 .ht-event-img img,
 .ht-cause-img img {
