@@ -18,7 +18,7 @@ class MediaController extends Controller
         return [
             ['img' => 'image1.jpeg', 'title' => 'Free SCD screening at Akweibu JHS Cluster of Schools, Dansoman on World Sickle Cell Day 2025'],
 
-            ['img' => 'image2.jpeg', 'title' => 'A student of Saleria Basic School reciting a poem on SCD during a free education and screening session at Odorkor'],
+            ['img' => 'image2.jpeg', 'title' => 'A student of Saleria Basic School reciting a poem on SCD during a free education & screening session at Odorkor'],
 
             ['img' => 'image3.jpeg', 'title' => 'Students of Akweibu JHS queued up for screening'],
 
@@ -28,7 +28,7 @@ class MediaController extends Controller
 
             ['img' => 'image6.jpeg', 'title' => 'GF-SGA donation and awareness education at GARH Children’s Ward'],
 
-            ['img' => 'image7.jpeg', 'title' => "GF-SGA supporting GNS Foundation's Awareness Event"],
+            ['img' => 'image7.jpeg', 'title' => "7th June 2024 Supporting GNS Foundation Awareness Event"],
 
             ['img' => 'image8.jpeg', 'title' => 'GF-SGA partnership meeting with the Ablekuma North Health Directorate in Accra'],
 
@@ -54,7 +54,7 @@ class MediaController extends Controller
 
             ['img' => 'image19.jpeg', 'title' => '2024 World Sickle Cell Day Activity: Awareness, Education and Free Screening Exercise at Saleria Basic School in Accra'],
 
-            ['img' => 'image20.jpeg', 'title' => '7th June 2024 Supporting GNS Foundation Awareness Event'],
+            // ['img' => 'image20.jpeg', 'title' => '7th June 2024 Supporting GNS Foundation Awareness Event'],
 
             ['img' => 'image21.jpeg', 'title' => ''],
 

@@ -87,6 +87,9 @@
 <!-- Main JS -->
 <script src="{{ asset('js/main.js') }}"></script>
 
+<!-- Gallery Read More JS -->
+<script src="{{ asset('js/gallery-read-more.js') }}"></script>
+
 </body>
 
 

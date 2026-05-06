@@ -95,6 +95,34 @@
                 </p>
             </div>
 
+            <!-- KOF Image Gallery -->
+            <div class="row pt-50 g-4">
+                <div class="col-md-4 col-sm-12">
+                    <div class="kof-gallery-item">
+                        <img src="{{ asset('img/home/inspiration1.jpeg') }}" alt="KOF at Maternal and Child Care Hospital" class="img-fluid" style="width: 100%; border: 4px solid #002d5b; border-radius: 8px;">
+                        <p class="text-black pt-3 text-center" style="line-height: 1.6;">
+                            KOF interacting with a mother at the Maternal and Child Care Hospital in Kumasi.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="kof-gallery-item">
+                        <img src="{{ asset('img/home/inspiration2.jpeg') }}" alt="KOF at 6th Symposium" class="img-fluid" style="width: 100%; border: 4px solid #002d5b; border-radius: 8px;">
+                        <p class="text-black pt-3 text-center" style="line-height: 1.6;">
+                            KOF interacting with a Sickle Cell Warrior at the 6th Symposium at Labadi Beach Hotel, 2016.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="kof-gallery-item">
+                        <img src="{{ asset('img/home/inspiration3.jpeg') }}" alt="KOF meeting with staff" class="img-fluid" style="width: 100%; border: 4px solid #002d5b; border-radius: 8px;">
+                        <p class="text-black pt-3 text-center" style="line-height: 1.6;">
+                            KOF (middle) in a meeting with the staff of the Sickle Cell Foundation of Ghana. Seated to his left is Mrs Janet Ohene-Frempong, and to his right is Mrs Mary Lamptey, National Nurse Coordinator for NBS.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </x-layout>
