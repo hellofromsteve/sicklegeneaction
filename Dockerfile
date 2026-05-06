@@ -16,7 +16,7 @@ COPY --from=composer_base /app .
 RUN npm run build
 
 # --- Stage 3: Production Server (PHP + Nginx) ---
-FROM php:8.5-fpm-bookworm
+FROM php:8.2-fpm-bookworm
 
 # 1. Install system dependencies & PHP extensions
 RUN apt-get update && apt-get install -y \
