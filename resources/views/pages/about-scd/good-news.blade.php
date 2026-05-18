@@ -108,8 +108,8 @@
                         and become productive citizens of Ghana and the Globe.
                         <br>
                         And that is very good news.
-
                     </p>
+                    <a href="{{ route('online-donate') }}" class="default-btn mt-2"><span>Donate Now</span></a>
                 </div>
 
 

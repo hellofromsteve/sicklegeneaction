@@ -9,43 +9,38 @@
 
 
                 <div class="mt-30">
-                    <h5 class="text-black"> Our Aim</h5>
-                    <p class="text-black m-0 pb-0"><strong>Our aim is to provide facts and dispel misinformation so that:</strong></p>
+                    <h5 class="text-black fw-bold"> Our Aim</h5>
+                    <p class="text-black m-0 pb-0">Our aim is to fill screening gaps by reaching people who were missed at birth and connecting them to care:</p>
                     <div class="text-justify">
-                        <p class="text-black m-0"><strong>•	Sickle Cell Warriors and their families will receive the most well-informed health care available in Ghana.</strong></p>
-                        <p class="text-black m-0"><strong>•	Sickle Cell Warriors and their families will receive the social respect and support that they need and deserve.</strong></p>
-                        <p class="text-black m-0"><strong> •	People in the general public can make informed genetic decisions when they are planning to have children.</strong></p>
-                        <p class="text-black m-0"><strong>•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD</strong></p>
+                        <p class="text-black m-0">• identify babies, children, adolescents, and adults who were missed at birth.</p>
+                        <p class="text-black m-0">• organize catch-up screening events in schools, faith, and community settings.</p>
+                        <p class="text-black m-0">• refer positive screens for confirmatory testing and clinical enrollment.</p>
+                        <p class="text-black m-0">• enroll eligible people into NHIS to reduce cost barriers.</p>
+                        <p class="text-black m-0">• link families to nearby SCD clinics and follow-up support.</p>
                     </div>
 
                 </div>
 
 
                 <div class="mt-30">
-                    <h5 class="text-black">Our Goal</h5>
+                    <h5 class="text-black fw-bold">Our Goal</h5>
                     <div class="text-justify pt-2">
-                        <p class="text-black m-0"><strong>Our goal is to raise awareness of Sickle Cell Disease from its current 15% impact (in 2025) to 75% in 3 years.
-                            </strong></p>
-                        <p class="text-black m-0"><strong>   Through our community outreach efforts, we have made 25% progress towards our objective.</strong></p>
-
+                        <p class="text-black m-0">Our goal is to increase early identification and linkage to care in every district we serve.</p>
+                        <p class="text-black m-0">We will measure progress by the share of screened individuals who complete confirmatory testing and attend their first clinic visit.</p>
                     </div>
                 </div>
 
                 <div class="mt-30">
-                    <h5 class="text-black">Our Work</h5>
+                    <h5 class="text-black fw-bold">Our Work</h5>
                     <div class="text-justify pt-2">
-                        <p class="text-black m-0"><strong>We engage in ongoing media campaigns to promote Awareness and Education of Sickle Cell Disease across the country.
-                            </strong></p>
-                        <p class="text-black m-0"><strong>This includes annual field campaigns, and routine media publications, radio, TV and social media education campaigns.
-                            </strong></p>
-
+                        <p class="text-black m-0">We coordinate pop-up screening with public facilities and NGOs, provide on-site genetic counseling, register eligible families for NHIS, and ensure warm handoffs to SCD clinics for follow-up care.</p>
                     </div>
                 </div>
 
 
                 <div class="mt-30">
 
-                    <p class="text-black m-0 pb-0"><strong>We then enroll individuals, as needed, into the National Health Insurance Scheme (NHIS) program and connect them with the assigned healthcare center within their community for further care and treatment (and/or further in-depth screening?)</strong></p>
+                    <p class="text-black m-0 pb-0">We then enroll individuals, as needed, into the National Health Insurance Scheme (NHIS) and connect them with a nearby healthcare center for follow-up care, confirmatory testing, and treatment.</p>
 
 
                 </div>

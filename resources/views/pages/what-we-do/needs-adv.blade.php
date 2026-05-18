@@ -8,11 +8,11 @@
             <div class="container mt-30">
                 <h4 class="pt-10 pb-20 text-black">2. We identify needs and advancements.</h4>
 
-                <h5 class="text-black"> Our Aim</h5>
-                <p class="text-black m-0 pb-0"><strong>Our aim is to gather information that will:</strong></p>
+                <h5 class="text-black fw-bold"> Our Aim</h5>
+                <p class="text-black m-0 pb-0">Our aim is to gather information that will:</p>
                 <div class="text-justify">
-                    <p class="text-black m-0"><strong>•	Show us where the gaps are between where we want to be and where we actually are.</strong></p>
-                    <p class="text-black m-0"><strong> •	Show us where to place our priorities.</strong></p>
+                    <p class="text-black m-0">• show us where the gaps are between where we want to be and where we actually are.</p>
+                    <p class="text-black m-0">• show us where to place our priorities.</p>
                     <p class="text-black m-0"><strong>•	Show us where barriers exist.</strong></p>
                     <p class="text-black m-0"><strong> •	Show us what opportunities there may be for solving problems.</strong></p>
                     <p class="text-black m-0"><strong>•	Enable us to acknowledge the efforts of our partners</strong></p>

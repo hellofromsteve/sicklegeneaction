@@ -291,7 +291,7 @@
                                         </h2>
                                         <div id="collapse2016_screening" class="accordion-collapse collapse">
                                             <div class="accordion-body">
-                                                Thanks to Professor Ohene-Frempong’s unwavering efforts, and despite struggles with funding, by the end of 2016, the National newborn Screening Programme for Sickle Cell Disease was screening an approximate average of 25,000 babies at 39 sites. At that point, the only funding available for screening newborns was coming from external sources.
+                                                Thanks to Professor Ohene-Frempong’s unwavering efforts, and despite struggles with funding, by the end of 2016, the National Newborn Screening Programme for Sickle Cell Disease was screening an approximate average of 25,000 babies at 39 sites. At that point, the only funding available for screening newborns was coming from external sources.
                                             </div>
                                         </div>
                                     </div>

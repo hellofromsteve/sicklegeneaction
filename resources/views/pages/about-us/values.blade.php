@@ -13,11 +13,26 @@
                     <!-- Left Column: Values List -->
                     <div class="col-md-6 mb-4 mb-md-0 py-sm-5">
                         <ul class="list-unstyled">
-                            <li class="mb-3"><h5 class="mb-0">• Compassion</h5></li>
-                            <li class="mb-3"><h5 class="mb-0">• Commitment</h5></li>
-                            <li class="mb-3"><h5 class="mb-0">• Collaboration</h5></li>
-                            <li class="mb-3"><h5 class="mb-0">• Cooperation</h5></li>
-                            <li class="mb-3"><h5 class="mb-0">• Collegiality</h5></li>
+                            <li class="mb-4">
+                                <h5 class="mb-1">COMPASSION:</h5>
+                                <p class="mb-0">Having a deep awareness of the suffering of others and taking action to alleviate it.</p>
+                            </li>
+                            <li class="mb-4">
+                                <h5 class="mb-1">COMMITMENT:</h5>
+                                <p class="mb-0">Being dedicated to following through on a course of action over time, even when difficulties arise.</p>
+                            </li>
+                            <li class="mb-4">
+                                <h5 class="mb-1">COLLABORATION:</h5>
+                                <p class="mb-0">Working together with others, sharing knowledge, skills, and resources to achieve a common goal and a shared outcome.</p>
+                            </li>
+                            <li class="mb-4">
+                                <h5 class="mb-1">COOPERATION:</h5>
+                                <p class="mb-0">Working as a team, rather than acting individually or in competition with others, to reach a collective outcome.</p>
+                            </li>
+                            <li class="mb-4">
+                                <h5 class="mb-1">COLLEGIALITY:</h5>
+                                <p class="mb-0">Promoting professionalism, respect, inclusiveness, and positive relationships among stakeholders who share a common goal.</p>
+                            </li>
                         </ul>
                     </div>
 

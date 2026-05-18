@@ -49,6 +49,9 @@
                                                 <li><a href="{{ route('about-us.groundwork') }}">Our GroundWork</a></li>
                                                 <li><a href="{{ route('about-us.mission') }}">Our Mission</a></li>
                                                 <li><a href="{{ route('about-us.board') }}">Our Board</a></li>
+                                                <li><a href="{{ route('about-us.advisory') }}">Our Advisory Board</a></li>
+                                                <li><a href="{{ route('about-us.staff') }}">Our Staff</a></li>
+                                                <li><a href="{{ route('about-us.memberships') }}">Our Memberships</a></li>
                                                 <li><a href="{{ route('about-us.goals') }}">Our Goals</a></li>
                                                 <li><a href="{{ route('about-us.values') }}">Our Values</a></li>
                                             </ul>
@@ -59,9 +62,12 @@
                                             <ul>
                                                 <li><a href="{{ route('about-scd.what-is-scd') }}">What Is SCD</a></li>
                                                 <li><a href="{{ route('about-scd.causes-scd') }}">What Causes SCD</a></li>
+                                                <li><a href="{{ route('about-scd.challenges-scd') }}">The Challenges</a></li>
+                                                <li><a href="{{ route('about-scd.affected-scd') }}">Who Is Affected</a></li>
+                                                <li><a href="{{ route('about-scd.treated-and-managed') }}">Treated & Managed</a></li>
+                                                <li><a href="{{ route('about-scd.good-news') }}">Good News</a></li>
                                                 <li><a href="{{ route('about-scd.voices') }}">In Their Voices</a></li>
                                                 <li><a href="{{ route('about-scd.cured') }}">Can It Be Cured</a></li>
-                                                <li><a href="{{ route('about-scd.good-news') }}">The Good News</a></li>
                                             </ul>
                                         </li>
                                         <li class="{{ request()->routeIs('media.*') ? 'active' : '' }}"><a href="{{ route('media.blog') }}">Media & Blog</a>

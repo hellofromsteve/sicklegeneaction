@@ -12,14 +12,14 @@
                             <p class="text-black"><strong>We align with Ghana’s National Strategy for Sickle Cell Disease (2024) and support Ghana’s 6 Implementation Strategies designed to improve health outcomes of individuals with SCD.</strong></p>
                         </div>
 
-                        <h5 class="text-black">Specifically, this includes engaging in actions that help to:</h5>
+                        <h5 class="text-black fw-bold">Specifically, this includes engaging in actions that help to:</h5>
                         <div class="text-justify pt-2">
-                            <p class="text-black m-0"><strong>1. Ensure Universal Newborn Screening for SCD.</strong></p>
-                            <p class="text-black m-0"><strong>2. Develop Mechanisms for Catch-Up Screening.</strong></p>
-                            <p class="text-black m-0"><strong>3. Improve Facilities, Laboratory, and Diagnostic Capacities, Equipment, Infrastructure.</strong></p>
-                            <p class="text-black m-0"><strong>4. Build Capacity on SCD - Skilled Workforce, Pre-Service Training Institutions.</strong></p>
-                            <p class="text-black m-0"><strong>5. Improve Access to Medicines, Technologies, and Innovation.</strong></p>
-                            <p class="text-black m-0"><strong>6. Develop Outreach Services for SCD.</strong></p>
+                            <p class="text-black m-0">1. ensure universal newborn screening for SCD.</p>
+                            <p class="text-black m-0">2. develop mechanisms for catch-up screening.</p>
+                            <p class="text-black m-0">3. improve facilities, laboratory, and diagnostic capacities, equipment, and infrastructure.</p>
+                            <p class="text-black m-0">4. build capacity on SCD — skilled workforce and pre-service training institutions.</p>
+                            <p class="text-black m-0">5. improve access to medicines, technologies, and innovation.</p>
+                            <p class="text-black m-0">6. develop outreach services for SCD.</p>
                         </div>
                     </div>
 
@@ -33,13 +33,13 @@
             </div>
 
             <div class="container mt-30">
-                <h5 class="text-black"> Our Aim</h5>
-                <p class="text-black m-0 pb-0"><strong>Our aim is to stay engaged with policy makers so that we can:</strong></p>
+                <h5 class="text-black fw-bold"> Our Aim</h5>
+                <p class="text-black m-0 pb-0">Our aim is to stay engaged with policy makers so that we can:</p>
                 <div class="text-justify">
-                    <p class="text-black m-0"><strong>  •	Represent our Sickle Cell Community</strong></p>
-                    <p class="text-black m-0"><strong> •	Help to influence policy maker decisions</strong></p>
-                    <p class="text-black m-0"><strong>•	Encourage accountability</strong></p>
-                    <p class="text-black m-0"><strong>•	Work for sustainable, systemwide change</strong></p>
+                    <p class="text-black m-0">• represent our Sickle Cell Community.</p>
+                    <p class="text-black m-0">• help to influence policy maker decisions.</p>
+                    <p class="text-black m-0">• encourage accountability.</p>
+                    <p class="text-black m-0">• work for sustainable, systemwide change.</p>
 
                 </div>
 
@@ -47,10 +47,10 @@
 
             <div class="container mt-30">
 
-                <h5 class="text-black"> Our Goal</h5>
-                <p class="text-black m-0 pb-0"><strong>  Our goal is to:</strong></p>
+                <h5 class="text-black fw-bold"> Our Goal</h5>
+                <p class="text-black m-0 pb-0">Our goal is to:</p>
                 <div class="text-justify">
-                    <p class="text-black m-0"><strong>•	promote government legislation to implement reforms in healthcare centers,</strong></p>
+                    <p class="text-black m-0">• promote government legislation to implement reforms in healthcare centers.</p>
                     <p class="text-black m-0"><strong>•	promote education on SCD in institutions and community settings</strong></p>
                     <p class="text-black m-0"><strong> •	reduce the burden of Sickle Cell Disease annually by 5%.</strong></p>
 
@@ -107,7 +107,7 @@
 
                             <p class="text-black m-0">
                                 <strong>
-                                    • The Ministry of Health’s recent 2024 call to action on Sickle Cell Disease has opened up ongoing dialogues with stakeholders within the Sickle Cell Community.
+                                    • The Ministry of Health’s 2024 call to action on Sickle Cell Disease has opened up ongoing dialogues with stakeholders within the Sickle Cell Community.
                                 </strong>
                             </p>
 
@@ -128,8 +128,7 @@
                              alt="Government engagement for SCD advocacy"
                              class="img-fluid rounded shadow"
                              style="max-height:420px; object-fit:cover;">
-                        <p>25th April 2024
-                            MOH/GHS National Sickle Cell Strategy Stakeholder Engagement Meeting</p>
+                        <p class="text-muted small mt-2">25th April 2024 — MOH/GHS National Sickle Cell Strategy Stakeholder Engagement Meeting</p>
                     </div>
 
                 </div>
@@ -150,7 +149,7 @@
                     </div>
                     <div class="col-md-5">
                         <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
-                            <img src="{{ asset('img/gallery/image10.jpeg') }}" class="card-img-top" style="height: 250px; object-fit: cover;" alt="GF-SGA and Rotary Club partnership">
+                            <img src="{{ asset('img/about/image10.jpeg') }}" class="card-img-top" style="height: 250px; object-fit: cover; object-position: top;" alt="GF-SGA and Rotary Club partnership (reframed to include faces)">
                             <div class="card-body text-center" style="background-color: #D5EDFF;">
                                 <p class="card-text text-black small mb-0"><strong>GF-SGA and Rotary Club partnership - SCD Awareness Education and Screening at Presbyterian Basic School, Shiashie</strong></p>
                             </div>

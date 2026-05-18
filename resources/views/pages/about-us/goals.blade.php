@@ -20,7 +20,7 @@
                 <div class="row text-center">
                     @foreach($goals as $goal)
                         <div class="col-6 col-md-4 mb-5">
-                            <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100">
+                            <div class="ht-about-feature-item p-4 border rounded shadow-sm h-100 text-center" style="border: 3px solid #002d5b !important; transition: transform 0.3s ease;">
                                 <!-- Red dot -->
                                 <div style="width: 12px; height: 12px; background-color: #e3342f; border-radius: 50%; margin: 0 auto 15px;"></div>
                                 <h4 class="text-black mb-1">Goal #{{ $goal['id'] }}</h4>
@@ -29,7 +29,7 @@
                                 <h3 class="text-black">{{ $goal['title'] }}</h3>
 
 
-                                <a href="{{ route($goal['route']) }}" class="btn btn-sm btn-danger mt-3">Read More</a>
+                                <a href="{{ route($goal['route']) }}" class="default-btn">Learn More</a>
                             </div>
                         </div>
                     @endforeach

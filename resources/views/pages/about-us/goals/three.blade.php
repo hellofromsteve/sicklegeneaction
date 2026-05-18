@@ -38,7 +38,7 @@
                     <div class="row justify-content-center g-4">
                         <div class="col-12 col-sm-6 col-md-4">
                             <div class="h-100 shadow-sm text-center">
-                                <img src="{{ asset('') }}"
+                                <img src="{{ asset('img/goals/goal3.jpeg') }}"
                                      class="img-fluid mx-auto"
                                      style="max-height: 180px; object-fit: contain;"
                                      alt=" Photos of Current Partnerships">

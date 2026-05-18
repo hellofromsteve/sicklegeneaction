@@ -12,8 +12,8 @@
 
 
                 <div class="mt-30">
-                    <h5 class="text-black"> Our Aim</h5>
-                    <p class="text-black m-0 pb-0"><strong>Our aim is to provide facts and dispel misinformation so that:</strong></p>
+                    <h5 class="text-black fw-bold"> Our Aim</h5>
+                    <p class="text-black m-0 pb-0">Our aim is to provide facts and dispel misinformation so that:</p>
                     <div class="text-justify">
                         <p class="text-black m-0"><strong>•	Sickle Cell Warriors and their families will receive the most well-informed health care available in Ghana.</strong></p>
                         <p class="text-black m-0"><strong>       •	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve.</strong></p>
@@ -26,7 +26,7 @@
 
 
                 <div class="mt-30">
-                    <h5 class="text-black">Our Goal</h5>
+                    <h5 class="text-black fw-bold">Our Goal</h5>
                     <div class="text-justify pt-2">
                         <p class="text-black m-0"><strong>Our goal is to raise awareness of Sickle Cell Disease from its current 15% impact (in 2025) to 75% in 3 years.
                             </strong></p>
@@ -36,7 +36,7 @@
                 </div>
 
                 <div class="mt-30">
-                    <h5 class="text-black">Our Work</h5>
+                    <h5 class="text-black fw-bold">Our Work</h5>
                     <div class="text-justify pt-2">
                         <p class="text-black m-0"><strong>We engage in ongoing media campaigns to promote Awareness and Education of Sickle Cell Disease across the country.
                             </strong></p>

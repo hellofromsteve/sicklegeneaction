@@ -29,7 +29,7 @@
                 <h5 class="pt-15 px-4">Leadership</h5>
                 <div class="text-justify pt-10 px-4">
                     <p class="text-black">
-                        For 18 years, from 2004, when Prof. Ohene-Frempong registered the Sickle Cell Foundation of Ghana (SCFG) to his unexpected passing in 2022, the SCFG served as a “national focal point” for the development and implementation of life-altering programs:
+                        For 18 years, from 2004, when Prof. Ohene-Frempong registered the Sickle Cell Foundation of Ghana (SCFG), to his unexpected passing in 2022, the SCFG served as a “national focal point” for the development and implementation of life-altering programs:
                     </p>
                 </div>
 
@@ -132,8 +132,8 @@
                             <div class="col">
                                 <div class=" h-100 shadow-sm">
                                     <img src="{{ asset('img/about/groundworks/groundwork2-' . $i . '.png') }}"
-                                         class="card-img-top w-75 mx-auto d-block"
-                                         style="max-height: 180px; object-fit: contain;"
+                                         class="card-img-top mx-auto d-block {{ $i <= 2 ? 'w-100' : 'w-75' }}"
+                                         style="{{ $i <= 2 ? 'max-height: 260px; object-fit: contain;' : 'max-height: 180px; object-fit: contain;' }}"
                                          alt="SGAF Groundwork Image {{ $i }}">
                                     {{--                                    <div class="card-body text-center">--}}
                                     {{--                                        <p class="card-text">Caption {{ $i }}</p>--}}
@@ -150,8 +150,8 @@
                     </h5>
 
 
-                    <p class="text-center fw-bold mt-5">
-                        May, 2022: The Unexpected Passing of Professor Kwaku Ohene-Frempong, MD <br>
+                    <p class="text-center mt-5">
+                        <strong>May, 2022: The Unexpected Passing of Professor Kwaku Ohene-Frempong, MD</strong><br>
                         Prof. Ohene-Frempong, former national high hurdles champion athlete and a non-smoker, <br>
                         passed away after a 7-month battle with lung cancer. <br>
                         He left Ghana with an ever-expanding sickle cell infrastructure, <br>

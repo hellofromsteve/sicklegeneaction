@@ -35,11 +35,11 @@ return [
     ],
     [
         'id' => 3,
-        'name' => 'Dr. Vera Dannsa II',
+        'name' => 'Dr. Vera Asante',
         'position' => 'Board Member',
-        'photo' => '/board/v-dannsa.jpg',
-        'alt' => 'Dr. Vera Dannsa Image',
-        'bio' => 'Dr. Vera Dannsa Asante holds a Doctor of Pharmacy degree from Virginia Commonwealth University/Medical College of Virginia.
+        'photo' => '/board/v-asante.jpeg',
+        'alt' => 'Dr. Vera Asante Image',
+        'bio' => 'Dr. Vera Asante holds a Doctor of Pharmacy degree from Virginia Commonwealth University/Medical College of Virginia.
 
         She has over 20 years of experience in the pharmaceutical industry and is the owner/CEO of Wellcheck Wholesale and Compounding Pharmacy in Tema.
 

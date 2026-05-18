@@ -1,0 +1,13 @@
+/* Global dark-blue borders for photos across the site */
+/* Applies to images in main content areas and cards without affecting logos in the header */
+.help-area img,
+.gallery-img img,
+.card-img-top,
+.container img.photo,
+.img-fluid.photo {
+  border: 4px solid #002d5b;
+  border-radius: 8px;
+}
+
+/* Optional utility class for explicit use */
+.sgaf-photo { border: 4px solid #002d5b; border-radius: 8px; }

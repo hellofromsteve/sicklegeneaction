@@ -118,6 +118,13 @@ class AboutUsController extends Controller
     {
         $board = require database_path('datas/board-info.php');
 
+        // Sort board members alphabetically by the first character of the full name (including titles)
+        usort($board, function ($a, $b) {
+            $afirst = strtolower(mb_substr(trim($a['name'] ?? ''), 0, 1));
+            $bfirst = strtolower(mb_substr(trim($b['name'] ?? ''), 0, 1));
+            return $afirst <=> $bfirst ?: (strtolower($a['name']) <=> strtolower($b['name']));
+        });
+
         return view('pages.about-us.board', compact('board'));
     }
 

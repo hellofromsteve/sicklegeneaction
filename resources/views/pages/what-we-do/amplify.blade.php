@@ -9,12 +9,12 @@
 
 
                 <div class="mt-30">
-                    <h5 class="text-black"> Our Aim</h5>
-                    <p class="text-black m-0 pb-0"><strong>Our aim is to provide facts and dispel misinformation so that:</strong></p>
+                    <h5 class="text-black fw-bold"> Our Aim</h5>
+                    <p class="text-black m-0 pb-0">Our aim is to amplify the voices of Sickle Cell Warriors and families so that decision‑makers hear their lived experiences and act on them:</p>
                     <div class="text-justify">
-                        <p class="text-black m-0"><strong>•	Sickle Cell Warriors and their families will receive the most well-informed health care available in Ghana.</strong></p>
-                        <p class="text-black m-0"><strong>       •	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve.</strong></p>
-                        <p class="text-black m-0"><strong> •	People in the general public can make informed genetic decisions when they are planning to have children.</strong></p>
+                        <p class="text-black m-0">• help Warriors and caregivers tell their stories in the media and at community forums.<\/p>
+                        <p class="text-black m-0">• equip representatives to participate in policy, strategy, and clinical guideline meetings.<\/p>
+                        <p class="text-black m-0">• reduce stigma through human‑centered storytelling and public engagement.</p>
                         <p class="text-black m-0"><strong>•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD</strong></p>
                     </div>
 
@@ -22,30 +22,24 @@
 
 
                 <div class="mt-30">
-                    <h5 class="text-black">Our Goal</h5>
+                    <h5 class="text-black fw-bold">Our Goal</h5>
                     <div class="text-justify pt-2">
-                        <p class="text-black m-0"><strong>Our goal is to raise awareness of Sickle Cell Disease from its current 15% impact (in 2025) to 75% in 3 years.
-                            </strong></p>
-                        <p class="text-black m-0"><strong>   Through our community outreach efforts, we have made 25% progress towards our objective.</strong></p>
-
+                        <p class="text-black m-0">Our goal is to create platforms and support networks where Warriors and caregivers shape programs and policies.</p>
+                        <p class="text-black m-0">We will measure progress by participation rates, speaking opportunities, and documented policy or service changes influenced by Warrior input.</p>
                     </div>
                 </div>
 
                 <div class="mt-30">
-                    <h5 class="text-black">Our Work</h5>
+                    <h5 class="text-black fw-bold">Our Work</h5>
                     <div class="text-justify pt-2">
-                        <p class="text-black m-0"><strong>We engage in ongoing media campaigns to promote Awareness and Education of Sickle Cell Disease across the country.
-                            </strong></p>
-                        <p class="text-black m-0"><strong>This includes annual field campaigns, and routine media publications, radio, TV and social media education campaigns.
-                            </strong></p>
-
+                        <p class="text-black m-0">We run listening sessions, collect testimonies (with consent), provide media and advocacy training, and coordinate representation at stakeholder events and working groups.</p>
                     </div>
                 </div>
 
 
                 <div class="mt-30">
 
-                    <p class="text-black m-0 pb-0"><strong>We assist Sickle Cell Warriors and their Families tell their stories and have a voice at local and national decision making tables, so that: </strong></p>
+                    <p class="text-black m-0 pb-0">We assist Sickle Cell Warriors and their families to tell their stories and have a voice at local and national decision‑making tables, so that:</p>
                     <div class="text-justify">
                         <p class="text-black m-0"><strong>•	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve. </strong></p>
                         <p class="text-black m-0"><strong>•	People in the general public can make informed genetic decisions when they are planning to have children.</strong></p>
