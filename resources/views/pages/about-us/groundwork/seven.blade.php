@@ -40,8 +40,8 @@
                                     <div class="col">
                                         <div class="h-100 shadow-sm">
                                             <img src="{{ asset('img/about/groundworks/model' . $i . '.png') }}"
-                                                 class="card-img-top w-75 mx-auto d-block"
-                                                 style="max-height: 180px; object-fit: contain;"
+                                                 class="card-img-top w-100 mx-auto d-block"
+                                                 style=" width: 150px; object-fit: cover;"
                                                  alt="Compassion, Commitment, Collaboration">
                                         </div>
                                     </div>

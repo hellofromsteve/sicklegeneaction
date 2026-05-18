@@ -45,7 +45,7 @@
                             <img src="{{ asset('img/about/groundwork1.png') }}"
                                  alt="GF-SGA Launch Image 1"
                                  class="img-fluid rounded shadow-sm"
-                                 style="height: 250px; width: 70%; object-fit: cover;">
+                                 style="height: 250px; width: 100%; object-fit: cover;">
                         </div>
 
                         <!-- Image Column 2 -->
@@ -53,7 +53,7 @@
                             <img src="{{ asset('img/about/groundwork2.png') }}"
                                  alt="GF-SGA Launch Image 2"
                                  class="img-fluid rounded shadow-sm"
-                                 style="height: 250px; width: 70%; object-fit: cover;">
+                                 style="height: 250px; width: 100%; object-fit: cover;">
                         </div>
                     </div>
 

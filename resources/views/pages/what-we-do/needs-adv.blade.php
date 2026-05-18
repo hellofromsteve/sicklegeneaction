@@ -20,7 +20,7 @@
             </div>
 
             <div class="container mt-30">
-                <h5 class="text-black"> Our Aim</h5>
+                <h5 class="text-black"> Our Goal</h5>
                 <div class="text-justify">
                     <p class="text-black m-0"><strong>•	To establish ongoing communication with and support for our sickle cell partners in each of Ghana’s 16 regions. </strong></p>
                 </div>
