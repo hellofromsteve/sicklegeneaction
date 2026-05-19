@@ -54,7 +54,7 @@
 
 
                         <p class="text-center fw-bold mt-1 text-black">
-                            The 16 regions of  of Ghana<br>
+                            The 16 regions of Ghana<br>
                         </p>
 
                     </div>
