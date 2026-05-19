@@ -422,7 +422,7 @@
                     <div id="leadershipCollapse450" class="accordion-collapse collapse" data-bs-parent="#needsAccordion">
 
                         <div class="accordion-body px-3">
-
+                            <p>✓ The Alliance of Sickle Cell Organisations Ghana</p>
                         </div>
                     </div>
                 </div>
