@@ -81,14 +81,14 @@
                                 <img src="{{ asset('img/goals/goal4.jpeg') }}"
                                      class="img-fluid mx-auto"
                                      style="max-height: 180px; object-fit: contain;"
-                                     alt="The SPARCo Standards of Care">
+                                     alt="Dedicated health professionals at post">
                             </div>
                         </div>
                     </div>
 
 
                     <p class="text-center fw-bold mt-1 text-black">
-                        The SPARCo Standards of Care<br>
+                        Dedicated health professionals at post<br>
                     </p>
 
 

@@ -131,7 +131,7 @@ return [
 
         He co-founded the Joissam Group in 1996, operating in Ghana and Gabon, and helped establish several companies including Shedak Industries, Asdak MNK, Abokof AFK, and PAWS.
 
-        Mr. Appenteng has held leadership roles with the Ghana Stock Exchange, Intravenous Infusions Plc, CSIR, IFS Capital Management, SIC-LIFE, and the Association of Ghana Industries.
+        Mr. Appenteng has held leadership roles with the Ghana Stock Exchange, Intravenous Infusions PLC, CSIR, IFS Capital Management, SIC-LIFE, and the Association of Ghana Industries.
 
         He holds an MBA in Finance and a BSc in Chemical Engineering, is a corporate member of the Ghana Institution of Engineers, and a fellow of ALI West Africa.',
     ],

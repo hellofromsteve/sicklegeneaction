@@ -36,16 +36,26 @@
                 <div class="container my-2">
 
                     <div class="row justify-content-center g-4">
-                        <div class="col-12 col-sm-6 col-md-4">
+                        <!-- Left Image Column -->
+                        <div class="col-6 col-md-4">
                             <div class="h-100 shadow-sm text-center">
                                 <img src="{{ asset('img/goals/goal3.jpeg') }}"
                                      class="img-fluid mx-auto"
-                                     style="max-height: 180px; object-fit: contain;"
-                                     alt=" Photos of Current Partnerships">
+                                     style="max-height: 250px; object-fit: contain;"
+                                     alt="Photos of Current Partnerships">
+                            </div>
+                        </div>
+
+                        <!-- Right Image Column -->
+                        <div class="col-6 col-md-4">
+                            <div class="h-100 shadow-sm text-center">
+                                <img src="{{ asset('img/goals/partner2.jpeg') }}"
+                                     class="img-fluid mx-auto"
+                                     style="max-height: 220px; object-fit: cover;"
+                                     alt="Photos of Current Partnerships">
                             </div>
                         </div>
                     </div>
-
 
                     <p class="text-center fw-bold mt-1 text-black">
                         Photos of Current Partnerships

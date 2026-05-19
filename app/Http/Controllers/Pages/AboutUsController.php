@@ -18,7 +18,7 @@ class AboutUsController extends Controller
         $topics = [
             [
                 'id' => 1,
-                'title' => 'The Sickle Cell Foundation of Ghana – A Source of National and Global Leadership',
+                'title' => 'The Sickle Cell Foundation of Ghana(SCFG) – A Source of National and Global Leadership',
                 'route' => 'groundwork.one',
             ],
             [

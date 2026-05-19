@@ -9,8 +9,10 @@
                     <h1 class="display-5 fw-bold text-danger mb-4">Early Action Saves Lives</h1>
 
 
-                    <div class="mb-4 d-flex justify-content-center">
+                    <div class="mb-4 d-flex align-items-center justify-content-center gap-3">
+{{--                        <img src="{{ asset('img/home/heart.svg') }}" alt="Heart" style="width: 56px; height: 56px;">--}}
                         <img src="{{ asset('img/banner/home-kid.png') }}" alt="SCD Child" class="img-fluid rounded shadow" style="max-width: 400px;">
+{{--                        <img src="{{ asset('img/home/heart.svg') }}" alt="Heart" style="width: 56px; height: 56px;">--}}
                     </div>
 
 

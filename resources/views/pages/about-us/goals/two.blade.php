@@ -34,21 +34,18 @@
                     <div class="row justify-content-center g-4">
                         <div class="col-12 col-sm-6 col-md-4">
                             <div class="h-100 shadow-sm text-center">
-                                <img src="{{ asset('img/goals/goal2.jpeg') }}"
+                                <img src="{{ asset('img/goals/goal22.jpeg') }}"
                                      class="img-fluid mx-auto"
                                      style="max-height: 180px; object-fit: contain;"
-                                     alt=" A Ghanaian child being screened for SCD using POCT">
+                                     alt="A basic school student being screened for SCD using POCT">
                             </div>
                         </div>
                     </div>
 
 
-                    <p class="text-center fw-bold mt-1 text-black">
-                        A Ghanaian child being screened for SCD using POCT
+                    <p class="text-center fw-bold mt-1 text-black">A basic school student being screened for SCD using POCT
                         <br>
                     </p>
-
-
                 </div>
             </div>
         </div>

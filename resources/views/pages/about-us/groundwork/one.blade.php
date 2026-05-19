@@ -6,7 +6,7 @@
         <div class="pb-50">
             <div class="container">
 
-                <h4 class="pt-10 ">1. The Sickle Cell Foundation of Ghana – A Source of National and Global Leadership</h4>
+                <h4 class="pt-10 ">1. The Sickle Cell Foundation of Ghana(SCFG) – A Source of National and Global Leadership</h4>
                 <h5 class="pt-30 px-4">Ghana’s Groundwork for National Leadership in Sickle Cell Disease Advocacy and Programming </h5>
 
 
@@ -29,7 +29,7 @@
                 <h5 class="pt-15 px-4">Leadership</h5>
                 <div class="text-justify pt-10 px-4">
                     <p class="text-black">
-                        For 18 years, from 2004, when Prof. Ohene-Frempong registered the Sickle Cell Foundation of Ghana (SCFG), to his unexpected passing in 2022, the SCFG served as a “national focal point” for the development and implementation of life-altering programs:
+                        For 18 years, from 2004, when Prof. Ohene-Frempong registered the Sickle Cell Foundation of Ghana, (SCFG), to his unexpected passing in 2022, the SCFG served as a “national focal point” for the development and implementation of life-altering programs:
                     </p>
                 </div>
 

@@ -36,10 +36,10 @@
                     <div class="container my-2">
 
                         <div class="row row-cols-1 row-cols-sm-2 g-4">
-                            @for ($i = 2; $i <= 3; $i++)
+                            @for ($i = 1; $i <= 2; $i++)
                                 <div class="col">
                                     <div class="h-100 shadow-sm">
-                                        <img src="{{ asset('img/goals/goal6.jpeg') }}"
+                                        <img src="{{ asset("img/goals/goal6-" . $i . ".jpeg") }}"
                                              class="card-img-top w-75 mx-auto d-block"
                                              style="max-height: 180px; object-fit: contain;"
                                              alt="Compassion, Commitment, Collaboration">
