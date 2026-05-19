@@ -13,16 +13,16 @@
                 <div class="text-justify">
                     <p class="text-black m-0">• show us where the gaps are between where we want to be and where we actually are.</p>
                     <p class="text-black m-0">• show us where to place our priorities.</p>
-                    <p class="text-black m-0"><strong>•	Show us where barriers exist.</strong></p>
-                    <p class="text-black m-0"><strong> •	Show us what opportunities there may be for solving problems.</strong></p>
-                    <p class="text-black m-0"><strong>•	Enable us to acknowledge the efforts of our partners</strong></p>
+                    <p class="text-black m-0">•	Show us where barriers exist.</p>
+                    <p class="text-black m-0"> •	Show us what opportunities there may be for solving problems.</p>
+                    <p class="text-black m-0">•	Enable us to acknowledge the efforts of our partners.</p>
                 </div>
             </div>
 
             <div class="container mt-30">
                 <h5 class="text-black"> Our Goal</h5>
                 <div class="text-justify">
-                    <p class="text-black m-0"><strong>•	To establish ongoing communication with and support for our sickle cell partners in each of Ghana’s 16 regions. </strong></p>
+                    <p class="text-black m-0">•	To establish ongoing communication with and support for our sickle cell partners in each of Ghana’s 16 regions.</p>
                 </div>
 
             </div>
@@ -30,7 +30,9 @@
             <div class="container mt-30">
                 <h5 class="text-black"> Our Work</h5>
                 <div class="text-justify">
-                    <p class="text-black m-0"><strong>• Currently, we have visited 10 out of 16 regions in Ghana to raise awareness and educate the community, and to learn about what they need. Through these efforts, we have reached approximately 2 million people in communities across the country with our advocacy and needs assessment efforts. </strong></p>
+                    <p class="text-black m-0">• Currently, we have visited 10 out of 16 regions in Ghana to raise awareness and educate the community, and to
+                        learn about what they need. Through these efforts, we have reached approximately 2 million people in communities across the country with
+                        our advocacy and needs assessment efforts.</p>
                 </div>
 
             </div>
@@ -45,14 +47,14 @@
                                     <img src="{{ asset('img/about/ghana-map.jpg') }}"
                                          class="img-fluid mx-auto"
                                          style="max-height: 280px; object-fit: contain;"
-                                         alt="A Map of Ghana">
+                                         alt="The 16 regions of Ghana">
                                 </div>
                             </div>
                         </div>
 
 
                         <p class="text-center fw-bold mt-1 text-black">
-                            A Map of Ghana<br>
+                            The 16 regions of  of Ghana<br>
                         </p>
 
                     </div>

@@ -51,8 +51,8 @@
                 <p class="text-black m-0 pb-0">Our goal is to:</p>
                 <div class="text-justify">
                     <p class="text-black m-0">• promote government legislation to implement reforms in healthcare centers.</p>
-                    <p class="text-black m-0"><strong>•	promote education on SCD in institutions and community settings</strong></p>
-                    <p class="text-black m-0"><strong> •	reduce the burden of Sickle Cell Disease annually by 5%.</strong></p>
+                    <p class="text-black m-0">•	promote education on SCD in institutions and community settings.</p>
+                    <p class="text-black m-0"> •	reduce the burden of Sickle Cell Disease annually by 5%.</p>
 
                 </div>
 
@@ -64,21 +64,18 @@
                 <h5 class="text-black">Our Work</h5>
 
                 <!-- FIRST SECTION (FULL WIDTH) -->
-                <p class="text-danger m-0 pb-0 fs-5">
-                    <strong>We work to make hydroxyurea treatment more accessible.</strong>
+                <p class="text-danger m-0 pb-0 fs-5">We work to make hydroxyurea treatment more accessible.
                 </p>
 
                 <div class="text-justify">
-                    <p class="text-black m-0">
-                        <strong>• Our cherished accomplishment is for our, now, Executive Director to have been part of the delegation led by the Sickle Cell Foundation of Ghana that called on Former Vice President Dr. Mahamudu Bawumia to place a medication (Hydroxyurea) for treatment of SCD on the national health insurance.</strong>
+                    <p class="text-black m-0">• Our cherished accomplishment is for our, now, Executive Director to have been part of the delegation led by the Sickle Cell Foundation of Ghana that called on Former Vice President
+                        Dr. Mahamudu Bawumia to place a medication (Hydroxyurea) for treatment of SCD on the national health insurance.
                     </p>
 
-                    <p class="text-black m-0">
-                        <strong>• Hydroxyurea was subsequently placed on the essential drug list under NHIS in 2022.</strong>
+                    <p class="text-black m-0">• Hydroxyurea was subsequently placed on the essential drug list under NHIS in 2022.
                     </p>
 
-                    <p class="text-black m-0">
-                        <strong>• We continue to engage government and our legislators on widening the scope of NHIS coverage for persons with SCD, due its heavy financial burden on persons with SCD and their caregivers.</strong>
+                    <p class="text-black m-0">• We continue to engage government and our legislators on widening the scope of NHIS coverage for persons with SCD, due its heavy financial burden on persons with SCD and their caregivers.
                     </p>
                 </div>
 
@@ -100,21 +97,21 @@
                         </p>
 
                         <div class="text-justify">
-                            <p class="text-black m-0"><strong>• The Ministry of Health</strong></p>
-                            <p class="text-black m-0"><strong>• The Ministry of Education</strong></p>
-                            <p class="text-black m-0"><strong>• The Ministry of Gender, Children, and Social Protection</strong></p>
-                            <p class="text-black m-0"><strong>• The Ghana Health Service</strong></p>
+                            <p class="text-black m-0">• The Ministry of Health.</p>
+                            <p class="text-black m-0">• The Ministry of Education.</p>
+                            <p class="text-black m-0">• The Ministry of Gender, Children, and Social Protection.</p>
+                            <p class="text-black m-0">• The Ghana Health Service.</p>
 
                             <p class="text-black m-0">
-                                <strong>
+
                                     • The Ministry of Health’s 2024 call to action on Sickle Cell Disease has opened up ongoing dialogues with stakeholders within the Sickle Cell Community.
-                                </strong>
+
                             </p>
 
                             <p class="text-black m-0">
-                                <strong>
+
                                     Through these ongoing dialogues, we are looking to sharpen legislation around the National Sickle Cell Agenda. We do so to further advance our cause for making improvements in the quality of care through the implementation of best practices.
-                                </strong>
+
                             </p>
                         </div>
 

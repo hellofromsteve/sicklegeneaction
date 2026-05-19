@@ -10,12 +10,12 @@
         <div class="pb-50">
             <div class="container">
 
-                <h5 class="pt-20">•	Participating Stakeholder for the Ghana National Strategy for Sickle Cell Disease</h5>
-                <h5 class="pt-20">•	World Sickle Cell Coalition </h5>
-                <h5 class="pt-20">•	National Executive Member of Sickle Cell Association of Ghana</h5>
-                <h5 class="pt-20">•	Founding member and Current Executive Member for the Sickle Cell Association  (now Sickle Cell Support Group of Group) at Greater Accra Regional Hospital-Ridge Hospital</h5>
-                <h5 class="pt-20">•	Governing Board Member for National Persons with Disability for Ministry of Gender Children and Social Protection </h5>
-                <h5 class="pt-20">•	Founding Member for Sickle Cell Federation of Ghana (formerly Sickle Cell Coalition of Ghana) </h5>
+                <h5 class="pt-20">•	Participating Stakeholder for the Ghana National Strategy for Sickle Cell Disease.</h5>
+                <h5 class="pt-20">•	World Sickle Cell Coalition.</h5>
+                <h5 class="pt-20">•	National Executive Member of Sickle Cell Association of Ghana.</h5>
+                <h5 class="pt-20">•	Founding Member and Current Executive Member for the Sickle Cell Association  (now Sickle Cell Support Group) at Greater Accra Regional Hospital-Ridge Hospital.</h5>
+                <h5 class="pt-20">•	Governing Board Member for National Persons with Disability for Ministry of Gender, Children and Social Protection.</h5>
+                <h5 class="pt-20">•	Founding Member for Alliance of Sickle Cell Organisations Ghana (formerly Sickle Cell Coalition of Ghana).</h5>
 
             </div>
         </div>

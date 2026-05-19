@@ -1,6 +1,6 @@
 <x-layout title="Our Values">
 
-    <!-- About Us Start -->
+    <!-- Our Values Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">
         <div class="container">
             <div class="section-title text-center ">
@@ -8,8 +8,9 @@
             </div>
         </div>
         <div class="pb-50">
-            <div class="container my-5 ">
+            <div class="container my-5">
                 <div class="row align-items-center">
+
                     <!-- Left Column: Values List -->
                     <div class="col-md-6 mb-4 mb-md-0 py-sm-5">
                         <ul class="list-unstyled">
@@ -36,20 +37,37 @@
                         </ul>
                     </div>
 
-                    <!-- Right Column: Image -->
-                    <div class="col-md-6 text-center">
-                        <img src="{{ asset('img/about/SGAF-ISCC-focus.jpeg') }}"
-                            width="300" alt="ISCC Focus group discussion in  May 2024"
-                             class="rounded shadow-sm">
-                        <p class="mt-2">ISCC Focus group discussion in  May 2024</p>
+                    <!-- Right Column: Two Images Stacked Top to Bottom -->
+                    <div class="col-md-6">
+                        <div class="row justify-content-center">
+
+                            <!-- Top Image Column -->
+                            <div class="col-12 text-center mb-4">
+                                <img src="{{ asset('img/about/SGAF-ISCC-focus.jpeg') }}"
+                                     class="img-fluid rounded shadow-sm"
+                                     style="max-height: 250px; object-fit: contain;"
+                                     alt="GF-SCA participation in ISCC Focus Group discussion in May 2024">
+                                <p class="mt-2 small">GF-SCA participation in ISCC Focus Group <br> discussion in May 2024</p>
+                            </div>
+
+                            <!-- Bottom Image Column -->
+                            <div class="col-12 text-center">
+                                <img src="{{ asset('img/about/value2.jpeg') }}"
+                                     class="img-fluid rounded shadow-sm"
+                                     style="max-height: 250px; object-fit: contain;"
+                                     alt="GF-SGA and ISCC Supporting GNS Foundation Awareness Event in June 2024">
+                                <p class="mt-2 small">GF-SGA and ISCC
+                                    Supporting GNS Foundation Awareness <br>
+                                    Event in June 2024</p>
+                            </div>
+
+                        </div>
                     </div>
+
                 </div>
             </div>
         </div>
-
     </div>
-    <!-- Our Mission End -->
-
-
+    <!-- Our Values End -->
 
 </x-layout>
