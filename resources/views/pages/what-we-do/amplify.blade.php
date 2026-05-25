@@ -41,9 +41,9 @@
 
                     <p class="text-black m-0 pb-0">We assist Sickle Cell Warriors and their families to tell their stories and have a voice at local and national decision‑making tables, so that:</p>
                     <div class="text-justify">
-                        <p class="text-black m-0"><strong>•	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve. </strong></p>
-                        <p class="text-black m-0"><strong>•	People in the general public can make informed genetic decisions when they are planning to have children.</strong></p>
-                        <p class="text-black m-0"><strong>•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD</strong></p>
+                        <p class="m-0"><strong>•	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve. </strong></p>
+                        <p class="m-0"><strong>•	People in the general public can make informed genetic decisions when they are planning to have children.</strong></p>
+                        <p class="m-0"><strong>•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD</strong></p>
 
                     </div>
 
@@ -83,16 +83,15 @@
                     </h2>
                     <div id="amplifyCollapse2" class="accordion-collapse collapse" data-bs-parent="#needsAccordion">
                         <div class="accordion-body px-3">
-                            <p><strong>To establish the Sickle Cell Disease Young Adult and Adolescent Support Group (SAYAS) at Korle Bu Teaching Hospital in 2025. This will be the first national support group that caters to our adolescents and young adults with Sickle Cell Disease in Ghana.
-                                </strong></p>
-                            <p><strong>The purpose of this timely intervention is to provide adolescents and young adults Sickle Cell Warriors with: </strong></p>
+                            <p>To establish the Sickle Cell Disease Young Adult and Adolescent Support Group (SAYAS) at Korle Bu Teaching Hospital in 2025. This will be the first national support group that caters to our adolescents and young adults with Sickle Cell Disease in Ghana.
+                                </p>
+                            <p>The purpose of this timely intervention is to provide adolescents and young adults Sickle Cell Warriors with:</p>
                             <p>✓ Health Education</p>
                             <p>✓ Reproductive Health-care Options</p>
                             <p>✓ Heath Screenings</p>
                             <p>✓ Psychosocial Support</p>
                             <p>✓ Mentorship</p>
-                            <p>✓ To accomplish our goal
-                                •	With the support and partnership of donors, it is our hope to raise 75,000.00 cedis towards the launch of SAYAS in 2025
+                            <p>To accomplish our goal, and with the support and partnership of donors, we hope to raise GHS 75,000.00 toward the launch of SAYAS.
                             </p>
 
                         </div>
