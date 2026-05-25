@@ -110,7 +110,7 @@
                             <p><strong>Through a series of outreach visits to various homes within impoverished communities:
                                 </strong></p>
                             <p>✓ We visited the homes of children who had been identified as having the Sickle Cell Disease, but who were not enrolled into treatment.</p>
-                            <p>✓ We supported their respective families in getting treatment for their children through their community healthcare centers</p>
+                            <p>✓ We supported their respective families in getting treatment for their children through their community healthcare centers.</p>
 
                         </div>
                     </div>
