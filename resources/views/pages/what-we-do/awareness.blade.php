@@ -15,10 +15,10 @@
                     <h5 class="text-black fw-bold"> Our Aim</h5>
                     <p class="text-black m-0 pb-0">Our aim is to provide facts and dispel misinformation so that:</p>
                     <div class="text-justify">
-                        <p class="m-0"><strong>•	Sickle Cell Warriors and their families will receive the most well-informed health care available in Ghana.</strong></p>
-                        <p class="m-0"><strong>       •	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve.</strong></p>
-                        <p class="m-0"><strong> •	People in the general public can make informed genetic decisions when they are planning to have children.</strong></p>
-                        <p class="m-0"><strong>•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD</strong></p>
+                        <p class="m-0">•Sickle Cell Warriors and their families will receive the most well-informed health care available in Ghana.</p>
+                        <p class="m-0">•	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve.</p>
+                        <p class="m-0">•	People in the general public can make informed genetic decisions when they are planning to have children.</p>
+                        <p class="m-0">•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD.</p>
 
                     </div>
 
@@ -28,9 +28,9 @@
                 <div class="mt-30">
                     <h5 class="text-black fw-bold">Our Goal</h5>
                     <div class="text-justify pt-2">
-                        <p class=" m-0"><strong>Our goal is to raise awareness of Sickle Cell Disease from its current 15% impact (in 2025) to 75% in 3 years.
-                            </strong></p>
-                        <p class=" m-0"><strong>   Through our community outreach efforts, we have made 25% progress towards our objective.</strong></p>
+                        <p class=" m-0">Our goal is to raise awareness of Sickle Cell Disease from its current 15% impact (in 2025) to 75% in 3 years.
+                           </p>
+                        <p class=" m-0"> Through our community outreach efforts, we have made 25% progress towards our objective.</p>
 
                     </div>
                 </div>
@@ -38,10 +38,10 @@
                 <div class="mt-30">
                     <h5 class="text-black fw-bold">Our Work</h5>
                     <div class="text-justify pt-2">
-                        <p class=" m-0"><strong>We engage in ongoing media campaigns to promote Awareness and Education of Sickle Cell Disease across the country.
-                            </strong></p>
-                        <p class=" m-0"><strong>This includes annual field campaigns, and routine media publications, radio, TV and social media education campaigns.
-                            </strong></p>
+                        <p class=" m-0">We engage in ongoing media campaigns to promote Awareness and Education of Sickle Cell Disease across the country.
+                            </p>
+                        <p class=" m-0">This includes annual field campaigns, and routine media publications, radio, TV and social media education campaigns.
+                            </p>
 
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                         <div class="accordion-body px-3">
                             <p><strong>Through a series of outreach visits to various homes within impoverished communities:
                                 </strong></p>
-                            <p>✓ We visited the homes of children who had been identified as having the Sickle Cell Disease (do you mean sickle cell disease?), but who were not enrolled into treatment: </p>
+                            <p>✓ We visited the homes of children who had been identified as having the Sickle Cell Disease, but who were not enrolled into treatment.</p>
                             <p>✓ We supported their respective families in getting treatment for their children through their community healthcare centers</p>
 
                         </div>
