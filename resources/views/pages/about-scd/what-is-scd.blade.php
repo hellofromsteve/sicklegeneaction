@@ -56,7 +56,7 @@
                             <figure class="text-center">
                                 <img src="{{ asset('img/scd/what-is-scd3.jpg') }}"
                                      class="img-fluid rounded mb-2"
-                                     style="width: 90%; height: 250px; object-fit: cover;"
+                                     style="width: 100%; height: 250px; "
                                      alt="A Sickle Red Blood Cell">
                                 <figcaption class="text-muted">A Sickle Red Blood Cell</figcaption>
                             </figure>
