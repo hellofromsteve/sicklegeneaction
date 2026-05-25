@@ -7,7 +7,7 @@
 
                 <h4 class="pt-10 text-black ">5. We raise awareness. </h4>
                 <div class="text-justify " >
-                    <p class="text-black"><strong>We raise and attempt to maintain public awareness and understanding about sickle cell disease.</strong></p>
+                    <p class=""><strong>We raise and attempt to maintain public awareness and understanding about sickle cell disease.</strong></p>
                 </div>
 
 
@@ -15,10 +15,10 @@
                     <h5 class="text-black fw-bold"> Our Aim</h5>
                     <p class="text-black m-0 pb-0">Our aim is to provide facts and dispel misinformation so that:</p>
                     <div class="text-justify">
-                        <p class="text-black m-0"><strong>•	Sickle Cell Warriors and their families will receive the most well-informed health care available in Ghana.</strong></p>
-                        <p class="text-black m-0"><strong>       •	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve.</strong></p>
-                        <p class="text-black m-0"><strong> •	People in the general public can make informed genetic decisions when they are planning to have children.</strong></p>
-                        <p class="text-black m-0"><strong>•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD</strong></p>
+                        <p class="m-0"><strong>•	Sickle Cell Warriors and their families will receive the most well-informed health care available in Ghana.</strong></p>
+                        <p class="m-0"><strong>       •	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve.</strong></p>
+                        <p class="m-0"><strong> •	People in the general public can make informed genetic decisions when they are planning to have children.</strong></p>
+                        <p class="m-0"><strong>•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD</strong></p>
 
                     </div>
 
@@ -28,9 +28,9 @@
                 <div class="mt-30">
                     <h5 class="text-black fw-bold">Our Goal</h5>
                     <div class="text-justify pt-2">
-                        <p class="text-black m-0"><strong>Our goal is to raise awareness of Sickle Cell Disease from its current 15% impact (in 2025) to 75% in 3 years.
+                        <p class=" m-0"><strong>Our goal is to raise awareness of Sickle Cell Disease from its current 15% impact (in 2025) to 75% in 3 years.
                             </strong></p>
-                        <p class="text-black m-0"><strong>   Through our community outreach efforts, we have made 25% progress towards our objective.</strong></p>
+                        <p class=" m-0"><strong>   Through our community outreach efforts, we have made 25% progress towards our objective.</strong></p>
 
                     </div>
                 </div>
@@ -38,9 +38,9 @@
                 <div class="mt-30">
                     <h5 class="text-black fw-bold">Our Work</h5>
                     <div class="text-justify pt-2">
-                        <p class="text-black m-0"><strong>We engage in ongoing media campaigns to promote Awareness and Education of Sickle Cell Disease across the country.
+                        <p class=" m-0"><strong>We engage in ongoing media campaigns to promote Awareness and Education of Sickle Cell Disease across the country.
                             </strong></p>
-                        <p class="text-black m-0"><strong>This includes annual field campaigns, and routine media publications, radio, TV and social media education campaigns.
+                        <p class=" m-0"><strong>This includes annual field campaigns, and routine media publications, radio, TV and social media education campaigns.
                             </strong></p>
 
                     </div>
