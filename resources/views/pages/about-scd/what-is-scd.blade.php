@@ -34,7 +34,7 @@
                     <figure class="text-center">
                         <img src="{{ asset('img/scd/what-is-scd1.png') }}"
                              class="img-fluid rounded mb-2"
-                             style="width: 100%; height: 250px; object-fit: cover;"
+                             style="width: 100%; height: 290px;"
                              alt="A Farm Tool Called a Sickle">
                         <figcaption class="text-muted">A Farm Tool Called a Sickle</figcaption>
                     </figure>
@@ -47,7 +47,7 @@
                             <figure class="text-center">
                                 <img src="{{ asset('img/scd/what-is-scd2.jpg') }}"
                                      class="img-fluid rounded mb-2"
-                                     style="width: 100%; height: 250px; object-fit: cover;"
+                                     style="width: 100%; height: 290px; "
                                      alt="A Normal Red Blood Cell">
                                 <figcaption class="text-muted">A Normal Red Blood Cell</figcaption>
                             </figure>
@@ -56,7 +56,7 @@
                             <figure class="text-center">
                                 <img src="{{ asset('img/scd/what-is-scd3.jpg') }}"
                                      class="img-fluid rounded mb-2"
-                                     style="width: 100%; height: 250px; "
+                                     style="width: 100%; height: 290px; "
                                      alt="A Sickle Red Blood Cell">
                                 <figcaption class="text-muted">A Sickle Red Blood Cell</figcaption>
                             </figure>
