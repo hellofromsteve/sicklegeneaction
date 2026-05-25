@@ -91,7 +91,7 @@
                             <p>✓ Heath Screenings</p>
                             <p>✓ Psychosocial Support</p>
                             <p>✓ Mentorship</p>
-                            <p>To accomplish our goal, and with the support and partnership of donors, we hope to raise GHS 75,000.00 toward the launch of SAYAS.
+                            <p>With the support and partnership of donors, it is our hope to raise GHS 75,000.00 toward the launch of SAYAS.
                             </p>
 
                         </div>
