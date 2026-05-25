@@ -398,7 +398,7 @@
                                 </td>
                                 <td class="p-3">
                                     <p class="fw-semibold mb-2">Their Baby</p>
-                                    <img  style="width: 60%; height: 100px; "
+                                    <img  style="width: 70px; height: 130px"
                                           src="{{ asset('img/scd/baby.png') }}" alt="Baby" class="img-fluid rounded">
                                 </td>
                             </tr>

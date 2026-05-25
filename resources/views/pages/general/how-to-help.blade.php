@@ -142,11 +142,11 @@
                             <h5 class="text-muted">GHC 10,000 - 25,000</h5>
                             <hr>
                             <h6>Recognition Benefits:</h6>
-                            <ul class="list-unstyled">
-                                <li><i class="fas fa-check text-success me-2"></i>Online presence on our platforms</li>
-                                <li><i class="fas fa-check text-success me-2"></i>Social media recognition</li>
-                                <li><i class="fas fa-check text-success me-2"></i>Media interview mentions</li>
-                                <li><i class="fas fa-check text-success me-2"></i>Publication acknowledgments</li>
+                            <ul class="text-start">
+                                <li><i class="fas fa-check text-success"></i> Online presence on our platforms</li>
+                                <li><i class="fas fa-check text-success"></i> Social media recognition</li>
+                                <li><i class="fas fa-check text-success"></i> Media interview mentions</li>
+                                <li><i class="fas fa-check text-success"></i> Publication acknowledgments</li>
                             </ul>
                             <a href="{{  route('contact-us') }}" class="btn btn-outline-secondary mt-3">Become Silver Partner</a>
                         </div>
@@ -164,7 +164,7 @@
                             <h5 class="text-muted">GHC 25,000 - 50,000</h5>
                             <hr>
                             <h6>All Silver Benefits Plus:</h6>
-                            <ul class="list-unstyled">
+                            <ul class="text-start">
                                 <li><i class="fas fa-check text-success me-2"></i>Enhanced online visibility</li>
                                 <li><i class="fas fa-check text-success me-2"></i>Priority media coverage</li>
                                 <li><i class="fas fa-check text-success me-2"></i>Featured in publications</li>
@@ -183,7 +183,7 @@
                             <h5 class="text-muted">GHC 50,000+</h5>
                             <hr>
                             <h6>Premium Partnership:</h6>
-                            <ul class="list-unstyled">
+                            <ul class="text-start">
                                 <li><i class="fas fa-check text-success me-2"></i>All Gold benefits</li>
                                 <li><i class="fas fa-check text-success me-2"></i>Optimum visibility in field exercises
                                 </li>
@@ -212,7 +212,7 @@
                         <a href="{{ route('online-donate') }}" target="_blank" class="btn btn-light btn-lg me-3 mb-2">
                             <i class="fas fa-credit-card me-2"></i>Donate Online
                         </a>
-                        <a href="#" class="btn btn-outline-light btn-lg mb-2">
+                        <a href="{{ route('contact-us') }}" class="btn btn-outline-light btn-lg mb-2">
                             <i class="fas fa-envelope me-2"></i>Contact Us
                         </a>
                     </div>

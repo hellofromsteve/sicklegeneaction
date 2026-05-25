@@ -8,11 +8,12 @@
                     <h1 class="text-danger mb-2">Contact Us</h1>
                     <h1 class="fw-bold mb-3 text-black">Empower. Unite.</h1>
                     <p class="fs-5 text-secondary mb-4 text-black">
-                        Because sickle cell disease is purely genetic, we can’t “fight” it the way we do many other serious conditions.
-                        We’d also like to do much more than raise awareness — we want people to have access to evidence‑based treatment so they can live full and productive lives.
-                        One possibility: Reach out to ask questions, and join us in our work to make evidence‑based care available to those living in Ghana with sickle cell disease.
+                        Because Sickle Cell Disease is purely genetic, we really can’t <span class="text-decoration-underline">fight it</span> like we can do with many other serious conditions.
+                        <br><br> We’d also like to do much more than <span class="text-decoration-underline">raise awareness.</span>
+                        <br> <br>We want people to have access to evidence‑based treatment that will allow them to live full and productive lives.
+                        <br> <br>One possibility: Reach out to ask questions, and join us in our work to make evidence‑based care available to those living in Ghana with Sickle Cell Disease.
 
-                        Reach out for support or inquiries, and join us in raising awareness to <br> fight sickle cell disease.
+                        <br>Reach out for support or inquiries, and join us in raising awareness to  fight sickle cell disease.
                     </p>
                 </div>
             </div>
@@ -70,15 +71,30 @@
                     <h3 class="sub-title text-black"> Be Part of the Mission</h3>
                     <p class="text-black fs-6">Help us build on 30+ years of work to improve the lives of Sickle Cell Warriors in Ghana. Together, we can scale life-saving strategies and reduce pain and disability.</p>
                     <p class="text-black fs-6"> Reach out — let’s make an impact.</p>
-                    <span class="ht-c-info fs-6" class="text-black"><strong><span>Address:</span></strong> 44 Jungle Avenue, East Legon - Ghana</span>
-                    <span class="ht-c-info fs-6"><strong><span>Email:</span></strong> <a href="mailto:info@sicklegeneactionghana.com" class="text-primary">info@sicklegeneactionghana.com</a></span>
-                    <span class="ht-c-info fs-6"><strong><span>Phone:</span></strong> <a href="tel:+233534701222" class="text-primary">+233534701222</a></span>
-                    <div class="c-links">
-                        <a href="javascript:void(0)"><i class="fa fa-facebook"></i></a>
-                        <a href="javascript:void(0)"><i class="fa fa-twitter"></i></a>
-                        <a href="javascript:void(0)"><i class="fa fa-instagram"></i></a>
+                    <span class="ht-c-info fs-6">
+                    <strong><span class="text-black">Address:</span></strong>
+                    <span class="text-black">44 Jungle Avenue, East Legon - Ghana</span>
+                        </span>
 
-                    </div>
+                                            <span class="ht-c-info fs-6">
+                            <strong><span class="text-black">Email:</span></strong>
+                            <a href="mailto:info@sicklegeneactionghana.com" class="text-black">
+                                info@sicklegeneactionghana.com
+                            </a>
+                        </span>
+
+                                            <span class="ht-c-info fs-6">
+                            <strong><span class="text-black">Phone:</span></strong>
+                            <a href="tel:+233534701222" class="text-black">
+                                +233534701222
+                            </a>
+                        </span>
+                    {{--                    <div class="c-links">--}}
+{{--                        <a href="javascript:void(0)"><i class="fa fa-facebook"></i></a>--}}
+{{--                        <a href="javascript:void(0)"><i class="fa fa-twitter"></i></a>--}}
+{{--                        <a href="javascript:void(0)"><i class="fa fa-instagram"></i></a>--}}
+
+{{--                    </div>--}}
                 </div>
             </div>
         </div>
@@ -90,32 +106,33 @@
     <div class="help-area pt-110 pb-115 ptb-sm-60">
         <div class="container">
             <div class="section-title text-center ">
-                <h1 class="text-black">Our Mission</h1>
-                <p class="text-black">Improving the quality of lives for individuals.</p>
+                <h5 class="text-black">Reach out to ask questions, and join us in our work to make
+                    evidence-based care available to all of those living in Ghana with Sickle Cell Disease.</h5>
+{{--                <p class="text-black">Improving the quality of lives for individuals.</p>--}}
             </div>
-            <div class="row text-center">
-                <div class="col-md-4 col-sm-6">
-                    <div class="ht-about-feature-item" style="">
-                        <span><img src="{{ asset('img/icon/donation.png') }}" alt=""></span>
-                        <h3 class="text-black">Early Diagnosis</h3>
-                        <p class="text-black">Early diagnosis of Sickle Cell Disease is crucial for timely care, improved health outcomes, and a better quality of life.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="ht-about-feature-item">
-                        <span><img src="{{ asset('img/icon/volunteer.png') }}" alt=""></span>
-                        <h3 class="text-black">Early Intervention</h3>
-                        <p class="text-black">Prevent complications, reduce hospital visits, and empower individuals with Sickle Cell Disease to live healthier, fuller lives.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="ht-about-feature-item">
-                        <span><img src="{{ asset('img/icon/scholar.png') }}" alt=""></span>
-                        <h3 class="text-black">Advocacy Support</h3>
-                        <p class="text-black">Advocacy support gives a voice to Sickle Cell warriors, driving awareness, policy change, and better care.</p>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="row text-center">--}}
+{{--                <div class="col-md-4 col-sm-6">--}}
+{{--                    <div class="ht-about-feature-item" style="">--}}
+{{--                        <span><img src="{{ asset('img/icon/donation.png') }}" alt=""></span>--}}
+{{--                        <h3 class="text-black">Early Diagnosis</h3>--}}
+{{--                        <p class="text-black">Early diagnosis of Sickle Cell Disease is crucial for timely care, improved health outcomes, and a better quality of life.</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-md-4 col-sm-6">--}}
+{{--                    <div class="ht-about-feature-item">--}}
+{{--                        <span><img src="{{ asset('img/icon/volunteer.png') }}" alt=""></span>--}}
+{{--                        <h3 class="text-black">Early Intervention</h3>--}}
+{{--                        <p class="text-black">Prevent complications, reduce hospital visits, and empower individuals with Sickle Cell Disease to live healthier, fuller lives.</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-md-4 col-sm-6">--}}
+{{--                    <div class="ht-about-feature-item">--}}
+{{--                        <span><img src="{{ asset('img/icon/scholar.png') }}" alt=""></span>--}}
+{{--                        <h3 class="text-black">Advocacy Support</h3>--}}
+{{--                        <p class="text-black">Advocacy support gives a voice to Sickle Cell warriors, driving awareness, policy change, and better care.</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
         </div>
     </div>
     <!-- Our Mission End -->
