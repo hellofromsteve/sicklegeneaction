@@ -14,7 +14,7 @@
                 </h6>
 
 
-                <div class="accordion pt-40 px-4 mb-5" id="causesAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
+                <div class="accordion pt-40 px-4 mb-2" id="causesAccordion" style="--bs-accordion-bg: #D5EDFF; --bs-accordion-btn-bg: #D5EDFF;">
 
                     <!-- 1 -->
                     <div class="accordion-item">
@@ -198,7 +198,7 @@
                 </div>
 
 
-                <h5 class="px-4 pt-25 text-black">Try to be well-informed. Be aware of these basics:</h5>
+                <h5 class="px-4 text-black">Try to be well-informed. Be aware of these basics:</h5>
                 <p class="px-4 text-black fs-6">Misinformation causes harm to people who are born with sickle cell disease. <br>
                     So, it is important to understand what sickle cell disease IS, medically, and what it IS NOT.
                 </p>
@@ -295,8 +295,9 @@
                                 </td>
                                 <td class="p-3">
                                     <p class="fw-semibold mb-2">Their Baby</p>
-                                    <img  style="width: 60%; height: 100px; "
-                                          src="{{ asset('img/scd/baby.png') }}" alt="Baby" class="img-fluid rounded">
+                                    <img style="width: 70px; height: 130px"
+                                          src="{{ asset('img/scd/baby.png') }}" alt="Baby"
+                                          class="img-fluid rounded">
                                 </td>
                             </tr>
 
