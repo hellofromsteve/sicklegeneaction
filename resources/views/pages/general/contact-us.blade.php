@@ -12,9 +12,7 @@
                         <br><br> We’d also like to do much more than <span class="text-decoration-underline">raise awareness.</span>
                         <br> <br>We want people to have access to evidence‑based treatment that will allow them to live full and productive lives.
                         <br> <br>One possibility: Reach out to ask questions, and join us in our work to make evidence‑based care available to those living in Ghana with Sickle Cell Disease.
-
-                        <br>Reach out for support or inquiries, and join us in raising awareness to  fight sickle cell disease.
-                    </p>
+    </p>
                 </div>
             </div>
         </div>
