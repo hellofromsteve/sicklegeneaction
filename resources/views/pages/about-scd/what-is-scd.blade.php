@@ -11,7 +11,7 @@
                 <h5 class="text-black"> Sickle Cell Disease is a condition that affects the body’s red blood cells.</h5>
 
                 <div class="text-justify pt-10" >
-                    <p class="text-black"><strong> Sickle Cell Disease is a condition that makes a person’s round red blood cells become shaped like a farm tool called a “sickle.” It also looks similar to a curved banana.</strong></p>
+                    <p class=""> Sickle Cell Disease is a condition that makes a person’s round red blood cells become shaped like a farm tool called a “sickle.” It also looks similar to a curved banana.</p>
                 </div>
             </div>
         </div>
@@ -22,7 +22,7 @@
                 <h5 class="pt-10 text-black">Sickle Cell Disease is a serious condition.</h5>
 
                 <div class="text-justify pt-10" >
-                    <p class="text-black"><strong> When these sickle-shaped red blood cells circulate in the bloodstream, they can cause severe pain and a number of serious life-changing complications.</strong></p>
+                    <p class="text-black"> When these sickle-shaped red blood cells circulate in the bloodstream, they can cause severe pain and a number of serious life-changing complications.</p>
                 </div>
             </div>
         </div>
