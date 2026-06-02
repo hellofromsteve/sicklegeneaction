@@ -9,7 +9,7 @@
                     <h1 class="fw-bold mb-3 text-black">Empower. Unite.</h1>
                     <p class="fs-5 text-secondary mb-4 text-black">
                         Sickle cell disease is manageable. We know how to treat it.
-                        <br>But screening and treatment strategies 
+                        <br>But screening and treatment strategies
                         <br>need to be scaled up.
                     </p>
                 </div>
