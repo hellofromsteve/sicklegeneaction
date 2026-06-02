@@ -8,11 +8,10 @@
                     <h1 class="text-danger mb-2">Contact Us</h1>
                     <h1 class="fw-bold mb-3 text-black">Empower. Unite.</h1>
                     <p class="fs-5 text-secondary mb-4 text-black">
-                        Because Sickle Cell Disease is purely genetic, we really can’t <span class="text-decoration-underline">fight it</span> like we can do with many other serious conditions.
-                        <br><br> We’d also like to do much more than <span class="text-decoration-underline">raise awareness.</span>
-                        <br> <br>We want people to have access to evidence‑based treatment that will allow them to live full and productive lives.
-                        <br> <br>One possibility: Reach out to ask questions, and join us in our work to make evidence‑based care available to those living in Ghana with Sickle Cell Disease.
-    </p>
+                        Sickle cell disease is manageable. We know how to treat it.
+                        <br>But screening and treatment strategies 
+                        <br>need to be scaled up.
+                    </p>
                 </div>
             </div>
         </div>
@@ -104,8 +103,9 @@
     <div class="help-area pt-110 pb-115 ptb-sm-60">
         <div class="container">
             <div class="section-title text-center ">
-                <h5 class="text-black">Reach out to ask questions, and join us in our work to make
-                    evidence-based care available to all of those living in Ghana with Sickle Cell Disease.</h5>
+                <h5 class="text-black">Reach out to ask questions and support our work
+to provide the workforce, facilities, equipment, and medicines needed to improve and extend the lives of millions living with the effects of sickle cell disease
+in Ghana.</h5>
 {{--                <p class="text-black">Improving the quality of lives for individuals.</p>--}}
             </div>
 {{--            <div class="row text-center">--}}
