@@ -79,7 +79,7 @@ return [
         'id' => 6,
         'name' => 'Marian-Acheampong',
         'position' => 'Board Member',
-        'photo' => '/board/marian.jpg',
+        'photo' => '/board/marian.jpeg',
         'alt' => 'Marian-Acheampong Image',
         'bio' => 'Marian Angela Kyei is a lawyer of 20 years at the Ghana Bar and a development consultant.
 
