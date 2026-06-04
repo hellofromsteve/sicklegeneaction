@@ -7,7 +7,7 @@ return [
         'name' => 'Theophilus Nyamdi',
         'position' => 'Foundation Organizer',
         'alt' => 'Theophilus Nyamdi',
-        'photo' => '/staff/t-nyamadi.jpeg',
+        'photo' => '/staff/t-nyamadi-new.jpeg',
         'bio' => 'Theophilus Bio',
     ],
     [

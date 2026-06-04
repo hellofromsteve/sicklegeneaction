@@ -5,7 +5,7 @@ return [
         'id' => 1,
         'name' => 'Awo Twumasi',
         'position' => 'President and CEO',
-        'photo' => '/board/tsumasi.jpg',
+        'photo' => '/board/awo_new.jpeg',
         'alt' => 'Awo Twumasi',
         'bio' => 'Victoria Awo Twumasi is a non-profit leader and business executive with experience in both the U.S. and Ghana.
 
@@ -51,7 +51,7 @@ return [
         'id' => 4,
         'name' => 'Roland Addo-Hammond',
         'position' => 'Board Member',
-        'photo' => '/board/r-a-hammond.png',
+        'photo' => '/board/r-a-hammond_new.jpeg',
         'alt' => 'Roland Addo-Hammond Image',
         'bio' => 'A passionate Public Health leader with a strong track record in bridging science, medicine, patients, and governments to improve healthcare for underserved populations.
 
@@ -79,7 +79,7 @@ return [
         'id' => 6,
         'name' => 'Marian-Acheampong',
         'position' => 'Board Member',
-        'photo' => '/board/abena.jpg',
+        'photo' => '/board/marian.jpg',
         'alt' => 'Marian-Acheampong Image',
         'bio' => 'Marian Angela Kyei is a lawyer of 20 years at the Ghana Bar and a development consultant.
 

@@ -17,12 +17,12 @@ return [
         'photo' => '/advisory/a-o-frempong.jpg',
         'bio' => 'Afia Ohene-Frempong Bio',
     ],
-    [
-        'id' => 3,
-        'name' => 'Nana Osei-Poku',
-        'position' => 'Advisory Board Member',
-        'photo' => '/advisory/abena.jpg',
-        'alt' => 'Nana Osei-Poku Image',
-        'bio' => 'Nana Osei-Poku-  Bio',
-    ],
+    // [
+    //     'id' => 3,
+    //     'name' => 'Nana Osei-Poku',
+    //     'position' => 'Advisory Board Member',
+    //     'photo' => '/advisory/abena.jpg',
+    //     'alt' => 'Nana Osei-Poku Image',
+    //     'bio' => 'Nana Osei-Poku-  Bio',
+    // ],
 ];
