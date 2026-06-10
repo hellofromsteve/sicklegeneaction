@@ -406,7 +406,12 @@
                                         </h2>
                                         <div id="collapse1995_2022_database" class="accordion-collapse collapse">
                                             <div class="accordion-body">
-
+                                                <p>A comprehensive summary of the National Newborn Screening Programme test results, covering 1995 to 2022, is available for download.</p>
+                                                <a href="{{ asset('files/SCFG-NNSP-Summary-of-Test Results 1995-2022 Corrected.xlsx') }}"
+                                                   class="btn btn-sm btn-danger"
+                                                   download>
+                                                    <i class="fa fa-download"></i> Download Summary of Test Results (1995–2022)
+                                                </a>
                                             </div>
                                         </div>
                                     </div>

@@ -73,7 +73,8 @@
                                         <li class="{{ request()->routeIs('media.*') ? 'active' : '' }}"><a href="{{ route('media.blog') }}">Media & Blog</a>
                                             <ul>
                                                 <li><a href="{{ route('media.blog') }}">Our Blog</a></li>
-                                                <li><a href="{{ route('media.gallery') }}">Media</a></li>
+                                                <li><a href="{{ route('media.gallery') }}">Gallery</a></li>
+                                                <li><a href="{{ route('media.videos') }}">Videos</a></li>
                                             </ul>
                                         </li>
                                         <li class="{{ request()->routeIs('how-to-help') ? 'active' : '' }}"><a href="{{ route('how-to-help')  }}">How To Help</a>

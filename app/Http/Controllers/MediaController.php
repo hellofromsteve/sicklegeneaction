@@ -12,6 +12,22 @@ class MediaController extends Controller
         return view('pages.general.gallery', compact('images'));
     }
 
+    public function videos()
+    {
+        $videos = $this->getVideos();
+        return view('pages.general.videos', compact('videos'));
+    }
+
+    public function getVideos()
+    {
+        return [
+            ['id' => 'rn86SatOJvM', 'title' => 'About SCD by KOF.'],
+            ['id' => 'xjN1XK9W3fg', 'title' => 'Launch of GF-SGA'],
+            ['id' => 'vpTRvUQu5z8', 'title' => '2025 WSCD at Akweibu Basic School'],
+            ['id' => 'n-mr75tiuC8', 'title' => 'The Definition of Hope'],
+        ];
+    }
+
 
     public function getImages()
     {

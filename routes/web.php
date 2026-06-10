@@ -15,6 +15,7 @@ Route::get('/about-scd', [GeneralController::class, 'aboutScd'])->name('about-sc
 Route::get('/contact-us', [GeneralController::class, 'contactUs'])->name('contact-us');
 Route::get('/blog', [BlogController::class, 'blog'])->name('media.blog');
 Route::get('/gallery', [MediaController::class, 'gallery'])->name('media.gallery');
+Route::get('/videos', [MediaController::class, 'videos'])->name('media.videos');
 
 Route::post('/contact-us', [GeneralController::class, 'handleContact'])->name('handle-contact');
 Route::post('/subscribe-us', [GeneralController::class, 'handleSubscribe'])->name('handle-subscribe');

@@ -65,7 +65,7 @@ return [
         'id' => 5,
         'name' => 'Daniel Ampomah Oppong',
         'position' => 'Board Member',
-        'photo' => '/board/d-a-oppong.png',
+        'photo' => '/board/d-a-oppong.jpeg',
         'alt' => 'Daniel Ampomah Oppong Image',
         'bio' => 'Mr Daniel A. Oppong is a  results-driven professional with 10+ years’ experience in media, marketing, and project management, delivering impactful campaigns and measurable business growth.
 
@@ -97,7 +97,7 @@ return [
         'id' => 7,
         'name' => 'Collins Nuntwiri Nuamah',
         'position' => 'Board Member',
-        'photo' => '/board/c-n-nuamah.png',
+        'photo' => '/board/c-n-nuamah.jpeg',
         'alt' => 'Collins Nuntwiri Nuamah Image',
         'bio' => 'Mr. Collins Nuntwiri Nuamah is Deputy Managing Director of Ghana Water Company, overseeing revenue mobilization, taxes, and compliance with over 19 years’ expertise.
 

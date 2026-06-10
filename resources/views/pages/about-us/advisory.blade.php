@@ -18,6 +18,11 @@
                             <div class="card-body">
                                 <h5 class="card-title mb-1">{{ $person['name'] }}</h5>
                                 <p class="text-muted mb-2">{{ $person['position'] }}</p>
+                                @if(!empty($person['bio']))
+                                    <button class="btn btn-sm btn-outline-danger" data-bs-toggle="modal" data-bs-target="#bioModal{{ $person['id'] }}">
+                                        View Bio
+                                    </button>
+                                @endif
                             </div>
                         </div>
                     </div>
@@ -31,12 +36,18 @@
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body text-start">
-                                    <p class="mb-1"><strong>Position:</strong> {{ $person['position'] }}</p>
+                                    <p class="px-4 mb-1"><strong>Position:</strong> {{ $person['position'] }}</p>
                                     <hr>
-                                    <p>{{ $person['bio'] }}</p>
+                                    <div class="p-4">
+                                        @foreach(preg_split("/\r\n|\n|\r/", $person['bio']) as $paragraph)
+                                            @if(trim($paragraph) != '')
+                                                <p>{{ trim($paragraph) }}</p>
+                                            @endif
+                                        @endforeach
+                                    </div>
                                 </div>
                                 <div class="modal-footer">
-                                    <button type="button" class="btn btn-sm btn-secondary" data-bs-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
                                 </div>
                             </div>
                         </div>
