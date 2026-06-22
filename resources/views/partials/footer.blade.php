@@ -84,7 +84,7 @@
     </div>
     <div class="footer-bottom text-center bg-dark-3">
         <div class="container">
-            <span class="footer-text">Copyright © <a href="https://turndalesolutions.com" target="_blank">Turndale Solutions</a>  All Right Reserved.</span>
+            <span class="footer-text">Copyright © <a href="https://solentik.com" target="_blank">Solentik</a>  All Right Reserved.</span>
         </div>
     </div>
 </footer>
