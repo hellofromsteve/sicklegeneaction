@@ -89,7 +89,24 @@ class MediaController extends Controller
             ['img' => 'image31.jpeg', 'title' => 'A moment of engagement for KOF. Interacting with a mother at the Maternal  and Child Care  Hospital in Kumasi.'],
 
             ['img' => 'image32.jpeg', 'title' => 'KOF (middle) in a meeting with the staff of the Sickle Cell Foundation of Ghana. Seated to his left is Mrs Janet Ohene-Frempong, and to his right is Mrs Mary Lamptey, National Nurse Coordinator for NBS.'],
-        ];
+
+            ['img' => 'image33.jpeg', 'title' => 'A photo with Thelma Tackie, GTV Breakfash show Host.'],
+
+            ['img' => 'image34.jpeg', 'title' => 'SGA Interview on Ghana Television'],
+
+            ['img' => 'image35.jpeg', 'title' => 'A photo after an interview on GhOne TV'],
+
+            ['img' => 'image36.jpeg', 'title' => 'A photo after an interview on Kasapa FM'],
+
+            ['img' => 'image37.jpeg', 'title' => 'Photo with Rolland, a board member, after an interview on Star FM'],
+
+            ['img' => 'image38.jpeg', 'title' => 'A photo with the ISCC Team'],
+
+            ['img' => 'image39.jpeg', 'title' => 'Awareness Creation at Saleria 1 & 2 Cluster of School'],
+
+            ['img' => 'image40.jpeg', 'title' => ''],
+
+         ];
 
     }
 }

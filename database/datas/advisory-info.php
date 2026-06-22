@@ -29,7 +29,13 @@ return [
         'position' => 'Advisory Board Member',
         'alt' => 'Afia Ohene-Frempong',
         'photo' => '/advisory/a-o-frempong.jpg',
-        'bio' => 'Afia Ohene-Frempong Bio',
+        'bio' => 'Afia Ohene-Frempong is a licensed social worker, health educator, and communications professional based in the Philadelphia, Pennsylvania area. She holds a Bachelor of Arts in Economics and a Marketing Certificate from the Wharton School, both from the University of Pennsylvania, and a dual Master of Social Work and Master of Education from Widener University.
+
+        Over more than two decades, she has developed communications and outreach strategies for government agencies, non-profits, and corporate clients, with a focus on reaching underserved communities with clarity and creativity. Her clients and employers have included the Pennsylvania Department of Health, the New Jersey Department of Education, the School District of Philadelphia, PECO, and McDonald\'s of Greater Philadelphia/Ronald McDonald House Charities, among others. Her experience also includes serving as Senior UX Writer and Content Strategist at CVS Health, where she applied plain language principles and accessibility best practices to improve health engagement for Aetna Medicare members. She has also worked alongside her mother—plain language communications consultant Janet Ohene-Frempong—at JOF Communications.
+
+        Afia\'s commitment to sickle cell disease is deeply personal. She is the daughter of the late Dr. Kwaku Ohene-Frempong, the pioneering physician and advocate whose more than thirty years of work brought evidence-based sickle cell detection and treatment to Ghana and across Africa. Her late brother, Kwame Ohene-Frempong, lived with sickle cell disease and was a source of profound inspiration to their family and to all who knew him — and it was his diagnosis that first ignited their father\'s lifelong mission.
+
+        Afia carries that legacy forward as a proud sickle cell trait carrier and advocate. She is dedicated to ensuring that sickle cell warriors and families affected by sickle cell disease have access to the knowledge, care, and support they deserve.',
     ],
     // [
     //     'id' => 3,
