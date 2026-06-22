@@ -65,6 +65,21 @@
                 </div>
             </div>
         </div>
+
+        <div class="container pb-50">
+            <h5 class="text-black text-center pb-20">Watch: What Is Sickle Cell Disease</h5>
+            <div class="d-flex justify-content-center">
+                <div class="shadow rounded overflow-hidden" style="max-width: 720px; width: 100%;">
+                    <video class="w-100 d-block" controls preload="metadata" poster="{{ asset('img/scd/what-is-scd1.png') }}">
+                        <source src="{{ asset('vids/what-is-scd.mp4') }}" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+            </div>
+            <p class="text-center text-muted pt-10 mb-0">
+                Video credit: <a href="https://www.youtube.com/@AladdinCreations" target="_blank" rel="noopener">Aladdin Creations</a>
+            </p>
+        </div>
     </div>
     <!-- What Is SCD End -->
 
