@@ -149,7 +149,7 @@
                     <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
                         <img src="{{ asset('img/gallery/image15.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="Rotary Club Awareness at Borstal Institute">
                         <div class="card-body text-center" style="background-color: #D5EDFF;">
-                            <p class="card-text text-black small mb-0"><strong>GF-SGA and Rotary Club Awareness Creation at Juvenile Borstal Institute, Accra - March 2024</strong></p>
+                            <p class="card-text text-black small mb-0"><strong>SGA and Rotary Club Awareness Creation at Juvenile Borstal Institute, Accra - March 2024</strong></p>
                         </div>
                     </div>
                 </div>
@@ -157,7 +157,7 @@
                     <div class="card h-100 shadow-sm" style="border: 4px solid #002d5b; border-radius: 8px; overflow: hidden;">
                         <img src="{{ asset('img/gallery/image14.jpeg') }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="Feed the Street Kids Drive">
                         <div class="card-body text-center" style="background-color: #D5EDFF;">
-                            <p class="card-text text-black small mb-0"><strong>GF-SGA Awareness Creation, Education and Feed the Street Kids Drive at Shiashie, Madina Zongo - May 2024</strong></p>
+                            <p class="card-text text-black small mb-0"><strong>SGA Awareness Creation, Education and Feed the Street Kids Drive at Shiashie, Madina Zongo - May 2024</strong></p>
                         </div>
                     </div>
                 </div>

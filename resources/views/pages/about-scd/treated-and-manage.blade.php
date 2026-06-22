@@ -65,7 +65,7 @@
                         <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#ghanaSCDAccordion">
                             <div class="accordion-body">
                                 <p class="text-black mb-3">• From 1992 to 2022, Prof. Kwaku Ohene-Frempong, MD, with the support of international partners and colleagues in Ghana, provided national and global leadership for SCD detection, treatment, and management. Sadly, Prof. passed away in 2022.</p>
-                                <p class="text-black mb-3">• Since 2023, the Ghana Foundation for Sickle Gene Action (GF-SGA) has worked to fill part of the void left by Prof. Ohene-Frempong, aiming to restore lost programming and build upon the groundwork he laid.</p>
+                                <p class="text-black mb-3">• Since 2023, the Ghana Foundation for Sickle Gene Action (SGA) has worked to fill part of the void left by Prof. Ohene-Frempong, aiming to restore lost programming and build upon the groundwork he laid.</p>
                                 <p class="text-black mb-3">• In August 2023, one year after his passing, the SPARCo Standards of Care for SCD in Sub-Saharan Africa were released, providing a unifying call to action to implement these guidelines nationwide.</p>
 
                                 <p class="mb-1 fw-bold"><a class="text-primary" href="{{ route('about-us.groundwork') }}">See: Our Groundwork </a></p>

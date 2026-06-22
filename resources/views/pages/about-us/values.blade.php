@@ -55,8 +55,8 @@
                                 <img src="{{ asset('img/about/value2.jpeg') }}"
                                      class="img-fluid rounded shadow-sm"
                                      style="max-height: 250px; object-fit: contain;"
-                                     alt="GF-SGA and ISCC Supporting GNS Foundation Awareness Event in June 2024">
-                                <p class="mt-2 small">GF-SGA and ISCC
+                                     alt="SGA and ISCC Supporting GNS Foundation Awareness Event in June 2024">
+                                <p class="mt-2 small">SGA and ISCC
                                     Supporting GNS Foundation Awareness <br>
                                     Event in June 2024</p>
                             </div>

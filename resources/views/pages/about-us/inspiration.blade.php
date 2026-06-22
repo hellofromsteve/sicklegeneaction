@@ -91,7 +91,7 @@
             </div>
             <div class="text-center pt-40">
                 <p class="text-black fs-5">
-                    <strong>We the members of the Ghana Foundation for Sickle Gene Action (GF-SGA) are inspired by the dedicated leadership and humility of our compatriot, Professor Kwaku Ohene-Frempong (KOF).</strong>
+                    <strong>We the members of the Ghana Foundation for Sickle Gene Action (SGA) are inspired by the dedicated leadership and humility of our compatriot, Professor Kwaku Ohene-Frempong (KOF).</strong>
                 </p>
             </div>
 

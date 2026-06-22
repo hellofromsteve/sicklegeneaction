@@ -4,7 +4,7 @@ return [
     [
         'id' => 1,
         'name' => 'Awo Twumasi',
-        'position' => 'President and CEO',
+        'position' => 'Executive Director',
         'photo' => '/board/awo_new.jpeg',
         'alt' => 'Awo Twumasi',
         'bio' => 'Victoria Awo Twumasi is a non-profit leader and business executive with experience in both the U.S. and Ghana.

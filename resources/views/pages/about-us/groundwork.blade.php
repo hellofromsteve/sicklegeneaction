@@ -43,7 +43,7 @@
                         <!-- Image Column 1 -->
                         <div class="col-12 col-md-6 mb-3">
                             <img src="{{ asset('img/about/groundwork1.png') }}"
-                                 alt="GF-SGA Launch Image 1"
+                                 alt="SGA Launch Image 1"
                                  class="img-fluid rounded shadow-sm"
                                  style="height: 250px; width: 100%; object-fit: cover;">
                         </div>
@@ -51,7 +51,7 @@
                         <!-- Image Column 2 -->
                         <div class="col-12 col-md-6 mb-3">
                             <img src="{{ asset('img/about/groundwork2.png') }}"
-                                 alt="GF-SGA Launch Image 2"
+                                 alt="SGA Launch Image 2"
                                  class="img-fluid rounded shadow-sm"
                                  style="height: 250px; width: 100%; object-fit: cover;">
                         </div>
@@ -59,7 +59,7 @@
 
                     <!-- Caption below images -->
                     <p class="mt-3 fw-bold text-black">
-                        Launch of the Ghana Foundation for Sickle Gene Action (GF-SGA) <br>
+                        Launch of the Ghana Foundation for Sickle Gene Action (SGA) <br>
                         <small class="text-black">November 2023</small>
                     </p>
                 </div>
@@ -69,7 +69,7 @@
                 </h4>
 
                 <div class="text-justify pt-10" >
-                    <p class="text-black"><strong>In 2023, we formed the Ghana Foundation for Sickle Gene Action (GF-SGA)<br>to support efforts to restore, build upon, and scale up proven solutions
+                    <p class="text-black"><strong>In 2023, we formed the Ghana Foundation for Sickle Gene Action (SGA)<br>to support efforts to restore, build upon, and scale up proven solutions
                             <br>that will save lives and significantly reduce the preventable pain and suffering
                             <br> experienced by our Sickle Cell Warriors and their Families.</strong></p>
 

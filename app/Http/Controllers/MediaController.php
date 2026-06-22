@@ -22,7 +22,7 @@ class MediaController extends Controller
     {
         return [
             ['id' => 'rn86SatOJvM', 'title' => 'About SCD by KOF.'],
-            ['id' => 'xjN1XK9W3fg', 'title' => 'Launch of GF-SGA'],
+            ['id' => 'xjN1XK9W3fg', 'title' => 'Launch of SGA'],
             ['id' => 'vpTRvUQu5z8', 'title' => '2025 WSCD at Akweibu Basic School'],
             ['id' => 'n-mr75tiuC8', 'title' => 'The Definition of Hope'],
         ];
@@ -40,25 +40,25 @@ class MediaController extends Controller
 
             ['img' => 'image4.jpeg', 'title' => 'Donation presentation to the Greater Accra Regional Hospital (GARH) Paediatric Sickle Cell Clinic.'],
 
-            ['img' => 'image5.jpeg', 'title' => 'GF-SGA team in a group photograph with the Medical Director of GARH during a visit to the Hospital’s Sickle Cell Clinic, 2023.'],
+            ['img' => 'image5.jpeg', 'title' => 'SGA team in a group photograph with the Medical Director of GARH during a visit to the Hospital’s Sickle Cell Clinic, 2023.'],
 
-            ['img' => 'image6.jpeg', 'title' => 'GF-SGA donation and awareness education session at the GARH, Children\'s Ward'],
+            ['img' => 'image6.jpeg', 'title' => 'SGA donation and awareness education session at the GARH, Children\'s Ward'],
 
-            ['img' => 'image7.jpeg', 'title' => 'GF-SGA supporting the GNS Foundation SCD Awareness Event.'],
+            ['img' => 'image7.jpeg', 'title' => 'SGA supporting the GNS Foundation SCD Awareness Event.'],
 
-            ['img' => 'image8.jpeg', 'title' => 'GF-SGA partnership meeting with the Ablekuma North Health Directorate, Accra.'],
+            ['img' => 'image8.jpeg', 'title' => 'SGA partnership meeting with the Ablekuma North Health Directorate, Accra.'],
 
-            ['img' => 'image9.jpeg', 'title' => 'GF-SGA participation in the ISCC Focus Group Discussion, 2024.'],
+            ['img' => 'image9.jpeg', 'title' => 'SGA participation in the ISCC Focus Group Discussion, 2024.'],
 
-            ['img' => 'image10.jpeg', 'title' => 'GF-SGA and Rotary Club members during an SCD Awareness Education and Screening Exercise at Presbyterian Basic School, Shiashie–East Legon, Accra.'],
+            ['img' => 'image10.jpeg', 'title' => 'SGA and Rotary Club members during an SCD Awareness Education and Screening Exercise at Presbyterian Basic School, Shiashie–East Legon, Accra.'],
 
-            ['img' => 'image11.jpeg', 'title' => 'GF-SGA participation in the SCD Advocacy Summit organized by Novartis, May 2024.'],
+            ['img' => 'image11.jpeg', 'title' => 'SGA participation in the SCD Advocacy Summit organized by Novartis, May 2024.'],
 
             ['img' => 'image12.jpeg', 'title' => 'Community Engagement: SCD Awareness Creation and Education programme in Wa, Upper West Region.'],
 
             ['img' => 'image13.jpeg', 'title' => 'Ministry of Health/Ghana Health Service National Sickle Cell Strategy Stakeholder Engagement Meeting, 2024.'],
 
-            ['img' => 'image14.jpeg', 'title' => 'GF-SGA Awareness Creation, Education, and Feed the Street Kids Drive at Shiashie, Madina Zongo, 2024.'],
+            ['img' => 'image14.jpeg', 'title' => 'SGA Awareness Creation, Education, and Feed the Street Kids Drive at Shiashie, Madina Zongo, 2024.'],
 
             ['img' => 'image15.jpeg', 'title' => 'SGA and Rotary Club of Roman Ridge Awareness Creation programme at the Juvenile Borstal Institute, Accra, March 2024.'],
 
@@ -70,7 +70,7 @@ class MediaController extends Controller
 
             ['img' => 'image19.jpeg', 'title' => 'World Sickle Cell Day: Awareness Creation, Education, and Free Screening Exercise at Saleria Basic School, Accra, 2024.'],
 
-            ['img' => 'image20.jpeg', 'title' => 'World Sickle Cell Day: Awareness Creation, Education, and Free Screening Exercise at Saleria Basic School, Accra, 2024.'],
+//            ['img' => 'image20.jpeg', 'title' => 'World Sickle Cell Day: Awareness Creation, Education, and Free Screening Exercise at Saleria Basic School, Accra, 2024.'],
 
             ['img' => 'image21.jpeg', 'title' => 'Mrs. Janet Ohene-Frempong (Patron) and the SGA Team engaging students of Akweibu Basic School, Accra.'],
 
