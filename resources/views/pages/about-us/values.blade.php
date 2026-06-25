@@ -47,7 +47,7 @@
                                      class="img-fluid rounded shadow-sm"
                                      style="max-height: 250px; object-fit: contain;"
                                      alt="GF-SCA participation in ISCC Focus Group discussion in May 2024">
-                                <p class="mt-2 small">GF-SCA participation in ISCC Focus Group <br> discussion in May 2024</p>
+                                <p class="mt-2 small">GF-SGA participation in ISCC Focus Group <br> discussion in May 2024</p>
                             </div>
 
                             <!-- Bottom Image Column -->
