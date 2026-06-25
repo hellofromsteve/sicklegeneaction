@@ -25,6 +25,7 @@ class MediaController extends Controller
             ['id' => 'xjN1XK9W3fg', 'title' => 'Launch of SGA'],
             ['id' => 'vpTRvUQu5z8', 'title' => '2025 WSCD at Akweibu Basic School'],
             ['id' => 'n-mr75tiuC8', 'title' => 'The Definition of Hope'],
+            ['id' => 't-mFlqIvjUs', 'title' => 'GF-SGA Advisory Board Member'],
         ];
     }
 
@@ -104,7 +105,7 @@ class MediaController extends Controller
 
             ['img' => 'image39.jpeg', 'title' => 'Awareness Creation at Saleria 1 & 2 Cluster of School'],
 
-            ['img' => 'image40.jpeg', 'title' => ''],
+            ['img' => 'image40.jpeg', 'title' => 'Photo with Akweibu Basic School Students'],
 
          ];
 
