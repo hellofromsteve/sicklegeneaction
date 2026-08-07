@@ -62,7 +62,7 @@
 
                 <div class="col-lg-6">
                     <div class="hlp-content">
-                        <h5 class="text-black mb-3"><strong>In Memoriam: Kwaku Ohene-Frempong</strong></h5>
+                        <h5 class="text-black mb-3"><strong>In Memoriam: Kwaku Ohene-Frempong, MD</strong></h5>
 
                         <div class="inspiration-text" style="color: black; text-align: justify; line-height: 1.6;">
                             <p>

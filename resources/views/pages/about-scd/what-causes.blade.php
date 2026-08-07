@@ -218,11 +218,11 @@
                 <h5 class="px-4 pt-25 text-black">See the following charts for lists of gene combinations.</h5>
                 <div class="px-4 pt-2">
                     <ul class="ps-4 mb-0">
-                        <li class="mb-2 fs-6">• They DO show combinations that can cause:</li>
-                        <li class="mb-2 fs-6">• Sickle Cell Disease – one kind of hemoglobin disease</li>
+                        <li class="mb-2 fs-6 text-black">They DO show combinations that can cause: </li>
+                        <li class="mb-2 fs-6">• Sickle Cell Disease – one kind of Hemoglobin Disease</li>
                         <li class="mb-2 fs-6">• Hemoglobin Trait Conditions</li>
-                        <li class="mb-2 fs-6">• They DO NOT show combinations that can cause:</li>
-                        <li class="mb-2 fs-6">• Many other kinds of hemoglobin diseases – for example, hemoglobin CC disease (called hemoglobin C disease)</li>
+                        <li class="mb-2 fs-6 text-black"> They DO NOT show combinations that can cause:</li>
+                        <li class="mb-2 fs-6">• Many other kinds of Hemoglobin Diseases – for example, Hemoglobin CC Disease (called Hemoglobin C Disease)</li>
                     </ul>
                 </div>
 

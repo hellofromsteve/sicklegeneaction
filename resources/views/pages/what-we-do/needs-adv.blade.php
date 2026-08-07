@@ -13,9 +13,9 @@
                 <div class="text-justify">
                     <p class="text-black m-0">• show us where the gaps are between where we want to be and where we actually are.</p>
                     <p class="text-black m-0">• show us where to place our priorities.</p>
-                    <p class="text-black m-0">•	Show us where barriers exist.</p>
-                    <p class="text-black m-0"> •	Show us what opportunities there may be for solving problems.</p>
-                    <p class="text-black m-0">•	Enable us to acknowledge the efforts of our partners.</p>
+                    <p class="text-black m-0">•	show us where barriers exist.</p>
+                    <p class="text-black m-0"> • show us what opportunities there may be for solving problems.</p>
+                    <p class="text-black m-0">•	enable us to acknowledge the efforts of our partners.</p>
                 </div>
             </div>
 

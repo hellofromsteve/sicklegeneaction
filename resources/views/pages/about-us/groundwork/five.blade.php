@@ -10,7 +10,7 @@
                 <h5 class="pt-20 px-4 mb-3">Ghana’s Groundwork for Nationwide Excellence in Specialized Treatment and Care</h5>
 
                 <div class="text-justify pt-10 px-4" >
-                    <p class="text-black">As of 2022: There are 21 Sickle Cell Centers Across Ghana</p>
+                    <p class="text-black">In 2022, there were 21 Sickle Cell Centers across Ghana.</p>
                 </div>
 
                 <div class="text-justify pt-10 px-4" >

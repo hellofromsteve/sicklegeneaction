@@ -42,7 +42,7 @@
                                 <img src="{{ asset('img/goals/goal3.jpeg') }}"
                                      class="img-fluid mx-auto"
                                      style="max-height: 250px; object-fit: contain;"
-                                     alt="Photos of Current Partnerships">
+                                     alt="Some of our current partnerships">
                             </div>
                         </div>
 
@@ -52,13 +52,13 @@
                                 <img src="{{ asset('img/goals/partner2.jpeg') }}"
                                      class="img-fluid mx-auto"
                                      style="max-height: 220px; object-fit: cover;"
-                                     alt="Photos of Current Partnerships">
+                                     alt="Some of our current partnerships">
                             </div>
                         </div>
                     </div>
 
                     <p class="text-center fw-bold mt-1 text-black">
-                        Photos of Current Partnerships
+                        Some of our current partnerships
                     </p>
 
 

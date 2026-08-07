@@ -13,19 +13,47 @@
                 <div class="col-lg-8">
                     <h1 class="fw-bold mb-3 text-black">How You Can Help</h1>
                     <p class="fs-5 text-secondary mb-4 text-black">
-                        Together, we can reduce SCD deaths and improve lives <br>in Ghana through your support and proven partnerships.
+                        Together, we can reduce SCD deaths and improve lives.
                     </p>
                 </div>
-                <div>
-
-                    <a href="{{ route('online-donate') }}" class="btn btn-danger btn-md me-3 mb-2">
-                        <i class="fas fa-credit-card me-2"></i>Donate Now
-                    </a>
+               
+            </div>
+        </div>
+        <!-- 3-up primary actions under hero -->
+        <div class="container mt-4">
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <h5 class="text-black mb-2">Make an Individual <br> Donation</h5>
+                            <p class="text-muted">Just Because You Care</p>
+                            <a href="{{ route('online-donate') }}" class="btn btn-danger">Donate as Individual</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <h5 class="text-black mb-2">Make an Individual <br> Donation</h5>
+                            <p class="text-muted">to Honor a SCD Warrior</p>
+                            <a href="{{ route('online-donate') }}" class="btn btn-danger">Honor with a Gift</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <h5 class="text-black mb-2">Arrange an Organizational <br> Donation</h5>
+                            <p class="text-muted">to Honor a SCD Warrior</p>
+                            <a href="{{ route('contact-us') }}" class="btn btn-danger">Contact Us to Arrange</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- Banner Area End -->
+    
 
 
 
@@ -35,29 +63,29 @@
             <div class="section-title text-center ">
                 <h1 class="text-black">More Ways To Help</h1>
             </div>
-            <div class="row text-center">
+            <div class="row text-center g-4">
                 <div class="col-md-4 col-sm-6">
-                    <div class="ht-about-feature-item" style="">
+                    <div class="ht-about-feature-item">
                         <i class="fas fa-heart ways-help-icon"></i>
-                        <h3 class="text-black">Monthly Giving</h3>
-                        <p class="text-black">Become a monthly donor and provide sustainable support for our ongoing programs and initiatives.
-                        </p>
+                        <h3 class="text-black">Give Monthly</h3>
+                        <p class="text-black small">Support us every month</p>
+                        <a href="{{ route('online-donate') }}" class="btn btn-outline-danger btn-sm mt-2">Set Up Monthly Gift</a>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="ht-about-feature-item">
-
                         <i class="fas fa-hands-helping ways-help-icon"></i>
-                        <h3 class="text-black">In-Kind Donations</h3>
-                        <p class="text-black">Donate medical supplies, educational materials, or equipment that directly supports our screening and awareness programs.</p>
+                        <h3 class="text-black">Make an In-Kind Donation</h3>
+                        <p class="text-black small">Donate goods or services</p>
+                        <a href="{{ route('contact-us') }}" class="btn btn-outline-danger btn-sm mt-2">Offer In‑Kind Support</a>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="ht-about-feature-item">
                         <i class="fas fa-bullhorn ways-help-icon"></i>
                         <h3 class="text-black">Spread Awareness</h3>
-                        <p class="text-black">Share our mission on social media, organize awareness events, or help us reach more communities
-                            in need.</p>
+                        <p class="text-black small">Share our mission widely</p>
+                        <a href="{{ route('about-scd') }}" class="btn btn-outline-danger btn-sm mt-2">Spread the Word</a>
                     </div>
                 </div>
             </div>

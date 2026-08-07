@@ -15,10 +15,10 @@
                     <h5 class="text-black fw-bold"> Our Aim</h5>
                     <p class="text-black m-0 pb-0">Our aim is to provide facts and dispel misinformation so that:</p>
                     <div class="text-justify">
-                        <p class="m-0">•Sickle Cell Warriors and their families will receive the most well-informed health care available in Ghana.</p>
-                        <p class="m-0">•	Sickle cell Warriors and their families will receive the social respect and support that they need and deserve.</p>
-                        <p class="m-0">•	People in the general public can make informed genetic decisions when they are planning to have children.</p>
-                        <p class="m-0">•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD.</p>
+                        <p class="mt-2 mb-0">• Sickle Cell Warriors and their families will receive the most well-informed health care available in Ghana.</p>
+                        <p class="m-0">• Sickle cell Warriors and their families will receive the social respect and support that they need and deserve.</p>
+                        <p class="m-0">• people in the general public can make informed genetic decisions when they are planning to have children.</p>
+                        <p class="m-0">• the Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD.</p>
 
                     </div>
 

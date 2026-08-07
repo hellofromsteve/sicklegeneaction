@@ -48,7 +48,7 @@
     <!-- Responsive CSS -->
     <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
 
-    @vite(['resources/js/app.js', 'resources/css/app.css'])
+    
     @yield('head')
 
 </head>

@@ -39,9 +39,9 @@
                             @for ($i = 1; $i <= 2; $i++)
                                 <div class="col">
                                     <div class="h-100 shadow-sm">
-                                        <img src="{{ asset("img/goals/goal6-" . $i . ".jpeg") }}"
+                                        <img src="{{ asset("img/about/groundworks/ksc" . $i . ".png") }}"
                                              class="card-img-top w-75 mx-auto d-block"
-                                             style="max-height: 180px; object-fit: contain;"
+                                             style="max-height: 250px; object-fit: contain;"
                                              alt="Compassion, Commitment, Collaboration">
                                     </div>
                                 </div>

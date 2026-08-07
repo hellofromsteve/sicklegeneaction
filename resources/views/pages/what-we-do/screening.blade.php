@@ -10,7 +10,7 @@
 
                 <div class="mt-30">
                     <h5 class="text-black fw-bold"> Our Aim</h5>
-                    <p class="text-black m-0 pb-0">Our aim is to fill screening gaps by reaching people who were missed at birth and connecting them to care:</p>
+                    <p class="text-black m-0 pb-0">Our aim is to fill screening gaps by reaching people who were missed at birth and connecting them to care. To do so we:</p>
                     <div class="text-justify">
                         <p class="text-black m-0">• identify babies, children, adolescents, and adults who were missed at birth.</p>
                         <p class="text-black m-0">• organize catch-up screening events in schools, faith, and community settings.</p>

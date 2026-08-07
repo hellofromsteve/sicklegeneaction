@@ -19,15 +19,15 @@
                 <div class="mt-4">
                     <!-- Section 1 -->
                     <div class="mb-4">
-                        <h5 class="fw-bold text-black">1. Social exclusion</h5>
+                        <h5 class="fw-bold text-black">1. Social Exclusion</h5>
                         <div class="ms-4">
-                            <p  class="text-black mb-2 fs-6">• Being teased or ostracized when one is a child or a teen.</p>
+                            <p  class="text-black mb-2 fs-6">• Being teased or ostracized when one is a child or a teen</p>
                         </div>
                     </div>
 
                     <!-- Section 2 -->
                     <div class="mb-4">
-                        <h5 class="fw-bold text-black">2. Employment exclusion</h5>
+                        <h5 class="fw-bold text-black">2. Employment Exclusion</h5>
                         <div class="ms-4">
                             <p class="text-black mb-2 fs-6">• Not being hired or even being fired due to one’s medical needs</p>
                         </div>
@@ -38,15 +38,15 @@
                     <div class="mb-4">
                         <h5 class="fw-bold text-black">3. Medical Exclusion</h5>
                         <div class="ms-4">
-                            <p class="text-black mb-2 fs-6">• Being doubted or simply not believed. <span class="small"> For example, being told that one cannot be in pain because there is no crying or cringing.</span></p>
-                            <p class="text-black mb-2 fs-6">• Or being told that one has only come to the hospital to seek drugs for a recreational addiction.</p>
-                            <p class="text-black mb-2 fs-6">• Unfortunately, this has happened often enough for there to be a body of medical and social literature devoted to the issue.</p>
+                            <p class="text-black mb-2 fs-6">• Being doubted or simply not believed. For example, being told that one cannot be in pain because there is no crying or cringing</p>
+                            <p class="text-black mb-2 fs-6">• Or being told that one has only come to the hospital to seek drugs for a recreational addiction</p>
+                            <p class="text-black mb-2 fs-6">• Unfortunately, this has happened often enough for there to be a body of medical and social literature devoted to the issue</p>
                         </div>
                     </div>
 
                     <!-- Section 4 -->
                     <div class="mb-4">
-                        <h5 class="fw-bold text-black">3. Societal Exclusion</h5>
+                        <h5 class="fw-bold text-black">4. Societal Exclusion</h5>
                         <p class="fw-bold text-black mb-0 ms-4"> As with other people in general, there can be a lack of respectful, compassionate, or adequate care based on:</p>
                         <div class="ms-4">
                             <p class="text-black mb-2 fs-6">• Race</p>

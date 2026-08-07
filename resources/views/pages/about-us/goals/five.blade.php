@@ -45,15 +45,15 @@
                             <div class="h-100 shadow-sm text-center">
                                 <img src="{{ asset('img/goals/goal5.jpeg') }}"
                                      class="img-fluid mx-auto"
-                                     style="max-height: 180px; object-fit: contain;"
-                                     alt="  A Ghanaian baby being screened for SCD">
+                                     style="max-height: 300px; object-fit: contain;"
+                                     alt="Training program underway">
                             </div>
                         </div>
                     </div>
 
 
                     <p class="text-center fw-bold mt-1 text-black">
-                        Training Programs As They Were Underway<br>
+                        Training program underway<br>
                     </p>
 
 

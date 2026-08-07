@@ -16,7 +16,7 @@
                             <p class="text-black mb-2 h5 text-danger">027 588 8935</p>
                         </div>
                         <div class="cause-btn-time">
-                            <a href="tel:*110*027-588-8935#" class="default-btn">Send Money Now</a>
+                            <a href="tel:*110*027-588-8935#" class="default-btn">Proceed</a>
                         </div>
                     </div>
                 </div>
@@ -53,7 +53,7 @@
                         <h3 class="text-primary"><a href="https://gofund.me/c775ebf7" target="_blank">Support via International GoFundMe</a></h3>
                         <p class="text-black">Support us globally through our secure GoFundMe campaign.</p>
                         <div class="cause-btn-time">
-                            <a href="https://gofund.me/c775ebf7" target="_blank" class="default-btn">Donate Now (GoFundMe)</a>
+                            <a href="https://gofund.me/c775ebf7" target="_blank" class="default-btn">Proceed to (GoFundMe)</a>
                         </div>
                     </div>
                 </div>

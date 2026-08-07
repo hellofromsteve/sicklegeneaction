@@ -80,7 +80,7 @@
                             <div class="h-100 shadow-sm text-center">
                                 <img src="{{ asset('img/goals/goal4.jpeg') }}"
                                      class="img-fluid mx-auto"
-                                     style="max-height: 180px; object-fit: contain;"
+                                     style="max-height: 300px;"
                                      alt="Dedicated health professionals at post">
                             </div>
                         </div>

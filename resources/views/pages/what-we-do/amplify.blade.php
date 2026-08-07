@@ -10,12 +10,13 @@
 
                 <div class="mt-30">
                     <h5 class="text-black fw-bold"> Our Aim</h5>
-                    <p class="text-black m-0 pb-0">Our aim is to amplify the voices of Sickle Cell Warriors and families so that decision‑makers hear their lived experiences and act on them:</p>
+                    <p class="text-black m-0 pb-0">Our aim is to amplify the voices of Sickle Cell Warriors and families so that decision‑makers hear their lived experiences and act on them.</p>
+                    <p class="text-black m-0 pb-0">To accomplish this:</p>
                     <div class="text-justify">
-                        <p class="text-black m-0">• help Warriors and caregivers tell their stories in the media and at community forums.</p>
-                        <p class="text-black m-0">• equip representatives to participate in policy, strategy, and clinical guideline meetings.</p>
-                        <p class="text-black m-0">• reduce stigma through human‑centered storytelling and public engagement.</p>
-                        <p class="text-black m-0">•	The Government of Ghana will receive public support it needs for implementing its Strategic Plan for SCD.</p>
+                        <p class="text-black m-0">• we help Warriors and caregivers tell their stories in the media and at community forums.</p>
+                        <p class="text-black m-0">• we equip representatives to participate in policy, strategy, and clinical guideline meetings.</p>
+                        <p class="text-black m-0">• we reduce stigma through human‑centered storytelling and public engagement.</p>
+                        <p class="text-black m-0">•	we work to help the Government of Ghana connect with our Warriors so that it can receive the public support it needs to implementing its Strategic Plan for SCD.</p>
                     </div>
 
                 </div>
