@@ -145,7 +145,7 @@ in Ghana.</h5>
                     <h5>To Save Children From the Trauma of Abuse</h5>
                 </div>
                 <div class="donate-btn">
-                    <a href="https://goo.gl/HtFL2a" class="default-btn">Donate now</a>
+                    <a href="{{ route('how-to-help') }}" class="default-btn">How you can help</a>
                 </div>
             </div>
         </div>
