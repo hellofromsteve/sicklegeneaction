@@ -1,4 +1,4 @@
-<x-layout title="Home">
+<x-layout title="Home" description="The Ghana Foundation for Sickle Gene Action (SGAF) works to save lives from sickle cell disease through early screening, treatment, and advocacy across Ghana.">
 
     <!-- Slider Area Start -->
     <div class=" py-5 text-center" style="background-color: #D5EDFF;">

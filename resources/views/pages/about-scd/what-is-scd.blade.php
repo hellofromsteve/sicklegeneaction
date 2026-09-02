@@ -1,4 +1,4 @@
-<x-layout title="What Is Sickle Cell Disease">
+<x-layout title="What Is Sickle Cell Disease" description="Sickle cell disease makes round red blood cells sickle-shaped, causing severe pain and serious complications. Learn the basics of this condition." image="img/scd/what-is-scd1.png">
 
     <!-- What Is SCD Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

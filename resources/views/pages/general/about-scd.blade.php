@@ -1,4 +1,4 @@
-<x-layout title="About Sickle Cell Disease">
+<x-layout title="About Sickle Cell Disease" description="Learn what sickle cell disease is, what causes it, who it affects, and how early screening, treatment, and care help SCD warriors live full lives." image="img/gallery/image3.jpeg">
 
     <!-- About SCD Start -->
     <div class="help-area pt-10 pb-50 ptb-sm-60 ">

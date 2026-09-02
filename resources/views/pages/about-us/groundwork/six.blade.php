@@ -1,4 +1,4 @@
-<x-layout title="Our Groundwork - Six">
+<x-layout title="Our Groundwork - Six" description="The Kumasi Sickle Cell and Blood Centre: Ghana's groundwork for a center of excellence in sickle cell disease treatment and research." image="img/about/groundworks/ksc3.png">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

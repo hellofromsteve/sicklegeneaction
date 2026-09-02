@@ -1,4 +1,4 @@
-<x-layout title="Newborn Screening (NBS)">
+<x-layout title="Newborn Screening (NBS)" description="Goal #1: SGAF works to restore and scale up universal newborn screening for sickle cell disease, in alignment with Ghana's National Strategy." image="img/goals/goal1.jpeg">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

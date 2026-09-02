@@ -1,4 +1,4 @@
-<x-layout title="Battle #2 - Negative Beliefs & Actions">
+<x-layout title="Battle #2 - Negative Beliefs & Actions" description="Battle #2: how misinformation and unkindness lead to social and employment exclusion for Sickle Cell Warriors, and how it can be overcome." image="img/scd/battle2-1.jpg">
 
     <!--  Start -->
 

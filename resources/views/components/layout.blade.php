@@ -5,9 +5,29 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{{ isset($title) ? "$title - Sickle Gene Action Foundation" : "Sickle Gene Action Foundation" }}</title>
-    <meta name="description" content="">
+    @php
+        $pageTitle = isset($title) ? "$title - Sickle Gene Action Foundation" : "Sickle Gene Action Foundation";
+        $metaDescription = $description ?? 'The Ghana Foundation for Sickle Gene Action (SGAF) advocates for early diagnosis, treatment, and support for people living with sickle cell disease in Ghana. Advocacy and Action Saves Lives.';
+        $ogImage = isset($image) ? asset($image) : asset('img/slider/slidermain.jpg');
+    @endphp
+    <title>{{ $pageTitle }}</title>
+    <meta name="description" content="{{ $metaDescription }}">
+    <link rel="canonical" href="{{ url()->current() }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Sickle Gene Action Foundation">
+    <meta property="og:title" content="{{ $pageTitle }}">
+    <meta property="og:description" content="{{ $metaDescription }}">
+    <meta property="og:url" content="{{ url()->current() }}">
+    <meta property="og:image" content="{{ $ogImage }}">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ $pageTitle }}">
+    <meta name="twitter:description" content="{{ $metaDescription }}">
+    <meta name="twitter:image" content="{{ $ogImage }}">
 
     <!-- favicon
     ============================================ -->

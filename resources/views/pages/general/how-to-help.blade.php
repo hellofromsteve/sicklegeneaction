@@ -1,4 +1,4 @@
-<x-layout title="How You Can Help">
+<x-layout title="How You Can Help" description="Make an individual donation, honor a Sickle Cell Warrior with a gift, or arrange an organizational donation to help reduce SCD deaths in Ghana." image="img/donation/sgafgofundme.jpg">
 
     @section('head')
         <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">

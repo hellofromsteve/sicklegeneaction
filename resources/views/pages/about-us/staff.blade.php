@@ -1,4 +1,4 @@
-<x-layout title="Our Staff">
+<x-layout title="Our Staff" description="Meet the dedicated staff of the Sickle Gene Action Foundation working to advance sickle cell disease advocacy, screening, and care in Ghana.">
 
     <!-- Our Staff Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

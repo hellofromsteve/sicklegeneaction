@@ -1,4 +1,4 @@
-<x-layout title="Our Mision & Vision">
+<x-layout title="Our Mision & Vision" description="Our mission is to build on 30 years of progress in Ghana; our vision is a Ghana where Sickle Cell Warriors live free of preventable pain and premature loss of life." image="img/about/healthy_baby.jpg">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

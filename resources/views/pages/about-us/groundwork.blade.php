@@ -1,4 +1,4 @@
-<x-layout title="Our Groundwork">
+<x-layout title="Our Groundwork" description="Explore 8 key accomplishments (1992-2022) that laid the groundwork for sickle cell disease screening, treatment, and advocacy in Ghana." image="img/about/groundwork1.png">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

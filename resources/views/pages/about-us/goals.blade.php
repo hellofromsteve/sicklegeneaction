@@ -1,4 +1,4 @@
-<x-layout title="Our Goals">
+<x-layout title="Our Goals" description="Our goals align with Ghana's National Strategy for Sickle Cell Disease, ensuring Warriors and families have access to 6 elements of excellent SCD care." image="img/goals/goal1.jpeg">
 
     <!-- Our Goals Start -->
     <div class="help-area pt-40 pb-20 ptb-sm-10 ">

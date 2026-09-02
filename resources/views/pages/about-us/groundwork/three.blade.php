@@ -1,4 +1,4 @@
-<x-layout title="Our Groundwork - Three">
+<x-layout title="Our Groundwork - Three" description="Hydroxyurea (2018-2022): how a public-private partnership with Novartis expanded affordable access to this disease-altering SCD drug in Ghana." image="img/about/groundworks/groundwork3-1.png">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

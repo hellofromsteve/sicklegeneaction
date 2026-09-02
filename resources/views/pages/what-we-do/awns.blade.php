@@ -1,4 +1,4 @@
-<x-layout title="Align with National Strategy">
+<x-layout title="Align with National Strategy" description="SGAF aligns with Ghana's National Strategy for Sickle Cell Disease (2024), supporting all 6 implementation strategies to improve SCD health outcomes." image="img/about/national-strategy.jpeg">
 
     <!-- What We Do Alignment Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

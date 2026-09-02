@@ -1,4 +1,4 @@
-<x-layout title="Outreach Services">
+<x-layout title="Outreach Services" description="Goal #3: SGAF creates partnerships with community organizations to extend sickle cell disease care and outreach services across Ghana." image="img/goals/goal3.jpeg">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

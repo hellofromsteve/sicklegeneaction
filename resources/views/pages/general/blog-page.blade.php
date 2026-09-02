@@ -1,4 +1,4 @@
-<x-layout title="Blog & Articles">
+<x-layout title="Blog & Articles" description="Read news, articles, and stories from the Sickle Gene Action Foundation on sickle cell disease advocacy, screening, and treatment in Ghana." image="img/blog/sgaf-launch.jpg">
     <!-- Blog Section Start -->
     <div class="blog-section ptb-100 ptb-sm-60">
         <div class="container">

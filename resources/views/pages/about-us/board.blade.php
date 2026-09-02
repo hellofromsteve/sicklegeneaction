@@ -1,4 +1,4 @@
-<x-layout title="Our Board">
+<x-layout title="Our Board" description="Meet the Board of Directors guiding the Sickle Gene Action Foundation's strategy in the fight against sickle cell disease in Ghana.">
 
     <!-- Our Board Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

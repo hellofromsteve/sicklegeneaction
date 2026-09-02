@@ -1,4 +1,4 @@
-<x-layout title="Our Groundwork - Four">
+<x-layout title="Our Groundwork - Four" description="Global partnerships and collaborations: how Prof. Ohene-Frempong's leadership benefited Sickle Cell Warriors and families around the world." image="img/about/groundworks/founding-members.png">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

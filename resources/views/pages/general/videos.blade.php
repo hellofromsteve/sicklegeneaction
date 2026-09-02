@@ -1,4 +1,4 @@
-<x-layout title="Videos">
+<x-layout title="Videos" description="Watch videos from the Sickle Gene Action Foundation on awareness campaigns, screening events, and stories from the fight against sickle cell disease.">
     <!-- Videos Area Start -->
     <div class="videos-page pt-115 pb-120 ptb-sm-60">
         <div class="container">

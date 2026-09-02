@@ -1,4 +1,4 @@
-<x-layout title="Our Groundwork - One">
+<x-layout title="Our Groundwork - One" description="The Sickle Cell Foundation of Ghana, founded by Prof. Ohene-Frempong in 2004, became a source of national and global leadership in SCD advocacy." image="img/about/groundwork1.png">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

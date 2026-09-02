@@ -1,4 +1,4 @@
-<x-layout title="How SCD Can Be Cured">
+<x-layout title="How SCD Can Be Cured" description="As of 2025, bone marrow transplantation and gene therapy are the only known cures for sickle cell disease. Learn what each option involves." image="img/about/canitbecure.jpeg">
 
     <!-- How SCD Can Be Cured Start -->
     <div class="help-area pt-10 pb-40 ptb-sm-60">

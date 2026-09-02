@@ -1,4 +1,4 @@
-<x-layout title="How SCD Can Be Treated and Managed">
+<x-layout title="How SCD Can Be Treated and Managed" description="Proven strategies for treating and managing sickle cell disease in Ghana, from newborn screening and counseling to pain management and hydroxyurea.">
 
     <!-- Treated & Manage Start -->
 

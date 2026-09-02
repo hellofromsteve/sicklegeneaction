@@ -1,4 +1,4 @@
-<x-layout title="Our Values">
+<x-layout title="Our Values" description="Compassion, commitment, collaboration, and cooperation: discover the core values guiding the Sickle Gene Action Foundation's work in Ghana." image="img/about/value2.jpeg">
 
     <!-- Our Values Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

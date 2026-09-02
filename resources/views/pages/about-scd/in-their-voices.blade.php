@@ -1,4 +1,4 @@
-<x-layout title="In Their Own Voices">
+<x-layout title="In Their Own Voices" description="Numbers have names: hear the faces and voices of Sickle Cell Warriors and their families behind the world's sickle cell disease statistics.">
 
     <!-- In Their Own Voices Start -->
 

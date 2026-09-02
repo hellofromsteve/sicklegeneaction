@@ -1,4 +1,4 @@
-<x-layout title="Needs & Advancement">
+<x-layout title="Needs & Advancement" description="SGAF gathers information to identify gaps, priorities, and opportunities, building ongoing support for sickle cell partners across Ghana's 16 regions." image="img/about/ghana-map.jpg">
 
     <!-- Needs & Advancement Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

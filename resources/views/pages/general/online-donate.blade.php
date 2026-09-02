@@ -1,4 +1,4 @@
-<x-layout title="Online Donate">
+<x-layout title="Online Donate" description="Donate online to help reduce sickle cell disease deaths and improve lives in Ghana through SGAF's screening, treatment, and advocacy partnerships." image="img/donation/sgafgofundme.jpg">
     @section('head')
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     @endsection

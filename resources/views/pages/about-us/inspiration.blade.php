@@ -1,4 +1,4 @@
-<x-layout title="Our Inspiration">
+<x-layout title="Our Inspiration" description="In memory of Kwaku Ohene-Frempong (1946-2022), a global leader in sickle cell disease and the inspiration behind the Sickle Gene Action Foundation." image="img/home/inspiration1.jpeg">
 
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">
         <div class="container text-center">

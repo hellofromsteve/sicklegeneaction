@@ -1,4 +1,4 @@
-<x-layout title="What We Do">
+<x-layout title="What We Do" description="See how SGAF raises awareness, fills screening gaps, amplifies warrior voices, and aligns with Ghana's National Strategy to fight sickle cell disease." image="img/gallery/image8.jpeg">
 
     <!-- What We Do Start -->
     <div class="help-area pt-50 pb-115 ptb-sm-60 ">

@@ -1,4 +1,4 @@
-<x-layout title="About Us">
+<x-layout title="About Us" description="Learn about the Sickle Gene Action Foundation: our mission, groundwork, goals, and the team advocating for sickle cell disease action across Ghana.">
 
     <!-- About Us Start -->
     <div class="help-area pt-50 pb-115 ptb-sm-60 ">

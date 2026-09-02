@@ -1,4 +1,4 @@
-<x-layout title="Medicines, Technologies, and Innovation">
+<x-layout title="Medicines, Technologies, and Innovation" description="Goal #4: SGAF works to restore and expand affordable access to hydroxyurea and other treatments for sickle cell disease in Ghana." image="img/goals/goal4.jpeg">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

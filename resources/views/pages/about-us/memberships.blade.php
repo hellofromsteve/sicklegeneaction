@@ -1,4 +1,4 @@
-<x-layout title="Our Memberships">
+<x-layout title="Our Memberships" description="See the coalitions and boards SGAF belongs to, including Ghana's National Strategy for SCD, the World Sickle Cell Coalition, and more.">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

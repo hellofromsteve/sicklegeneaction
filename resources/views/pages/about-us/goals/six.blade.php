@@ -1,4 +1,4 @@
-<x-layout title="Facilities, Equoment & Infrastructure">
+<x-layout title="Facilities, Equoment & Infrastructure" description="Goal #6: SGAF supports completion of the Kumasi Center for SCD Excellence and other facilities to improve sickle cell disease care in Ghana." image="img/about/groundworks/ksc3.png">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

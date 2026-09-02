@@ -1,4 +1,4 @@
-<x-layout title="Catch-Up Screening (NBS)">
+<x-layout title="Catch-Up Screening (NBS)" description="Goal #2: SGAF works to expand point-of-care catch-up screening for children and youth who missed newborn screening for sickle cell disease." image="img/goals/goal22.jpeg">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

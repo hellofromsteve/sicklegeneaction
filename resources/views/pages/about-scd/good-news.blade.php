@@ -1,4 +1,4 @@
-<x-layout title="The Good News">
+<x-layout title="The Good News" description="With early screening and good medical care, people born with sickle cell disease can live full, happy, and productive lives. Read Ade's story." image="img/scd/ade.png">
 
     <!-- The Good News Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

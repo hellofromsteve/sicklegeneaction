@@ -1,4 +1,4 @@
-<x-layout title="Contact Us">
+<x-layout title="Contact Us" description="Get in touch with the Sickle Gene Action Foundation to learn more, partner with us, or get involved in scaling up sickle cell screening and treatment in Ghana.">
 
     <!-- Banner Area Start -->
     <div class="about-us-section py-5 bg-light text-center">
@@ -52,7 +52,7 @@
                                 <span class="text-danger d-block mt-1">{{ $message }}</span>
                                 @enderror
                             </div>
-                            {!! NoCaptcha::display() !!}
+                            {!! \Anhskohbo\NoCaptcha\Facades\NoCaptcha::display() !!}
                             @error('g-recaptcha-response')
                             <span class="text-red-600 text-sm">{{ $message }}</span>
                             @enderror

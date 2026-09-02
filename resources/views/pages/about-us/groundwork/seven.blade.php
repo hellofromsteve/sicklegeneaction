@@ -1,4 +1,4 @@
-<x-layout title="Our Groundwork - Seven">
+<x-layout title="Our Groundwork - Seven" description="A model for compassion, commitment, collaboration, cooperation, and collegiality in unrelenting advocacy for sickle cell disease care in Ghana.">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

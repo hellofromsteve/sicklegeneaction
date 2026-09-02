@@ -1,4 +1,4 @@
-<x-layout title="We Fill Screening Gaps">
+<x-layout title="We Fill Screening Gaps" description="SGAF fills screening gaps by reaching people missed at birth, organizing catch-up screening events, and linking families to SCD care in Ghana." image="img/gallery/image19.jpeg">
 
     <!-- We Fill Screening Gaps Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

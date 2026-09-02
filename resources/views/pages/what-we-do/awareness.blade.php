@@ -1,4 +1,4 @@
-<x-layout title="We Raise Awareness">
+<x-layout title="We Raise Awareness" description="SGAF raises public awareness of sickle cell disease so Warriors and families get the healthcare, respect, and support they need and deserve." image="img/home/programwithschool.jpeg">
 
     <!-- We Raise Awareness Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

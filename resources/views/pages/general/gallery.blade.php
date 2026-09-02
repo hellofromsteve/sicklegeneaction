@@ -1,4 +1,4 @@
-<x-layout title="Our Gallery">
+<x-layout title="Our Gallery" description="Browse photos from SGAF's screening drives, awareness campaigns, and community outreach events in the fight against sickle cell disease in Ghana." image="img/gallery/image1.jpeg">
     <!-- Gallery Area Start -->
     <div class="gallery-page pt-115 pb-120 ptb-sm-60 gallery-section">
         <div class="container">

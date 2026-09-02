@@ -1,4 +1,4 @@
-<x-layout title="Battle #3 - Medical Care Scarcity">
+<x-layout title="Battle #3 - Medical Care Scarcity" description="Battle #3: living where medical care and advocacy are scarce makes life harder for Sickle Cell Warriors who need trained clinicians and resources." image="img/scd/battle3-1.jpg">
 
     <!--  Start -->
 

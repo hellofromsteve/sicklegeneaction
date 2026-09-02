@@ -1,4 +1,4 @@
-<x-layout title="Battle #1 - Simply Having The Disease">
+<x-layout title="Battle #1 - Simply Having The Disease" description="Battle #1: the emotional toll of sickle cell disease itself, from physical pain and complications to the daily inconvenience of managing care." image="img/scd/battle-one.jpg">
 
     <!--  Start -->
 

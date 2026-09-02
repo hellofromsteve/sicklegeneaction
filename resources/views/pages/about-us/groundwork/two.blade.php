@@ -1,4 +1,4 @@
-<x-layout title="Our Groundwork - Two">
+<x-layout title="Our Groundwork - Two" description="The National Newborn Screening Programme (1992-2022): a timeline of Ghana's crucial life-saving groundwork for sickle cell disease screening." image="img/about/groundwork2.png">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

@@ -1,4 +1,4 @@
-<x-layout title="Our Advisory Board">
+<x-layout title="Our Advisory Board" description="Meet the Advisory Board bringing expertise and guidance to the Sickle Gene Action Foundation's sickle cell disease advocacy work in Ghana.">
 
     <!-- Our Advisory Board Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

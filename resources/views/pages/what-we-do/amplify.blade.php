@@ -1,4 +1,4 @@
-<x-layout title="We Amplify SCD Warrior Voices">
+<x-layout title="We Amplify SCD Warrior Voices" description="SGAF amplifies the voices of Sickle Cell Warriors and families so decision-makers hear their experiences and act on them in Ghana's SCD strategy." image="img/gallery/image30.jpeg">
 
     <!-- Amplify SCD Warriors Start -->
     <div class="help-area pt-10 pb-115 ptb-sm-60 ">

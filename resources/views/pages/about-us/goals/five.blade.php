@@ -1,4 +1,4 @@
-<x-layout title="A Skilled and Well-Trained Workforce">
+<x-layout title="A Skilled and Well-Trained Workforce" description="Goal #5: SGAF works to restore training programs for newborn screening and hydroxyurea use, building a skilled sickle cell disease workforce." image="img/goals/goal5.jpeg">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

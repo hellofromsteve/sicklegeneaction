@@ -1,4 +1,4 @@
-<x-layout title="What Causes Sickle Cell Disease">
+<x-layout title="What Causes Sickle Cell Disease" description="10 simple facts explaining the genetics behind sickle cell disease — how genes from both parents combine to cause this complex condition." image="img/scd/about-scd1.jpg">
 
     <!-- Causes Start -->
     <div class="help-area pt-10 pb-40 ptb-sm-60">

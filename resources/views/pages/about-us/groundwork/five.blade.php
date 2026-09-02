@@ -1,4 +1,4 @@
-<x-layout title="Our Groundwork - Five">
+<x-layout title="Our Groundwork - Five" description="As of 2022, 21 Sickle Cell Centers across Ghana provide specialized treatment and care for people living with sickle cell disease.">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

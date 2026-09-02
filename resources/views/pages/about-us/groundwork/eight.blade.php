@@ -1,4 +1,4 @@
-<x-layout title="Our Groundwork - Eight">
+<x-layout title="Our Groundwork - Eight" description="The SPARCo Standards of Care (August 2023): evidence-based sickle cell disease treatment guidelines tailored for Sub-Saharan Africa." image="img/about/groundworks/sparco1.png">
 
     <!-- About Us Start -->
     <div class="help-area pt-10 pb-80 ptb-sm-60 ">

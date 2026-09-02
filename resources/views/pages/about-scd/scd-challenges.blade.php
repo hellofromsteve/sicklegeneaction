@@ -1,4 +1,4 @@
-<x-layout title="The Challenges of Living With SCD">
+<x-layout title="The Challenges of Living With SCD" description="Living with sickle cell disease affects Warriors and families medically, physically, socially, and emotionally. Explore the challenges they face.">
 
     <!-- Challenges With Living With SCD Start -->
     <div class="help-area pt-10 pb-40 ptb-sm-60">

@@ -1,4 +1,4 @@
-<x-layout title="Who Is Affected By SCD">
+<x-layout title="Who Is Affected By SCD" description="Sub-Saharan Africa has the world's highest numbers of sickle cell disease births, and SCD is common in Ghana. Learn who is affected globally.">
 
     <!-- Who Is Affected Start -->
 
