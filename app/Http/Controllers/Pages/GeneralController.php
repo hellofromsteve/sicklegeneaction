@@ -156,7 +156,7 @@ class GeneralController extends Controller
 
         try {
             $emails = [
-                config('app.email.owner'),
+                // config('app.email.owner'),
                 config('app.email.developer'),
             ];
 
