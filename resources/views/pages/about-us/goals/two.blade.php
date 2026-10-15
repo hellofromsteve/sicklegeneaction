@@ -17,8 +17,7 @@
 
                 <div class="text-justify pt-20 ps-5 pe-4">
                     <h5 class="text-black">Our Goal for Future Catch-Up Screening Programs</h5>
-                    <p class="text-black">To assist in expanding the availability of point-of-care testing (POCT) for children and youth who were not screened for sickle cell disease
-                        <br> at birth </p>
+                    <p class="text-black">To assist in expanding the availability of point-of-care testing (POCT) for children and youth who were not screened for sickle cell disease at birth.</p>
                 </div>
 
 

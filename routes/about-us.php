@@ -35,8 +35,8 @@ Route::prefix('about-us/groundwork')->name('groundwork.')->group(function () {
 Route::prefix('about-us/goals')->name('goals.')->group(function () {
     Route::get('/new-born-screening', [GoalsController::class, 'one'])->name('one');
     Route::get('/catch-up-screening', [GoalsController::class, 'two'])->name('two');
-    Route::get('/outreach-services', [GoalsController::class, 'three'])->name('three');
-    Route::get('/med-tech-innovations', [GoalsController::class, 'four'])->name('four');
-    Route::get('/well-trained-workforce', [GoalsController::class, 'five'])->name('five');
-    Route::get('/facilities-equipments', [GoalsController::class, 'six'])->name('six');
+    Route::get('/facilities-equipments', [GoalsController::class, 'three'])->name('three');
+    Route::get('/well-trained-workforce', [GoalsController::class, 'four'])->name('four');
+    Route::get('/med-tech-innovations', [GoalsController::class, 'five'])->name('five');
+    Route::get('/outreach-services', [GoalsController::class, 'six'])->name('six');
 });

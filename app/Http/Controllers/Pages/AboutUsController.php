@@ -81,22 +81,22 @@ class AboutUsController extends Controller
             ],
             [
                 'id' => 3,
-                'title' => 'Outreach Services',
+                'title' => 'Facilities, Equipment, & Infrastructure',
                 'route' => 'goals.three',
             ],
             [
                 'id' => 4,
-                'title' => "Medicine, Technologies, & Innovations",
+                'title' => 'A Skilled & Well-Trained Workforce',
                 'route' => 'goals.four',
             ],
             [
                 'id' => 5,
-                'title' => 'A Skilled & Well-Trained Workforce',
+                'title' => 'Medicine, Technologies, & Innovations',
                 'route' => 'goals.five',
             ],
             [
                 'id' => 6,
-                'title' => 'Facilities, Equipment, Supplies & Infrastructure',
+                'title' => 'Outreach Services',
                 'route' => 'goals.six',
             ],
 
